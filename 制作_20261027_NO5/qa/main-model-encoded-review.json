@@ -1,0 +1,25 @@
+{
+  "reviewed_by": "main_model",
+  "encoded_contacts": [
+    "encoded-contact-1.jpg",
+    "encoded-contact-2.jpg",
+    "encoded-contact-3.jpg",
+    "encoded-contact-4.jpg",
+    "encoded-contact-5.jpg",
+    "encoded-contact-6.jpg",
+    "encoded-contact-7.jpg"
+  ],
+  "boundaries": "encoded-boundaries.jpg",
+  "extracted_frames": 175,
+  "findings": "已看35幕发展/中段/落定及全部切镜边界，原文字幕和来源标签正常，3950/3975/3995.8口径清楚；支撑带标签不重叠，未见黑屏与图片替代底层；人物为官方原照抠图叠加，23条横屏实拍持续运动，收尾不放封面。",
+  "audio_overall": {
+    "peak_db": -6.857734,
+    "rms_db": -27.77067,
+    "nan": 0,
+    "inf": 0
+  },
+  "human_full_listening": "not_performed",
+  "user_aesthetic_acceptance": "not_performed",
+  "normal_speed_full_playback": "completed",
+  "playback_record": "full-playback-record.json"
+}

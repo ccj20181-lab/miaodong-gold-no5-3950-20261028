@@ -1,0 +1,238 @@
+{
+  "text": "我会继续跟踪黄金最新动态有新的变化第一时间更新我们下期见",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.84,
+      "text": "我会继续跟踪黄金最新动态",
+      "tokens": [
+        50365,
+        1654,
+        12949,
+        10115,
+        100,
+        10115,
+        255,
+        9678,
+        41166,
+        103,
+        6173,
+        226,
+        19117,
+        8661,
+        12560,
+        34961,
+        3757,
+        223,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1957300587704307,
+      "compression_ratio": 0.9333333333333333,
+      "no_speech_prob": 7.019782324868551e-12,
+      "words": [
+        {
+          "word": "我",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.98681640625
+        },
+        {
+          "word": "会",
+          "start": 0.26,
+          "end": 0.36,
+          "probability": 0.98876953125
+        },
+        {
+          "word": "继",
+          "start": 0.36,
+          "end": 0.5,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "续",
+          "start": 0.5,
+          "end": 0.6,
+          "probability": 1.0
+        },
+        {
+          "word": "跟",
+          "start": 0.6,
+          "end": 0.74,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "踪",
+          "start": 0.74,
+          "end": 0.88,
+          "probability": 0.998046875
+        },
+        {
+          "word": "黄",
+          "start": 0.88,
+          "end": 1.04,
+          "probability": 0.9921875
+        },
+        {
+          "word": "金",
+          "start": 1.04,
+          "end": 1.18,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "最",
+          "start": 1.18,
+          "end": 1.34,
+          "probability": 0.98828125
+        },
+        {
+          "word": "新",
+          "start": 1.34,
+          "end": 1.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "动",
+          "start": 1.54,
+          "end": 1.62,
+          "probability": 0.9873046875
+        },
+        {
+          "word": "态",
+          "start": 1.62,
+          "end": 1.84,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.84,
+      "end": 3.6,
+      "text": "有新的变化第一时间更新",
+      "tokens": [
+        50465,
+        2412,
+        12560,
+        1546,
+        2129,
+        246,
+        23756,
+        18049,
+        44848,
+        19002,
+        12560,
+        50551
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1957300587704307,
+      "compression_ratio": 0.9333333333333333,
+      "no_speech_prob": 7.019782324868551e-12,
+      "words": [
+        {
+          "word": "有",
+          "start": 1.84,
+          "end": 2.24,
+          "probability": 0.9736328125
+        },
+        {
+          "word": "新",
+          "start": 2.24,
+          "end": 2.38,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "的",
+          "start": 2.38,
+          "end": 2.48,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "变",
+          "start": 2.48,
+          "end": 2.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "化",
+          "start": 2.62,
+          "end": 2.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "第一",
+          "start": 2.76,
+          "end": 3.02,
+          "probability": 0.66552734375
+        },
+        {
+          "word": "时间",
+          "start": 3.02,
+          "end": 3.28,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "更",
+          "start": 3.28,
+          "end": 3.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "新",
+          "start": 3.42,
+          "end": 3.6,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.6,
+      "end": 4.5,
+      "text": "我们下期见",
+      "tokens": [
+        50551,
+        15003,
+        4438,
+        16786,
+        23813,
+        50599
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1957300587704307,
+      "compression_ratio": 0.9333333333333333,
+      "no_speech_prob": 7.019782324868551e-12,
+      "words": [
+        {
+          "word": "我们",
+          "start": 3.6,
+          "end": 4.0,
+          "probability": 0.95361328125
+        },
+        {
+          "word": "下",
+          "start": 4.0,
+          "end": 4.24,
+          "probability": 0.99609375
+        },
+        {
+          "word": "期",
+          "start": 4.24,
+          "end": 4.38,
+          "probability": 0.998046875
+        },
+        {
+          "word": "见",
+          "start": 4.38,
+          "end": 4.5,
+          "probability": 0.9990234375
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

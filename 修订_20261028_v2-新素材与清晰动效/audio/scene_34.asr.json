@@ -1,0 +1,147 @@
+{
+  "text": "我们不当韭菜只做先知先觉的那拨人",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.86,
+      "text": "我们不当韭菜",
+      "tokens": [
+        50365,
+        15003,
+        1960,
+        16233,
+        13665,
+        255,
+        33025,
+        50410
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12662352215160022,
+      "compression_ratio": 0.8135593220338984,
+      "no_speech_prob": 7.414988761889063e-12,
+      "words": [
+        {
+          "word": "我们",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.98876953125
+        },
+        {
+          "word": "不",
+          "start": 0.26,
+          "end": 0.42,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "当",
+          "start": 0.42,
+          "end": 0.54,
+          "probability": 0.998046875
+        },
+        {
+          "word": "韭",
+          "start": 0.54,
+          "end": 0.68,
+          "probability": 0.9521484375
+        },
+        {
+          "word": "菜",
+          "start": 0.68,
+          "end": 0.86,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.86,
+      "end": 2.7,
+      "text": "只做先知先觉的那拨人",
+      "tokens": [
+        50410,
+        14003,
+        10907,
+        10108,
+        6498,
+        10108,
+        24447,
+        1546,
+        4184,
+        6852,
+        101,
+        4035,
+        50503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12662352215160022,
+      "compression_ratio": 0.8135593220338984,
+      "no_speech_prob": 7.414988761889063e-12,
+      "words": [
+        {
+          "word": "只",
+          "start": 0.86,
+          "end": 1.42,
+          "probability": 0.78271484375
+        },
+        {
+          "word": "做",
+          "start": 1.42,
+          "end": 1.56,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "先",
+          "start": 1.56,
+          "end": 1.74,
+          "probability": 0.982421875
+        },
+        {
+          "word": "知",
+          "start": 1.74,
+          "end": 1.9,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "先",
+          "start": 1.9,
+          "end": 2.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "觉",
+          "start": 2.06,
+          "end": 2.2,
+          "probability": 0.97607421875
+        },
+        {
+          "word": "的",
+          "start": 2.2,
+          "end": 2.32,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "那",
+          "start": 2.32,
+          "end": 2.42,
+          "probability": 0.994140625
+        },
+        {
+          "word": "拨",
+          "start": 2.42,
+          "end": 2.56,
+          "probability": 0.9267578125
+        },
+        {
+          "word": "人",
+          "start": 2.56,
+          "end": 2.7,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

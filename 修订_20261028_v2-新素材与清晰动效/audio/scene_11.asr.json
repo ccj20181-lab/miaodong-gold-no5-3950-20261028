@@ -1,0 +1,240 @@
+{
+  "text": "早在10月15日他就发过一份报告标题就叫The final washout into an October bottom",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.24,
+      "text": "早在10月15日他就发过一份报告",
+      "tokens": [
+        50365,
+        21176,
+        3581,
+        3279,
+        6939,
+        5211,
+        6890,
+        5000,
+        3111,
+        28926,
+        16866,
+        2257,
+        36266,
+        49817,
+        16846,
+        50480
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22211780267603257,
+      "compression_ratio": 0.9108910891089109,
+      "no_speech_prob": 7.826355882811775e-12,
+      "words": [
+        {
+          "word": "早",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.9833984375
+        },
+        {
+          "word": "在",
+          "start": 0.18,
+          "end": 0.34,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "10",
+          "start": 0.34,
+          "end": 0.54,
+          "probability": 0.9677734375
+        },
+        {
+          "word": "月",
+          "start": 0.54,
+          "end": 0.64,
+          "probability": 0.98681640625
+        },
+        {
+          "word": "15",
+          "start": 0.64,
+          "end": 0.86,
+          "probability": 0.99609375
+        },
+        {
+          "word": "日",
+          "start": 0.86,
+          "end": 1.04,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "他",
+          "start": 1.04,
+          "end": 1.36,
+          "probability": 0.60302734375
+        },
+        {
+          "word": "就",
+          "start": 1.36,
+          "end": 1.5,
+          "probability": 0.94580078125
+        },
+        {
+          "word": "发",
+          "start": 1.5,
+          "end": 1.64,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "过",
+          "start": 1.64,
+          "end": 1.76,
+          "probability": 0.98681640625
+        },
+        {
+          "word": "一",
+          "start": 1.76,
+          "end": 1.84,
+          "probability": 0.9921875
+        },
+        {
+          "word": "份",
+          "start": 1.84,
+          "end": 1.94,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "报",
+          "start": 1.94,
+          "end": 2.08,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "告",
+          "start": 2.08,
+          "end": 2.24,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.24,
+      "end": 3.1,
+      "text": "标题就叫",
+      "tokens": [
+        50493,
+        162,
+        3921,
+        30716,
+        3111,
+        19855,
+        50519
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22211780267603257,
+      "compression_ratio": 0.9108910891089109,
+      "no_speech_prob": 7.826355882811775e-12,
+      "words": [
+        {
+          "word": "标",
+          "start": 2.24,
+          "end": 2.64,
+          "probability": 0.77490234375
+        },
+        {
+          "word": "题",
+          "start": 2.64,
+          "end": 2.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "就",
+          "start": 2.78,
+          "end": 2.92,
+          "probability": 0.9658203125
+        },
+        {
+          "word": "叫",
+          "start": 2.92,
+          "end": 3.1,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.1,
+      "end": 5.48,
+      "text": "The final washout into an October bottom",
+      "tokens": [
+        50531,
+        2278,
+        2572,
+        5675,
+        346,
+        666,
+        364,
+        7617,
+        2767,
+        50647
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22211780267603257,
+      "compression_ratio": 0.9108910891089109,
+      "no_speech_prob": 7.826355882811775e-12,
+      "words": [
+        {
+          "word": "The",
+          "start": 3.1,
+          "end": 3.48,
+          "probability": 0.54443359375
+        },
+        {
+          "word": " final",
+          "start": 3.48,
+          "end": 3.8,
+          "probability": 0.556640625
+        },
+        {
+          "word": " wash",
+          "start": 3.8,
+          "end": 4.02,
+          "probability": 0.96337890625
+        },
+        {
+          "word": "out",
+          "start": 4.02,
+          "end": 4.24,
+          "probability": 0.96630859375
+        },
+        {
+          "word": " into",
+          "start": 4.24,
+          "end": 4.66,
+          "probability": 0.96484375
+        },
+        {
+          "word": " an",
+          "start": 4.66,
+          "end": 4.84,
+          "probability": 0.98193359375
+        },
+        {
+          "word": " October",
+          "start": 4.84,
+          "end": 5.1,
+          "probability": 0.86474609375
+        },
+        {
+          "word": " bottom",
+          "start": 5.1,
+          "end": 5.48,
+          "probability": 0.90380859375
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

@@ -1,0 +1,35 @@
+{
+  "started": "2026-10-27T13:26:39.035Z",
+  "completed": true,
+  "ranges": [
+    {
+      "id": "scene_17-2.mp4",
+      "start": 0,
+      "duration": 9.82,
+      "started": 28934,
+      "rate": 1,
+      "actualEnd": 9.92,
+      "wallSeconds": 9.960700000047684
+    },
+    {
+      "id": "scene_21-2.mp4",
+      "start": 0,
+      "duration": 11.185333,
+      "started": 38933,
+      "rate": 1,
+      "actualEnd": 11.285333,
+      "wallSeconds": 11.344
+    },
+    {
+      "id": "scene_29-2.mp4",
+      "start": 0,
+      "duration": 10.545333000000001,
+      "started": 50311.09999990463,
+      "rate": 1,
+      "actualEnd": 10.572559,
+      "wallSeconds": 10.612700000047683
+    }
+  ],
+  "errors": [],
+  "ended": "2026-10-27T13:27:11.079Z"
+}

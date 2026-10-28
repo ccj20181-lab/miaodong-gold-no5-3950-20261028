@@ -1,0 +1,137 @@
+{
+  "text": "结果8天之后金价最低真的杀到了3975美元",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.82,
+      "text": "结果8天之后金价最低真的杀到了3975美元",
+      "tokens": [
+        50365,
+        45641,
+        9319,
+        23,
+        6135,
+        9574,
+        13547,
+        19117,
+        1550,
+        115,
+        8661,
+        41377,
+        8034,
+        4422,
+        222,
+        21381,
+        12493,
+        11901,
+        39433,
+        50560
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11646404720488049,
+      "compression_ratio": 0.828125,
+      "no_speech_prob": 5.752843947742781e-12,
+      "words": [
+        {
+          "word": "结",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.98095703125
+        },
+        {
+          "word": "果",
+          "start": 0.28,
+          "end": 0.46,
+          "probability": 1.0
+        },
+        {
+          "word": "8",
+          "start": 0.46,
+          "end": 0.7,
+          "probability": 0.7919921875
+        },
+        {
+          "word": "天",
+          "start": 0.7,
+          "end": 0.82,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "之",
+          "start": 0.82,
+          "end": 0.98,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "后",
+          "start": 0.98,
+          "end": 1.14,
+          "probability": 1.0
+        },
+        {
+          "word": "金",
+          "start": 1.14,
+          "end": 1.46,
+          "probability": 0.96484375
+        },
+        {
+          "word": "价",
+          "start": 1.46,
+          "end": 1.6,
+          "probability": 0.998046875
+        },
+        {
+          "word": "最",
+          "start": 1.6,
+          "end": 1.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "低",
+          "start": 1.74,
+          "end": 1.9,
+          "probability": 1.0
+        },
+        {
+          "word": "真的",
+          "start": 1.9,
+          "end": 2.24,
+          "probability": 0.9833984375
+        },
+        {
+          "word": "杀",
+          "start": 2.24,
+          "end": 2.44,
+          "probability": 0.953125
+        },
+        {
+          "word": "到了",
+          "start": 2.44,
+          "end": 2.64,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "39",
+          "start": 2.64,
+          "end": 2.88,
+          "probability": 0.96923828125
+        },
+        {
+          "word": "75",
+          "start": 2.88,
+          "end": 3.6,
+          "probability": 0.998046875
+        },
+        {
+          "word": "美元",
+          "start": 3.6,
+          "end": 3.82,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

@@ -1,0 +1,418 @@
+{
+  "sources": [
+    {
+      "source_id": "pexels_6263163",
+      "provider_id": "pexels:6263163",
+      "path": "materials/pexels_6263163.mp4",
+      "url": "https://www.pexels.com/video/jeweler-wroking-on-a-ring-6263163/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/6263163/6263163-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-goldsmith.json",
+        "source_url": "https://www.pexels.com/search/videos/goldsmith/"
+      },
+      "description": "Close-up of a craftsman filing a gold ring in a workshop setting.",
+      "candidate_duration": 32,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "goldsmith"
+    },
+    {
+      "source_id": "pexels_6173172",
+      "provider_id": "pexels:6173172",
+      "path": "materials/pexels_6173172.mp4",
+      "url": "https://www.pexels.com/video/a-close-up-video-of-a-golden-tiger-6173172/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/6173172/6173172-hd_1920_1080_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-gold-jewelry-store.json",
+        "source_url": "https://www.pexels.com/search/videos/gold%20jewelry%20store/"
+      },
+      "description": "Close-up view of a luxurious gold tiger bracelet glistening with precious stones.",
+      "candidate_duration": 10,
+      "width": 1920,
+      "height": 1080,
+      "research_query": "gold jewelry store"
+    },
+    {
+      "source_id": "pexels_5743128",
+      "provider_id": "pexels:5743128",
+      "path": "materials/pexels_5743128.mp4",
+      "url": "https://www.pexels.com/video/person-looking-at-dates-on-a-smartphone-5743128/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/5743128/5743128-uhd_2732_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-calendar-desk.json",
+        "source_url": "https://www.pexels.com/search/videos/calendar%20desk/"
+      },
+      "description": "Person taking notes with a pen while using a smartphone calculator.",
+      "candidate_duration": 10,
+      "width": 4096,
+      "height": 2160,
+      "research_query": "calendar desk"
+    },
+    {
+      "source_id": "pexels_26773217",
+      "provider_id": "pexels:26773217",
+      "path": "materials/pexels_26773217.mp4",
+      "url": "https://www.pexels.com/video/office-work-financial-calculations-and-reporting-26773217/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/26773217/12004503_1920_1080_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-economic-report-calculator.json",
+        "source_url": "https://www.pexels.com/search/videos/economic%20report%20calculator/"
+      },
+      "description": "Hands using a calculator and charts on a desk for financial analysis.",
+      "candidate_duration": 21,
+      "width": 1920,
+      "height": 1080,
+      "research_query": "economic report calculator"
+    },
+    {
+      "source_id": "pexels_6266264",
+      "provider_id": "pexels:6266264",
+      "path": "materials/pexels_6266264.mp4",
+      "url": "https://www.pexels.com/video/high-angle-shot-of-a-woman-counting-money-6266264/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/6266264/6266264-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-banknote-counting-machine.json",
+        "source_url": "https://www.pexels.com/search/videos/banknote%20counting%20machine/"
+      },
+      "description": "Woman using a money counter surrounded by cash and calculator.",
+      "candidate_duration": 14,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "banknote counting machine"
+    },
+    {
+      "source_id": "pexels_5364907",
+      "provider_id": "pexels:5364907",
+      "path": "materials/pexels_5364907.mp4",
+      "url": "https://www.pexels.com/video/woman-writing-to-a-planner-5364907/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/5364907/5364907-uhd_2732_1440_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-writing-planner-notes.json",
+        "source_url": "https://www.pexels.com/search/videos/writing%20planner%20notes/"
+      },
+      "description": "A woman writes in a planner indoors, focusing on scheduling tasks.",
+      "candidate_duration": 16,
+      "width": 4096,
+      "height": 2160,
+      "research_query": "writing planner notes"
+    },
+    {
+      "source_id": "pexels_3944852",
+      "provider_id": "pexels:3944852",
+      "path": "materials/pexels_3944852.mp4",
+      "url": "https://www.pexels.com/video/coffee-cup-hand-office-3944852/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/3944852/3944852-uhd_2732_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-newspaper.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20newspaper/"
+      },
+      "description": "Hand with coffee cup and newspaper on white table, perfect for business and lifestyle themes.",
+      "candidate_duration": 14,
+      "width": 4096,
+      "height": 2160,
+      "research_query": "financial newspaper"
+    },
+    {
+      "source_id": "pexels_6263486",
+      "provider_id": "pexels:6263486",
+      "path": "materials/pexels_6263486.mp4",
+      "url": "https://www.pexels.com/video/person-using-a-tool-in-smoothing-a-jewelry-6263486/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/6263486/6263486-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-goldsmith.json",
+        "source_url": "https://www.pexels.com/search/videos/goldsmith/"
+      },
+      "description": "Close-up of a jeweler crafting a gold ring with precision tools.",
+      "candidate_duration": 20,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "goldsmith"
+    },
+    {
+      "source_id": "pexels_7552421",
+      "provider_id": "pexels:7552421",
+      "path": "materials/pexels_7552421.mp4",
+      "url": "https://www.pexels.com/video/a-person-using-calculator-while-looking-at-different-charts-7552421/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7552421/7552421-hd_1920_1080_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-economic-report-calculator.json",
+        "source_url": "https://www.pexels.com/search/videos/economic%20report%20calculator/"
+      },
+      "description": "Top view of hands analyzing charts and graphs in an office setting.",
+      "candidate_duration": 14,
+      "width": 1920,
+      "height": 1080,
+      "research_query": "economic report calculator"
+    },
+    {
+      "source_id": "pexels_8425702",
+      "provider_id": "pexels:8425702",
+      "path": "materials/pexels_8425702.mp4",
+      "url": "https://www.pexels.com/video/businessperson-reviewing-documents-8425702/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/8425702/8425702-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-analyst-report.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20analyst%20report/"
+      },
+      "description": "Close-up of a businessman analyzing stock market graphs and documents.",
+      "candidate_duration": 11,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "financial analyst report"
+    },
+    {
+      "source_id": "pexels_7947425",
+      "provider_id": "pexels:7947425",
+      "path": "materials/pexels_7947425.mp4",
+      "url": "https://www.pexels.com/video/graphs-printed-on-paper-7947425/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7947425/7947425-hd_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-economic-report-calculator.json",
+        "source_url": "https://www.pexels.com/search/videos/economic%20report%20calculator/"
+      },
+      "description": "Close-up of stock charts, calculator, and pen for market analysis.",
+      "candidate_duration": 12,
+      "width": 1920,
+      "height": 1080,
+      "research_query": "economic report calculator"
+    },
+    {
+      "source_id": "pexels_5646855",
+      "provider_id": "pexels:5646855",
+      "path": "materials/pexels_5646855.mp4",
+      "url": "https://www.pexels.com/video/the-district-of-manhattan-in-new-york-city-5646855/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/5646855/5646855-hd_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-manhattan-financial-district.json",
+        "source_url": "https://www.pexels.com/search/videos/manhattan%20financial%20district/"
+      },
+      "description": "Capture of NYC skyline with ferry floating by at sunset.",
+      "candidate_duration": 17,
+      "width": 1920,
+      "height": 1080,
+      "research_query": "manhattan financial district"
+    },
+    {
+      "source_id": "pexels_7592929",
+      "provider_id": "pexels:7592929",
+      "path": "materials/pexels_7592929.mp4",
+      "url": "https://www.pexels.com/video/a-woman-reading-the-newspaper-7592929/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7592929/7592929-uhd_2732_1318_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-newspaper.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20newspaper/"
+      },
+      "description": "A woman peacefully reads a newspaper by a window in warm daylight.",
+      "candidate_duration": 15,
+      "width": 4481,
+      "height": 2160,
+      "research_query": "financial newspaper"
+    },
+    {
+      "source_id": "pexels_11271609",
+      "provider_id": "pexels:11271609",
+      "path": "materials/pexels_11271609.mp4",
+      "url": "https://www.pexels.com/video/hands-grinding-ring-11271609/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/11271609/11271609-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-silver-jewelry-workshop.json",
+        "source_url": "https://www.pexels.com/search/videos/silver%20jewelry%20workshop/"
+      },
+      "description": "Jewelry maker polishing silver ring in workshop using hand tools.",
+      "candidate_duration": 18,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "silver jewelry workshop"
+    },
+    {
+      "source_id": "pexels_29188225",
+      "provider_id": "pexels:29188225",
+      "path": "materials/pexels_29188225.mp4",
+      "url": "https://www.pexels.com/video/busy-washington-dc-intersection-with-government-building-29188225/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/29188225/12603630_2560_1440_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-washington-dc-treasury.json",
+        "source_url": "https://www.pexels.com/search/videos/washington%20dc%20treasury/"
+      },
+      "description": "A bustling intersection in Washington DC with a prominent government building.",
+      "candidate_duration": 20,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "washington dc treasury"
+    },
+    {
+      "source_id": "pexels_5909916",
+      "provider_id": "pexels:5909916",
+      "path": "materials/pexels_5909916.mp4",
+      "url": "https://www.pexels.com/video/a-person-counting-bank-notes-5909916/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/5909916/5909916-uhd_2732_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-banknote-counting-machine.json",
+        "source_url": "https://www.pexels.com/search/videos/banknote%20counting%20machine/"
+      },
+      "description": "Automated money counter machine efficiently processes currency.",
+      "candidate_duration": 22,
+      "width": 4096,
+      "height": 2160,
+      "research_query": "banknote counting machine"
+    },
+    {
+      "source_id": "pexels_6266440",
+      "provider_id": "pexels:6266440",
+      "path": "materials/pexels_6266440.mp4",
+      "url": "https://www.pexels.com/video/person-counting-money-6266440/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/6266440/6266440-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-banknote-counting-machine.json",
+        "source_url": "https://www.pexels.com/search/videos/banknote%20counting%20machine/"
+      },
+      "description": "Person using a cash counting machine to handle bundles of US dollars.",
+      "candidate_duration": 8,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "banknote counting machine"
+    },
+    {
+      "source_id": "pexels_4121754",
+      "provider_id": "pexels:4121754",
+      "path": "materials/pexels_4121754.mp4",
+      "url": "https://www.pexels.com/video/couple-paying-at-the-counter-in-the-grocery-4121754/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/4121754/4121754-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-consumer-grocery-receipt.json",
+        "source_url": "https://www.pexels.com/search/videos/consumer%20grocery%20receipt/"
+      },
+      "description": "A cashier processes groceries at a busy supermarket checkout.",
+      "candidate_duration": 14,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "consumer grocery receipt"
+    },
+    {
+      "source_id": "pexels_7687708",
+      "provider_id": "pexels:7687708",
+      "path": "materials/pexels_7687708.mp4",
+      "url": "https://www.pexels.com/video/a-person-using-a-calculator-7687708/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7687708/7687708-uhd_2560_1440_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-economic-report-calculator.json",
+        "source_url": "https://www.pexels.com/search/videos/economic%20report%20calculator/"
+      },
+      "description": "Close-up of hands using a calculator with business charts on the desk.",
+      "candidate_duration": 12,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "economic report calculator"
+    },
+    {
+      "source_id": "pexels_14609095",
+      "provider_id": "pexels:14609095",
+      "path": "materials/pexels_14609095.mp4",
+      "url": "https://www.pexels.com/video/report-analysis-14609095/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/14609095/14609095-hd_1920_1080_60fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-analyst-report.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20analyst%20report/"
+      },
+      "description": "Detailed desk setup with hands analyzing financial documents.",
+      "candidate_duration": 11,
+      "width": 1920,
+      "height": 1080,
+      "research_query": "financial analyst report"
+    },
+    {
+      "source_id": "pexels_7255353",
+      "provider_id": "pexels:7255353",
+      "path": "materials/pexels_7255353.mp4",
+      "url": "https://www.pexels.com/video/a-man-reading-newspaper-while-drinking-coffee-7255353/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7255353/7255353-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-newspaper.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20newspaper/"
+      },
+      "description": "Adult reading newspaper and drinking coffee at a cafe table.",
+      "candidate_duration": 22,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "financial newspaper"
+    },
+    {
+      "source_id": "pexels_39104011",
+      "provider_id": "pexels:39104011",
+      "path": "materials/pexels_39104011.mp4",
+      "url": "https://www.pexels.com/video/modern-skyscraper-in-new-york-city-39104011/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/39104011/16637620_2560_1440_24fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-manhattan-financial-district.json",
+        "source_url": "https://www.pexels.com/search/videos/manhattan%20financial%20district/"
+      },
+      "description": "View of towering skyscraper near Trinity Place in NYC.",
+      "candidate_duration": 10,
+      "width": 3840,
+      "height": 2160,
+      "research_query": "manhattan financial district"
+    },
+    {
+      "source_id": "pexels_5705007",
+      "provider_id": "pexels:5705007",
+      "path": "materials/pexels_5705007.mp4",
+      "url": "https://www.pexels.com/video/close-up-of-jewelry-5705007/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/5705007/5705007-uhd_2732_1440_24fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-gold-jewelry-store.json",
+        "source_url": "https://www.pexels.com/search/videos/gold%20jewelry%20store/"
+      },
+      "description": "A close-up view of elegant jewelry being admired and worn.",
+      "candidate_duration": 23,
+      "width": 4096,
+      "height": 2160,
+      "research_query": "gold jewelry store"
+    }
+  ]
+}

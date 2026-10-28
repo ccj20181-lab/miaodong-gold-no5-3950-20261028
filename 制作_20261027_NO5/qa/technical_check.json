@@ -1,0 +1,16 @@
+{
+  "revision": "3f09df99ab4c9813d605641e15e1450d4bc2013c77c1937935728bfecbdd3e3f",
+  "status": "technical_pass_visual_review_required",
+  "video": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/黄金观察NO.5-3950美元可能是最后一跌.mp4",
+  "video_sha256": "15b5bd4415056c7cfe52110b6791f0920075031cc3320d10d357ac7a48384793",
+  "video_frames": 5692,
+  "video_duration_seconds": 189.733333,
+  "audio_duration_seconds": 189.781333,
+  "container_duration_seconds": 189.781333,
+  "full_decode": "passed",
+  "black_intervals": [],
+  "encoded_frames_extracted": 175,
+  "elapsed_seconds": 8.447610458999975,
+  "visual_approval": "not_performed",
+  "full_human_listening": "not_performed"
+}

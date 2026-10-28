@@ -1,0 +1,286 @@
+{
+  "text": "上周五,现货黄金最低一度砸到3975美元创下7月20日以来新低,一周跌幅超过4%",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.68,
+      "text": "上周五,现货黄金最低一度砸到3975美元",
+      "tokens": [
+        50365,
+        5708,
+        37390,
+        21001,
+        11,
+        20204,
+        18464,
+        100,
+        6173,
+        226,
+        19117,
+        8661,
+        41377,
+        2257,
+        13127,
+        163,
+        14264,
+        4511,
+        12493,
+        11901,
+        39433,
+        50550
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06348641375277905,
+      "compression_ratio": 0.8990825688073395,
+      "no_speech_prob": 7.29884295364025e-12,
+      "words": [
+        {
+          "word": "上",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "周",
+          "start": 0.3,
+          "end": 0.42,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "五,",
+          "start": 0.42,
+          "end": 0.62,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "现",
+          "start": 0.94,
+          "end": 1.04,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "货",
+          "start": 1.04,
+          "end": 1.2,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "黄",
+          "start": 1.2,
+          "end": 1.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "金",
+          "start": 1.36,
+          "end": 1.52,
+          "probability": 1.0
+        },
+        {
+          "word": "最",
+          "start": 1.52,
+          "end": 1.7,
+          "probability": 1.0
+        },
+        {
+          "word": "低",
+          "start": 1.7,
+          "end": 1.86,
+          "probability": 1.0
+        },
+        {
+          "word": "一",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "度",
+          "start": 2.04,
+          "end": 2.16,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "砸",
+          "start": 2.16,
+          "end": 2.32,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "到",
+          "start": 2.32,
+          "end": 2.46,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "39",
+          "start": 2.46,
+          "end": 2.66,
+          "probability": 0.9609375
+        },
+        {
+          "word": "75",
+          "start": 2.66,
+          "end": 3.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "美元",
+          "start": 3.36,
+          "end": 3.68,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.68,
+      "end": 6.96,
+      "text": "创下7月20日以来新低,一周跌幅超过4%",
+      "tokens": [
+        50550,
+        2437,
+        249,
+        4438,
+        22,
+        6939,
+        2009,
+        6890,
+        3588,
+        6912,
+        12560,
+        41377,
+        11,
+        2257,
+        37390,
+        6563,
+        234,
+        3509,
+        227,
+        19869,
+        16866,
+        19,
+        4,
+        50726
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06348641375277905,
+      "compression_ratio": 0.8990825688073395,
+      "no_speech_prob": 7.29884295364025e-12,
+      "words": [
+        {
+          "word": "创",
+          "start": 3.68,
+          "end": 4.12,
+          "probability": 0.89697265625
+        },
+        {
+          "word": "下",
+          "start": 4.12,
+          "end": 4.3,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "7",
+          "start": 4.3,
+          "end": 4.48,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "月",
+          "start": 4.48,
+          "end": 4.64,
+          "probability": 1.0
+        },
+        {
+          "word": "20",
+          "start": 4.64,
+          "end": 4.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "日",
+          "start": 4.86,
+          "end": 5.04,
+          "probability": 1.0
+        },
+        {
+          "word": "以",
+          "start": 5.04,
+          "end": 5.18,
+          "probability": 1.0
+        },
+        {
+          "word": "来",
+          "start": 5.18,
+          "end": 5.28,
+          "probability": 1.0
+        },
+        {
+          "word": "新",
+          "start": 5.28,
+          "end": 5.46,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "低,",
+          "start": 5.46,
+          "end": 5.62,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "一",
+          "start": 6.0,
+          "end": 6.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "周",
+          "start": 6.06,
+          "end": 6.18,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "跌",
+          "start": 6.18,
+          "end": 6.36,
+          "probability": 0.998046875
+        },
+        {
+          "word": "幅",
+          "start": 6.36,
+          "end": 6.5,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "超",
+          "start": 6.5,
+          "end": 6.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "过",
+          "start": 6.6,
+          "end": 6.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "4",
+          "start": 6.76,
+          "end": 6.88,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "%",
+          "start": 6.88,
+          "end": 6.96,
+          "probability": 0.99072265625
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

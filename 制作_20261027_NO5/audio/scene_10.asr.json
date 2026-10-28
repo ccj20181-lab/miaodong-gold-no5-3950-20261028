@@ -1,0 +1,226 @@
+{
+  "text": "3950美元并不是金价跌下来以后托尔森才临时喊出来的数字",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.1,
+      "text": "3950美元",
+      "tokens": [
+        50365,
+        12493,
+        2803,
+        39433,
+        50423
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10471691583332263,
+      "compression_ratio": 0.8735632183908046,
+      "no_speech_prob": 6.170305152236599e-12,
+      "words": [
+        {
+          "word": "39",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.9716796875
+        },
+        {
+          "word": "50",
+          "start": 0.34,
+          "end": 0.84,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "美元",
+          "start": 0.84,
+          "end": 1.1,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.1,
+      "end": 2.78,
+      "text": "并不是金价跌下来以后",
+      "tokens": [
+        50423,
+        3509,
+        114,
+        7296,
+        19117,
+        1550,
+        115,
+        6563,
+        234,
+        4438,
+        6912,
+        3588,
+        13547,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10471691583332263,
+      "compression_ratio": 0.8735632183908046,
+      "no_speech_prob": 6.170305152236599e-12,
+      "words": [
+        {
+          "word": "并",
+          "start": 1.1,
+          "end": 1.58,
+          "probability": 0.9501953125
+        },
+        {
+          "word": "不是",
+          "start": 1.58,
+          "end": 1.78,
+          "probability": 1.0
+        },
+        {
+          "word": "金",
+          "start": 1.78,
+          "end": 1.92,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "价",
+          "start": 1.92,
+          "end": 2.1,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "跌",
+          "start": 2.1,
+          "end": 2.26,
+          "probability": 0.998046875
+        },
+        {
+          "word": "下",
+          "start": 2.26,
+          "end": 2.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "来",
+          "start": 2.36,
+          "end": 2.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "以",
+          "start": 2.48,
+          "end": 2.6,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "后",
+          "start": 2.6,
+          "end": 2.78,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.78,
+      "end": 4.74,
+      "text": "托尔森才临时喊出来的数字",
+      "tokens": [
+        50514,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        18888,
+        940,
+        112,
+        15729,
+        5234,
+        232,
+        44561,
+        1546,
+        33188,
+        22381,
+        50603
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10471691583332263,
+      "compression_ratio": 0.8735632183908046,
+      "no_speech_prob": 6.170305152236599e-12,
+      "words": [
+        {
+          "word": "托",
+          "start": 2.78,
+          "end": 3.14,
+          "probability": 0.9306640625
+        },
+        {
+          "word": "尔",
+          "start": 3.14,
+          "end": 3.26,
+          "probability": 0.998046875
+        },
+        {
+          "word": "森",
+          "start": 3.26,
+          "end": 3.42,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "才",
+          "start": 3.42,
+          "end": 3.6,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "临",
+          "start": 3.6,
+          "end": 3.8,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "时",
+          "start": 3.8,
+          "end": 3.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "喊",
+          "start": 3.94,
+          "end": 4.12,
+          "probability": 0.998046875
+        },
+        {
+          "word": "出来",
+          "start": 4.12,
+          "end": 4.32,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "的",
+          "start": 4.32,
+          "end": 4.44,
+          "probability": 1.0
+        },
+        {
+          "word": "数",
+          "start": 4.44,
+          "end": 4.56,
+          "probability": 1.0
+        },
+        {
+          "word": "字",
+          "start": 4.56,
+          "end": 4.74,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

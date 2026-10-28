@@ -1,0 +1,206 @@
+{
+  "started": "2026-10-27T23:31:15.181Z",
+  "completed": true,
+  "ranges": [
+    {
+      "id": "pexels_6263163",
+      "start": 0.1,
+      "duration": 8.8,
+      "started": 23605.099999904633,
+      "rate": 1,
+      "actualEnd": 9.030775,
+      "wallSeconds": 9.029599999904633
+    },
+    {
+      "id": "pexels_6173172",
+      "start": 0.1,
+      "duration": 7.5,
+      "started": 32651.39999985695,
+      "rate": 1,
+      "actualEnd": 7.702025,
+      "wallSeconds": 7.7015
+    },
+    {
+      "id": "pexels_36394068",
+      "start": 0.1,
+      "duration": 3.8,
+      "started": 40370.699999809265,
+      "rate": 1,
+      "actualEnd": 3.982109,
+      "wallSeconds": 3.9814000000953675
+    },
+    {
+      "id": "pexels_36328678",
+      "start": 0.1,
+      "duration": 12.133333333333333,
+      "started": 44371.299999952316,
+      "rate": 1,
+      "actualEnd": 12.482103,
+      "wallSeconds": 12.481599999904633
+    },
+    {
+      "id": "pexels_6266264",
+      "start": 0.1,
+      "duration": 8.8,
+      "started": 56892.799999952316,
+      "rate": 1,
+      "actualEnd": 9.023027,
+      "wallSeconds": 9.022599999904633
+    },
+    {
+      "id": "pexels_19798267",
+      "start": 0.1,
+      "duration": 10.666666666666666,
+      "started": 65956.5,
+      "rate": 1,
+      "actualEnd": 10.840541,
+      "wallSeconds": 10.880799999952316
+    },
+    {
+      "id": "pexels_3944852",
+      "start": 0.1,
+      "duration": 5.9,
+      "started": 76871.19999980927,
+      "rate": 1,
+      "actualEnd": 11.911178,
+      "wallSeconds": 140.2782000000477
+    },
+    {
+      "id": "pexels_26773217",
+      "start": 0.1,
+      "duration": 10.333333333333334,
+      "started": 217180.29999995232,
+      "rate": 1,
+      "actualEnd": 10.611197,
+      "wallSeconds": 10.61
+    },
+    {
+      "id": "pexels_8425702",
+      "start": 0.1,
+      "duration": 9.866666666666667,
+      "started": 227817.79999995232,
+      "rate": 1,
+      "actualEnd": 10.040614,
+      "wallSeconds": 10.08189999985695
+    },
+    {
+      "id": "pexels_7947425",
+      "start": 0.1,
+      "duration": 11.233333333333333,
+      "started": 237928.89999985695,
+      "rate": 1,
+      "actualEnd": 11.409895,
+      "wallSeconds": 11.408900000095368
+    },
+    {
+      "id": "pexels_5646855",
+      "start": 0.1,
+      "duration": 11.233333333333333,
+      "started": 249373.09999990463,
+      "rate": 1,
+      "actualEnd": 11.378707,
+      "wallSeconds": 11.418200000047683
+    },
+    {
+      "id": "pexels_7592929",
+      "start": 0.1,
+      "duration": 5.366666666666666,
+      "started": 260830.79999995232,
+      "rate": 1,
+      "actualEnd": 5.528399,
+      "wallSeconds": 5.569
+    },
+    {
+      "id": "pexels_11271609",
+      "start": 0.1,
+      "duration": 7.166666666666667,
+      "started": 266436,
+      "rate": 1,
+      "actualEnd": 7.392547,
+      "wallSeconds": 7.432599999904633
+    },
+    {
+      "id": "pexels_29188225",
+      "start": 0.1,
+      "duration": 7.166666666666667,
+      "started": 273909.19999980927,
+      "rate": 1,
+      "actualEnd": 7.42792,
+      "wallSeconds": 7.427400000095368
+    },
+    {
+      "id": "pexels_5909916",
+      "start": 0.1,
+      "duration": 13.033333333333333,
+      "started": 281371.7999999523,
+      "rate": 1,
+      "actualEnd": 13.392465,
+      "wallSeconds": 136.02889999985695
+    },
+    {
+      "id": "pexels_6266440",
+      "start": 0.1,
+      "duration": 4.4,
+      "started": 417439.2999999523,
+      "rate": 1,
+      "actualEnd": 4.507477,
+      "wallSeconds": 4.507299999952316
+    },
+    {
+      "id": "pexels_4121754",
+      "start": 0.1,
+      "duration": 4.333333333333333,
+      "started": 421967.59999990463,
+      "rate": 1,
+      "actualEnd": 4.511319,
+      "wallSeconds": 4.510700000047684
+    },
+    {
+      "id": "pexels_7687708",
+      "start": 0.1,
+      "duration": 6.266666666666667,
+      "started": 426502.7999999523,
+      "rate": 1,
+      "actualEnd": 6.590292,
+      "wallSeconds": 6.6315999999046324
+    },
+    {
+      "id": "pexels_14609095",
+      "start": 0.1,
+      "duration": 8.2,
+      "started": 433155.09999990463,
+      "rate": 1,
+      "actualEnd": 8.380013,
+      "wallSeconds": 99.15059999990463
+    },
+    {
+      "id": "pexels_7255353",
+      "start": 0.1,
+      "duration": 5.3,
+      "started": 532340.0999999046,
+      "rate": 1,
+      "actualEnd": 5.576153,
+      "wallSeconds": 5.575299999952316
+    },
+    {
+      "id": "pexels_39104011",
+      "start": 0.1,
+      "duration": 8.666666666666666,
+      "started": 537944.0999999046,
+      "rate": 1,
+      "actualEnd": 9.019043,
+      "wallSeconds": 9.018400000095367
+    },
+    {
+      "id": "pexels_5705007",
+      "start": 0.1,
+      "duration": 7.866666666666666,
+      "started": 546985.1999998093,
+      "rate": 1,
+      "actualEnd": 8.228676,
+      "wallSeconds": 8.228
+    }
+  ],
+  "errors": [],
+  "ended": "2026-10-27T23:40:06.790Z"
+}

@@ -1,0 +1,141 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/修订_20261028_v2-新素材与清晰动效/黄金观察NO.5-新素材与清晰动效修订版.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+    comment         : Made with Remotion 4.0.421
+  Duration: 00:03:09.78, start: 0.000000, bitrate: 5647 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 5322 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.100 libx264
+    Side data:
+      ICC Profile
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 (h264) -> split:default
+  blackdetect:default -> Stream #0:0 (wrapped_avframe)
+  Stream #0:1 -> #0:1 (aac (native) -> pcm_s16le (native))
+  scale:default -> Stream #1:0 (mjpeg)
+Press [q] to stop, [?] for help
+[swscaler @ 0x8d4fd4000] deprecated pixel format used, make sure you did set range correctly
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Made with Remotion 4.0.421
+    encoder         : Lavf62.3.100
+  Stream #0:0: Video: wrapped_avframe, yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 200 kb/s, 30 fps, 30 tbn
+    Metadata:
+      encoder         : Lavc62.11.100 wrapped_avframe
+    Side data:
+      ICC Profile
+  Stream #0:1(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 pcm_s16le
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Output #1, image2, to '/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/修订_20261028_v2-新素材与清晰动效/qa/encoded/frame-%03d.jpg':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Made with Remotion 4.0.421
+    encoder         : Lavf62.3.100
+  Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown, progressive), 540x960 [SAR 1:1 DAR 9:16], q=2-31, 200 kb/s, 30 fps, 30 tbn
+    Metadata:
+      encoder         : Lavc62.11.100 mjpeg
+    Side data:
+      ICC Profile
+      cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: N/A
+frame=  731 fps=0.0 q=-0.0 q=2.0 size=N/A time=00:00:20.13 bitrate=N/A speed=39.5x elapsed=0:00:00.51    
+frame= 1451 fps=1436 q=-0.0 q=2.0 size=N/A time=00:00:46.50 bitrate=N/A speed=  46x elapsed=0:00:01.01    
+frame= 2215 fps=1460 q=-0.0 q=2.0 size=N/A time=00:01:11.46 bitrate=N/A speed=47.1x elapsed=0:00:01.51    
+frame= 2887 fps=1429 q=-0.0 q=2.0 size=N/A time=00:01:32.03 bitrate=N/A speed=45.5x elapsed=0:00:02.02    
+frame= 3522 fps=1393 q=-0.0 q=2.0 size=N/A time=00:01:54.66 bitrate=N/A speed=45.3x elapsed=0:00:02.52    
+frame= 4304 fps=1416 q=-0.0 q=2.0 size=N/A time=00:02:21.23 bitrate=N/A speed=46.5x elapsed=0:00:03.03    
+frame= 5037 fps=1419 q=-0.0 q=2.0 size=N/A time=00:02:41.20 bitrate=N/A speed=45.4x elapsed=0:00:03.55    
+[Parsed_astats_0 @ 0x8dac31bc0] Channel: 1
+[Parsed_astats_0 @ 0x8dac31bc0] DC offset: 0.000041
+[Parsed_astats_0 @ 0x8dac31bc0] Min level: -0.438848
+[Parsed_astats_0 @ 0x8dac31bc0] Max level: 0.449642
+[Parsed_astats_0 @ 0x8dac31bc0] Min difference: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Max difference: 0.092623
+[Parsed_astats_0 @ 0x8dac31bc0] Mean difference: 0.002481
+[Parsed_astats_0 @ 0x8dac31bc0] RMS difference: 0.004744
+[Parsed_astats_0 @ 0x8dac31bc0] Peak level dB: -6.942671
+[Parsed_astats_0 @ 0x8dac31bc0] RMS level dB: -27.768574
+[Parsed_astats_0 @ 0x8dac31bc0] RMS peak dB: -17.420316
+[Parsed_astats_0 @ 0x8dac31bc0] RMS through dB: -124.993214
+[Parsed_astats_0 @ 0x8dac31bc0] Crest factor: 10.997531
+[Parsed_astats_0 @ 0x8dac31bc0] Flat factor: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Peak count: 2
+[Parsed_astats_0 @ 0x8dac31bc0] Abs Peak count: 1
+[Parsed_astats_0 @ 0x8dac31bc0] Noise floor dB: -102.399050
+[Parsed_astats_0 @ 0x8dac31bc0] Noise floor count: 34
+[Parsed_astats_0 @ 0x8dac31bc0] Entropy: 0.691266
+[Parsed_astats_0 @ 0x8dac31bc0] Bit depth: 30/32/32/32
+[Parsed_astats_0 @ 0x8dac31bc0] Dynamic range: 204.907206
+[Parsed_astats_0 @ 0x8dac31bc0] Zero crossings: 475082
+[Parsed_astats_0 @ 0x8dac31bc0] Zero crossings rate: 0.052152
+[Parsed_astats_0 @ 0x8dac31bc0] Number of NaNs: 0
+[Parsed_astats_0 @ 0x8dac31bc0] Number of Infs: 0
+[Parsed_astats_0 @ 0x8dac31bc0] Number of denormals: 0
+[Parsed_astats_0 @ 0x8dac31bc0] Channel: 2
+[Parsed_astats_0 @ 0x8dac31bc0] DC offset: 0.000042
+[Parsed_astats_0 @ 0x8dac31bc0] Min level: -0.434298
+[Parsed_astats_0 @ 0x8dac31bc0] Max level: 0.454060
+[Parsed_astats_0 @ 0x8dac31bc0] Min difference: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Max difference: 0.091119
+[Parsed_astats_0 @ 0x8dac31bc0] Mean difference: 0.002484
+[Parsed_astats_0 @ 0x8dac31bc0] RMS difference: 0.004744
+[Parsed_astats_0 @ 0x8dac31bc0] Peak level dB: -6.857734
+[Parsed_astats_0 @ 0x8dac31bc0] RMS level dB: -27.772767
+[Parsed_astats_0 @ 0x8dac31bc0] RMS peak dB: -17.421388
+[Parsed_astats_0 @ 0x8dac31bc0] RMS through dB: -124.993214
+[Parsed_astats_0 @ 0x8dac31bc0] Crest factor: 11.110961
+[Parsed_astats_0 @ 0x8dac31bc0] Flat factor: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Peak count: 2
+[Parsed_astats_0 @ 0x8dac31bc0] Abs Peak count: 1
+[Parsed_astats_0 @ 0x8dac31bc0] Noise floor dB: -102.399050
+[Parsed_astats_0 @ 0x8dac31bc0] Noise floor count: 34
+[Parsed_astats_0 @ 0x8dac31bc0] Entropy: 0.690799
+[Parsed_astats_0 @ 0x8dac31bc0] Bit depth: 30/32/32/32
+[Parsed_astats_0 @ 0x8dac31bc0] Dynamic range: 204.992142
+[Parsed_astats_0 @ 0x8dac31bc0] Zero crossings: 481939
+[Parsed_astats_0 @ 0x8dac31bc0] Zero crossings rate: 0.052905
+[Parsed_astats_0 @ 0x8dac31bc0] Number of NaNs: 0
+[Parsed_astats_0 @ 0x8dac31bc0] Number of Infs: 0
+[Parsed_astats_0 @ 0x8dac31bc0] Number of denormals: 0
+[Parsed_astats_0 @ 0x8dac31bc0] Overall
+[Parsed_astats_0 @ 0x8dac31bc0] DC offset: 0.000042
+[Parsed_astats_0 @ 0x8dac31bc0] Min level: -0.438848
+[Parsed_astats_0 @ 0x8dac31bc0] Max level: 0.454060
+[Parsed_astats_0 @ 0x8dac31bc0] Min difference: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Max difference: 0.092623
+[Parsed_astats_0 @ 0x8dac31bc0] Mean difference: 0.002482
+[Parsed_astats_0 @ 0x8dac31bc0] RMS difference: 0.004744
+[Parsed_astats_0 @ 0x8dac31bc0] Peak level dB: -6.857734
+[Parsed_astats_0 @ 0x8dac31bc0] RMS level dB: -27.770670
+[Parsed_astats_0 @ 0x8dac31bc0] RMS peak dB: -17.420316
+[Parsed_astats_0 @ 0x8dac31bc0] RMS through dB: -124.993214
+[Parsed_astats_0 @ 0x8dac31bc0] Flat factor: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Peak count: 2.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Abs Peak count: 1.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Noise floor dB: -102.399050
+[Parsed_astats_0 @ 0x8dac31bc0] Noise floor count: 34.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Entropy: 0.691033
+[Parsed_astats_0 @ 0x8dac31bc0] Bit depth: 30/32/32/32
+[Parsed_astats_0 @ 0x8dac31bc0] Number of samples: 9109504
+[Parsed_astats_0 @ 0x8dac31bc0] Number of NaNs: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Number of Infs: 0.000000
+[Parsed_astats_0 @ 0x8dac31bc0] Number of denormals: 0.000000
+[out#0/null @ 0x8dac303c0] video:2312KiB audio:35584KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#1/image2 @ 0x8dac30c00] video:12173KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 5692 fps=1407 q=-0.0 Lq=2.0 size=N/A time=00:03:09.73 bitrate=N/A speed=46.9x elapsed=0:00:04.04    

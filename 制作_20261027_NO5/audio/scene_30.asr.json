@@ -1,0 +1,325 @@
+{
+  "text": "托尔森这套逻辑很简单收益率先见顶黄金再完成最后一次洗盘然后进入新的筑底窗口",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.32,
+      "text": "托尔森这套逻辑很简单",
+      "tokens": [
+        50365,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        5562,
+        1881,
+        245,
+        2215,
+        119,
+        9830,
+        239,
+        4563,
+        11249,
+        222,
+        47446,
+        50430
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07533293962478638,
+      "compression_ratio": 0.9568965517241379,
+      "no_speech_prob": 8.014864813499223e-12,
+      "words": [
+        {
+          "word": "托",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.98828125
+        },
+        {
+          "word": "尔",
+          "start": 0.2,
+          "end": 0.3,
+          "probability": 0.986328125
+        },
+        {
+          "word": "森",
+          "start": 0.3,
+          "end": 0.42,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "这",
+          "start": 0.42,
+          "end": 0.52,
+          "probability": 0.97802734375
+        },
+        {
+          "word": "套",
+          "start": 0.52,
+          "end": 0.62,
+          "probability": 1.0
+        },
+        {
+          "word": "逻",
+          "start": 0.62,
+          "end": 0.72,
+          "probability": 0.998046875
+        },
+        {
+          "word": "辑",
+          "start": 0.72,
+          "end": 0.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "很",
+          "start": 0.8,
+          "end": 0.94,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "简",
+          "start": 0.94,
+          "end": 1.12,
+          "probability": 1.0
+        },
+        {
+          "word": "单",
+          "start": 1.12,
+          "end": 1.32,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.32,
+      "end": 2.58,
+      "text": "收益率先见顶",
+      "tokens": [
+        50430,
+        18681,
+        5419,
+        232,
+        44866,
+        10108,
+        23813,
+        10178,
+        114,
+        50493
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07533293962478638,
+      "compression_ratio": 0.9568965517241379,
+      "no_speech_prob": 8.014864813499223e-12,
+      "words": [
+        {
+          "word": "收",
+          "start": 1.32,
+          "end": 1.74,
+          "probability": 0.95751953125
+        },
+        {
+          "word": "益",
+          "start": 1.74,
+          "end": 1.86,
+          "probability": 0.998046875
+        },
+        {
+          "word": "率",
+          "start": 1.86,
+          "end": 1.94,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "先",
+          "start": 1.94,
+          "end": 2.22,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "见",
+          "start": 2.22,
+          "end": 2.36,
+          "probability": 0.99609375
+        },
+        {
+          "word": "顶",
+          "start": 2.36,
+          "end": 2.58,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.58,
+      "end": 4.42,
+      "text": "黄金再完成最后一次洗盘",
+      "tokens": [
+        50493,
+        6173,
+        226,
+        19117,
+        8623,
+        41509,
+        8661,
+        13547,
+        27505,
+        43252,
+        5419,
+        246,
+        50586
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07533293962478638,
+      "compression_ratio": 0.9568965517241379,
+      "no_speech_prob": 8.014864813499223e-12,
+      "words": [
+        {
+          "word": "黄",
+          "start": 2.58,
+          "end": 3.06,
+          "probability": 0.984375
+        },
+        {
+          "word": "金",
+          "start": 3.06,
+          "end": 3.2,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "再",
+          "start": 3.2,
+          "end": 3.36,
+          "probability": 0.96826171875
+        },
+        {
+          "word": "完成",
+          "start": 3.36,
+          "end": 3.6,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "最",
+          "start": 3.6,
+          "end": 3.82,
+          "probability": 0.9921875
+        },
+        {
+          "word": "后",
+          "start": 3.82,
+          "end": 3.92,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "一次",
+          "start": 3.92,
+          "end": 4.08,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "洗",
+          "start": 4.08,
+          "end": 4.22,
+          "probability": 0.98876953125
+        },
+        {
+          "word": "盘",
+          "start": 4.22,
+          "end": 4.42,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 4.42,
+      "end": 6.04,
+      "text": "然后进入新的筑底窗口",
+      "tokens": [
+        50586,
+        26636,
+        36700,
+        14028,
+        12560,
+        1546,
+        7973,
+        239,
+        22816,
+        30771,
+        245,
+        18144,
+        50669
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07533293962478638,
+      "compression_ratio": 0.9568965517241379,
+      "no_speech_prob": 8.014864813499223e-12,
+      "words": [
+        {
+          "word": "然后",
+          "start": 4.42,
+          "end": 4.86,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "进",
+          "start": 4.86,
+          "end": 5.04,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "入",
+          "start": 5.04,
+          "end": 5.18,
+          "probability": 1.0
+        },
+        {
+          "word": "新",
+          "start": 5.18,
+          "end": 5.36,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "的",
+          "start": 5.36,
+          "end": 5.5,
+          "probability": 0.99609375
+        },
+        {
+          "word": "筑",
+          "start": 5.5,
+          "end": 5.64,
+          "probability": 0.7021484375
+        },
+        {
+          "word": "底",
+          "start": 5.64,
+          "end": 5.74,
+          "probability": 0.8515625
+        },
+        {
+          "word": "窗",
+          "start": 5.74,
+          "end": 5.86,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "口",
+          "start": 5.86,
+          "end": 6.04,
+          "probability": 0.998046875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

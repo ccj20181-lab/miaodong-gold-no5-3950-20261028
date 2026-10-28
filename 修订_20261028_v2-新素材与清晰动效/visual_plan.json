@@ -1,0 +1,1179 @@
+{
+  "version": 1,
+  "intent": "new_episode",
+  "episode_number": 5,
+  "narration_sha256": "ad2b6fecd0e93ecf6f6c2b8d18fc54d47ddc94333d4f73883fb67f6ed56112d2",
+  "history": {
+    "root": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频",
+    "scope_note": "包括此前第1—4期及NO.5基线实际渲染项目；另扩大比较同演员/同棚景和相近画面。不以换ID或换角度代替素材更新。"
+  },
+  "research": [
+    {
+      "id": "r_pexels_6263163",
+      "query": "goldsmith",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/jeweler-wroking-on-a-ring-6263163/",
+          "source_id": "pexels_6263163",
+          "decision": "selected",
+          "why": "黄金戒指锉修实拍展示实体黄金；叠加保留本期实际金价曲线，首镜有连续手部动作，不把加工过程当价格走势。"
+        },
+        {
+          "url": "https://www.pexels.com/video/artisan-creating-detailed-gold-jewelry-by-hand-35822699/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/jeweler-working-on-a-ring-6263174/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/person-using-a-tool-in-smoothing-a-jewelry-6263486/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/jewelry-crafting-with-heat-and-precision-39361700/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_6173172",
+      "query": "gold jewelry store",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-close-up-video-of-a-golden-tiger-6173172/",
+          "source_id": "pexels_6173172",
+          "decision": "selected",
+          "why": "金饰实物细节与移动展示打底，配合实际黄金日线与3975.64盘中低点；不再用反复出现的熔金原片。"
+        },
+        {
+          "url": "https://www.pexels.com/video/elegant-display-of-gold-jewelry-in-store-36353836/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-woman-touching-gold-necklaces-8855209/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/luxurious-gold-jewelry-showcase-display-36338911/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/jewelries-on-the-display-window-8849053/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_5743128",
+      "query": "calendar desk",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/person-looking-at-dates-on-a-smartphone-5743128/",
+          "source_id": "pexels_5743128",
+          "decision": "selected",
+          "why": "手写记录与手机计算器的真实动作打底，承接市场判断疑问，不再选同一交易员棚景。"
+        },
+        {
+          "url": "https://www.pexels.com/video/pointing-at-a-calendar-8134590/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-2024-planner-on-a-desk-19798267/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-2024-planner-by-a-wireless-keyboard-19798260/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-writing-on-calendar-5408798/",
+          "decision": "rejected",
+          "why": "可见旧日期容易与本期窗口混淆，未选。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_26773217",
+      "query": "economic report calculator",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/office-work-financial-calculations-and-reporting-26773217/",
+          "source_id": "pexels_26773217",
+          "decision": "selected",
+          "why": "实际财务测算与计算器操作打底，官方托尔森抠图与GCI25承担特定身份和判断；不把泛金融文件当作原始报告。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-report-7651768/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/graphs-printed-on-paper-7947401/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-while-making-a-list-6120110/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/business-analytics-presentation-7947422/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_6266264",
+      "query": "banknote counting machine",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/high-angle-shot-of-a-woman-counting-money-6266264/",
+          "source_id": "pexels_6266264",
+          "decision": "selected",
+          "why": "现金清点与资金变现的实际动作支持恐慌抛售示意，黄金卖出换现金仍由既有机制图形呈现。"
+        },
+        {
+          "url": "https://www.pexels.com/video/new-zealand-dollar-bills-in-money-counter-39061007/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/efficient-indian-rupee-money-counting-machine-in-action-31593748/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-putting-money-on-the-money-counter-6266430/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-lot-of-money-on-the-table-6266434/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_5364907",
+      "query": "writing planner notes",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/woman-writing-to-a-planner-5364907/",
+          "source_id": "pexels_5364907",
+          "decision": "selected",
+          "why": "真实书写日程的手部动作打底，叠加10月底至11月第二周预测窗口；避开露出2024旧年份的摆拍桌面。"
+        },
+        {
+          "url": "https://www.pexels.com/video/person-looking-at-dates-on-a-smartphone-5743128/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-writing-in-the-notebook-9305503/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/saving-the-date-856299/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/man-making-his-schedule-6878213/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_3944852",
+      "query": "financial newspaper",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/coffee-cup-hand-office-3944852/",
+          "source_id": "pexels_3944852",
+          "decision": "selected",
+          "why": "翻阅金融报纸/咖啡的实际动作提供报告回溯语境，本期原报告标题与北京时间10月15日仍由图层准确呈现。"
+        },
+        {
+          "url": "https://www.pexels.com/video/falling-euro-coins-on-newspaper-in-slow-motion-39108087/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/man-reading-a-newspaper-8134311/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/newspapers-displaying-political-headlines-29325396/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/close-up-video-of-a-man-covering-his-face-with-newspaper-9830165/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_6263486",
+      "query": "goldsmith",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/person-using-a-tool-in-smoothing-a-jewelry-6263486/",
+          "source_id": "pexels_6263486",
+          "decision": "selected",
+          "why": "真实金饰制作工序打底，原10月15日报告与3950预测保留，替换反复出现的金库金条原片。"
+        },
+        {
+          "url": "https://www.pexels.com/video/artisan-creating-detailed-gold-jewelry-by-hand-35822699/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/jeweler-working-on-a-ring-6263174/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/jewelry-crafting-with-heat-and-precision-39361700/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-polishing-a-ring-6262797/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7552421",
+      "query": "economic report calculator",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-person-using-calculator-while-looking-at-different-charts-7552421/",
+          "source_id": "pexels_7552421",
+          "decision": "selected",
+          "why": "俯视研究人员核对图表与手写标记的真实动作，支撑3975与3950的25美元比较；实际行情依据仍是Kitco与原数据。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-report-7651768/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/graphs-printed-on-paper-7947401/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-while-making-a-list-6120110/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/business-analytics-presentation-7947422/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_8425702",
+      "query": "financial analyst report",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/businessperson-reviewing-documents-8425702/",
+          "source_id": "pexels_8425702",
+          "decision": "selected",
+          "why": "手指/笔核对金融文档实拍打底，灰蒙版上的3963—3946支撑带展示本期技术位；原素材数字不当本期行情。"
+        },
+        {
+          "url": "https://www.pexels.com/video/analyzing-financial-data-on-tablet-and-monitors-38870320/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/financial-analyst-using-digital-tablet-for-data-review-39767813/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/report-analysis-14609097/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/dynamic-trading-dashboard-with-tablet-analysis-35544532/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7947425",
+      "query": "economic report calculator",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/graphs-printed-on-paper-7947425/",
+          "source_id": "pexels_7947425",
+          "decision": "selected",
+          "why": "实际核对图表与计算器的镜头继续技术分析语境；叠加灰蒙版和清晰的3950/3890技术位。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-report-7651768/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/graphs-printed-on-paper-7947401/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-while-making-a-list-6120110/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/business-analytics-presentation-7947422/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_5646855",
+      "query": "manhattan financial district",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/the-district-of-manhattan-in-new-york-city-5646855/",
+          "source_id": "pexels_5646855",
+          "decision": "selected",
+          "why": "曼哈顿金融区与渡轮的连续实景动作交代美国金融市场；极端股市下跌及黄金变现由条件机制图形解释。"
+        },
+        {
+          "url": "https://www.pexels.com/video/skyline-view-of-new-york-city-from-the-water-30037621/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/skyscrapers-in-new-york-city-13808767/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/black-and-white-footage-of-a-cityscape-7850311/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/dazzling-aerial-view-of-manhattan-skyline-37493550/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7592929",
+      "query": "financial newspaper",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-woman-reading-the-newspaper-7592929/",
+          "source_id": "pexels_7592929",
+          "decision": "selected",
+          "why": "阅读财经新闻的真实动作打底，回到托尔森主要时间窗；官方人物图与来源保留。"
+        },
+        {
+          "url": "https://www.pexels.com/video/falling-euro-coins-on-newspaper-in-slow-motion-39108087/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/man-reading-a-newspaper-8134311/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/newspapers-displaying-political-headlines-29325396/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/close-up-video-of-a-man-covering-his-face-with-newspaper-9830165/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_11271609",
+      "query": "silver jewelry workshop",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/hands-grinding-ring-11271609/",
+          "source_id": "pexels_11271609",
+          "decision": "selected",
+          "why": "白银戒指抛光的真实动作支持白银标的，原白银走势图与55/50价格位只作报告证据与预测。"
+        },
+        {
+          "url": "https://www.pexels.com/video/woman-and-man-making-rings-7166903/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-using-pliers-10474526/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/detailed-silver-ring-polishing-process-close-up-37315868/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-polishing-a-chain-6263485/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_29188225",
+      "query": "washington dc treasury",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/busy-washington-dc-intersection-with-government-building-29188225/",
+          "source_id": "pexels_29188225",
+          "decision": "selected",
+          "why": "华盛顿街口车辆通行实景提供美国政经语境，原TNX真实周线、5%与4.988%读数承担收益率证据；不冒充美债交易现场。"
+        },
+        {
+          "url": "https://www.pexels.com/video/iconic-us-treasury-building-in-washington-dc-29188210/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/historic-government-building-in-washington-dc-29188213/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/us-treasury-building-in-washington-dc-in-daylight-29188217/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/us-treasury-building-in-washington-dc-29188207/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_5909916",
+      "query": "banknote counting machine",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-person-counting-bank-notes-5909916/",
+          "source_id": "pexels_5909916",
+          "decision": "selected",
+          "why": "现金计数器实际运行打底，既有100格概率图呈现约70%至不足10%；机器计数不作为概率来源。"
+        },
+        {
+          "url": "https://www.pexels.com/video/new-zealand-dollar-bills-in-money-counter-39061007/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/efficient-indian-rupee-money-counting-machine-in-action-31593748/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-putting-money-on-the-money-counter-6266430/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-lot-of-money-on-the-table-6266434/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_6266440",
+      "query": "banknote counting machine",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/person-counting-money-6266440/",
+          "source_id": "pexels_6266440",
+          "decision": "selected",
+          "why": "美元点钞与手部操作的新镜头打底，实体感日历OCTOBER 28呈现本周FOMC时点，不用高透明纸面。"
+        },
+        {
+          "url": "https://www.pexels.com/video/new-zealand-dollar-bills-in-money-counter-39061007/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/efficient-indian-rupee-money-counting-machine-in-action-31593748/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-person-putting-money-on-the-money-counter-6266430/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-lot-of-money-on-the-table-6266434/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_4121754",
+      "query": "consumer grocery receipt",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/couple-paying-at-the-counter-in-the-grocery-4121754/",
+          "source_id": "pexels_4121754",
+          "decision": "selected",
+          "why": "超市结账、扫描商品的真实消费动作支撑PCE所对应的消费价格语境，实际通胀数值未补造。"
+        },
+        {
+          "url": "https://www.pexels.com/video/supermarket-checkout-process-with-protective-measures-39240101/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/efficient-grocery-checkout-in-a-supermarket-39240100/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/busy-supermarket-cashier-assisting-customers-36635591/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/shopping-aisle-perspective-on-supermarket-essentials-29376327/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7687708",
+      "query": "economic report calculator",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-person-using-a-calculator-7687708/",
+          "source_id": "pexels_7687708",
+          "decision": "selected",
+          "why": "计算器与财经图表的手部操作支持收益率、持金机会成本与筑底窗口的机制总结，不把纸上旧数据当本期数据。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-report-7651768/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/graphs-printed-on-paper-7947401/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/calculating-while-making-a-list-6120110/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/business-analytics-presentation-7947422/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_14609095",
+      "query": "financial analyst report",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/report-analysis-14609095/",
+          "source_id": "pexels_14609095",
+          "decision": "selected",
+          "why": "研究人员核对纸面金融图表打底，保留10月15日至23日的历史预判记录与8天跨度。"
+        },
+        {
+          "url": "https://www.pexels.com/video/businessperson-reviewing-documents-8425702/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/analyzing-financial-data-on-tablet-and-monitors-38870320/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/financial-analyst-using-digital-tablet-for-data-review-39767813/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/report-analysis-14609097/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7255353",
+      "query": "financial newspaper",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-man-reading-newspaper-while-drinking-coffee-7255353/",
+          "source_id": "pexels_7255353",
+          "decision": "selected",
+          "why": "阅读新闻并喝咖啡的真实动作支持持续跟踪市场，10月25日最新判断仍由准确文字与3950呈现。"
+        },
+        {
+          "url": "https://www.pexels.com/video/falling-euro-coins-on-newspaper-in-slow-motion-39108087/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/man-reading-a-newspaper-8134311/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/newspapers-displaying-political-headlines-29325396/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/close-up-video-of-a-man-covering-his-face-with-newspaper-9830165/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_39104011",
+      "query": "manhattan financial district",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/modern-skyscraper-in-new-york-city-39104011/",
+          "source_id": "pexels_39104011",
+          "decision": "selected",
+          "why": "纽约Trinity Place金融区街景与相机移动打底，未来一到两周观察窗口和评论互动继续原时轴。"
+        },
+        {
+          "url": "https://www.pexels.com/video/skyline-view-of-new-york-city-from-the-water-30037621/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/skyscrapers-in-new-york-city-13808767/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/black-and-white-footage-of-a-cityscape-7850311/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        },
+        {
+          "url": "https://www.pexels.com/video/dazzling-aerial-view-of-manhattan-skyline-37493550/",
+          "decision": "rejected",
+          "why": "本段所需对象或动作对应度较弱，未选用。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_5705007",
+      "query": "gold jewelry store",
+      "channel": "Pexels官方当期检索；保留完整原始JSON及逐条许可",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/close-up-of-jewelry-5705007/",
+          "source_id": "pexels_5705007",
+          "decision": "selected",
+          "why": "真实试戴和观赏金饰的手部动作收尾，继续黄金主题与原口播；不加封面、不改音轨。"
+        },
+        {
+          "url": "https://www.pexels.com/video/elegant-display-of-gold-jewelry-in-store-36353836/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-woman-touching-gold-necklaces-8855209/",
+          "decision": "rejected",
+          "why": "竖屏素材，不满足真实模式横屏主素材要求。"
+        },
+        {
+          "url": "https://www.pexels.com/video/luxurious-gold-jewelry-showcase-display-36338911/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        },
+        {
+          "url": "https://www.pexels.com/video/jewelries-on-the-display-window-8849053/",
+          "decision": "rejected",
+          "why": "往期或基线素材身份已出现，排除重复。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene_ids": [
+        "scene_01"
+      ],
+      "goal": "黄金戒指锉修实拍展示实体黄金；叠加保留本期实际金价曲线，首镜有连续手部动作，不把加工过程当价格走势。",
+      "visual_solution": "黄金戒指锉修实拍展示实体黄金；叠加保留本期实际金价曲线，首镜有连续手部动作，不把加工过程当价格走势。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "history",
+      "source_ids": [
+        "pexels_6263163"
+      ],
+      "research_ids": [
+        "r_pexels_6263163"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_02"
+      ],
+      "goal": "金饰实物细节与移动展示打底，配合实际黄金日线与3975.64盘中低点；不再用反复出现的熔金原片。",
+      "visual_solution": "金饰实物细节与移动展示打底，配合实际黄金日线与3975.64盘中低点；不再用反复出现的熔金原片。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "history_low",
+      "source_ids": [
+        "pexels_6173172"
+      ],
+      "research_ids": [
+        "r_pexels_6173172"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_03"
+      ],
+      "goal": "手写记录与手机计算器的真实动作打底，承接市场判断疑问，不再选同一交易员棚景。",
+      "visual_solution": "手写记录与手机计算器的真实动作打底，承接市场判断疑问，不再选同一交易员棚景。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "question",
+      "source_ids": [
+        "pexels_5743128"
+      ],
+      "research_ids": [
+        "r_pexels_5743128"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_04",
+        "scene_05"
+      ],
+      "goal": "实际财务测算与计算器操作打底，官方托尔森抠图与GCI25承担特定身份和判断；不把泛金融文件当作原始报告。",
+      "visual_solution": "实际财务测算与计算器操作打底，官方托尔森抠图与GCI25承担特定身份和判断；不把泛金融文件当作原始报告。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "author",
+      "source_ids": [
+        "pexels_26773217"
+      ],
+      "research_ids": [
+        "r_pexels_26773217"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_06",
+        "scene_07"
+      ],
+      "goal": "现金清点与资金变现的实际动作支持恐慌抛售示意，黄金卖出换现金仍由既有机制图形呈现。",
+      "visual_solution": "现金清点与资金变现的实际动作支持恐慌抛售示意，黄金卖出换现金仍由既有机制图形呈现。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "washout",
+      "source_ids": [
+        "pexels_6266264"
+      ],
+      "research_ids": [
+        "r_pexels_6266264"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_08",
+        "scene_09",
+        "scene_10"
+      ],
+      "goal": "真实书写日程的手部动作打底，叠加10月底至11月第二周预测窗口；避开露出2024旧年份的摆拍桌面。",
+      "visual_solution": "真实书写日程的手部动作打底，叠加10月底至11月第二周预测窗口；避开露出2024旧年份的摆拍桌面。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "window",
+      "source_ids": [
+        "pexels_5364907"
+      ],
+      "research_ids": [
+        "r_pexels_5364907"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_11"
+      ],
+      "goal": "翻阅金融报纸/咖啡的实际动作提供报告回溯语境，本期原报告标题与北京时间10月15日仍由图层准确呈现。",
+      "visual_solution": "翻阅金融报纸/咖啡的实际动作提供报告回溯语境，本期原报告标题与北京时间10月15日仍由图层准确呈现。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "earlier_title",
+      "source_ids": [
+        "pexels_3944852"
+      ],
+      "research_ids": [
+        "r_pexels_3944852"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_12",
+        "scene_13"
+      ],
+      "goal": "真实金饰制作工序打底，原10月15日报告与3950预测保留，替换反复出现的金库金条原片。",
+      "visual_solution": "真实金饰制作工序打底，原10月15日报告与3950预测保留，替换反复出现的金库金条原片。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "earlier",
+      "source_ids": [
+        "pexels_6263486"
+      ],
+      "research_ids": [
+        "r_pexels_6263486"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_14",
+        "scene_15",
+        "scene_16"
+      ],
+      "goal": "俯视研究人员核对图表与手写标记的真实动作，支撑3975与3950的25美元比较；实际行情依据仍是Kitco与原数据。",
+      "visual_solution": "俯视研究人员核对图表与手写标记的真实动作，支撑3975与3950的25美元比较；实际行情依据仍是Kitco与原数据。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "distance",
+      "source_ids": [
+        "pexels_7552421"
+      ],
+      "research_ids": [
+        "r_pexels_7552421"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_17",
+        "scene_18"
+      ],
+      "goal": "手指/笔核对金融文档实拍打底，灰蒙版上的3963—3946支撑带展示本期技术位；原素材数字不当本期行情。",
+      "visual_solution": "手指/笔核对金融文档实拍打底，灰蒙版上的3963—3946支撑带展示本期技术位；原素材数字不当本期行情。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "support",
+      "source_ids": [
+        "pexels_8425702"
+      ],
+      "research_ids": [
+        "r_pexels_8425702"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_19",
+        "scene_20"
+      ],
+      "goal": "实际核对图表与计算器的镜头继续技术分析语境；叠加灰蒙版和清晰的3950/3890技术位。",
+      "visual_solution": "实际核对图表与计算器的镜头继续技术分析语境；叠加灰蒙版和清晰的3950/3890技术位。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "support_deep",
+      "source_ids": [
+        "pexels_7947425"
+      ],
+      "research_ids": [
+        "r_pexels_7947425"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_21",
+        "scene_22"
+      ],
+      "goal": "曼哈顿金融区与渡轮的连续实景动作交代美国金融市场；极端股市下跌及黄金变现由条件机制图形解释。",
+      "visual_solution": "曼哈顿金融区与渡轮的连续实景动作交代美国金融市场；极端股市下跌及黄金变现由条件机制图形解释。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "stress",
+      "source_ids": [
+        "pexels_5646855"
+      ],
+      "research_ids": [
+        "r_pexels_5646855"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_23"
+      ],
+      "goal": "阅读财经新闻的真实动作打底，回到托尔森主要时间窗；官方人物图与来源保留。",
+      "visual_solution": "阅读财经新闻的真实动作打底，回到托尔森主要时间窗；官方人物图与来源保留。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "maincase",
+      "source_ids": [
+        "pexels_7592929"
+      ],
+      "research_ids": [
+        "r_pexels_7592929"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_24"
+      ],
+      "goal": "白银戒指抛光的真实动作支持白银标的，原白银走势图与55/50价格位只作报告证据与预测。",
+      "visual_solution": "白银戒指抛光的真实动作支持白银标的，原白银走势图与55/50价格位只作报告证据与预测。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "silver",
+      "source_ids": [
+        "pexels_11271609"
+      ],
+      "research_ids": [
+        "r_pexels_11271609"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_25"
+      ],
+      "goal": "华盛顿街口车辆通行实景提供美国政经语境，原TNX真实周线、5%与4.988%读数承担收益率证据；不冒充美债交易现场。",
+      "visual_solution": "华盛顿街口车辆通行实景提供美国政经语境，原TNX真实周线、5%与4.988%读数承担收益率证据；不冒充美债交易现场。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "yield",
+      "source_ids": [
+        "pexels_29188225"
+      ],
+      "research_ids": [
+        "r_pexels_29188225"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_26",
+        "scene_27"
+      ],
+      "goal": "现金计数器实际运行打底，既有100格概率图呈现约70%至不足10%；机器计数不作为概率来源。",
+      "visual_solution": "现金计数器实际运行打底，既有100格概率图呈现约70%至不足10%；机器计数不作为概率来源。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "probability",
+      "source_ids": [
+        "pexels_5909916"
+      ],
+      "research_ids": [
+        "r_pexels_5909916"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_28"
+      ],
+      "goal": "美元点钞与手部操作的新镜头打底，实体感日历OCTOBER 28呈现本周FOMC时点，不用高透明纸面。",
+      "visual_solution": "美元点钞与手部操作的新镜头打底，实体感日历OCTOBER 28呈现本周FOMC时点，不用高透明纸面。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "fed",
+      "source_ids": [
+        "pexels_6266440"
+      ],
+      "research_ids": [
+        "r_pexels_6266440"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_29"
+      ],
+      "goal": "超市结账、扫描商品的真实消费动作支撑PCE所对应的消费价格语境，实际通胀数值未补造。",
+      "visual_solution": "超市结账、扫描商品的真实消费动作支撑PCE所对应的消费价格语境，实际通胀数值未补造。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "pce",
+      "source_ids": [
+        "pexels_4121754"
+      ],
+      "research_ids": [
+        "r_pexels_4121754"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_30"
+      ],
+      "goal": "计算器与财经图表的手部操作支持收益率、持金机会成本与筑底窗口的机制总结，不把纸上旧数据当本期数据。",
+      "visual_solution": "计算器与财经图表的手部操作支持收益率、持金机会成本与筑底窗口的机制总结，不把纸上旧数据当本期数据。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "sequence",
+      "source_ids": [
+        "pexels_7687708"
+      ],
+      "research_ids": [
+        "r_pexels_7687708"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_31"
+      ],
+      "goal": "研究人员核对纸面金融图表打底，保留10月15日至23日的历史预判记录与8天跨度。",
+      "visual_solution": "研究人员核对纸面金融图表打底，保留10月15日至23日的历史预判记录与8天跨度。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "timeline1",
+      "source_ids": [
+        "pexels_14609095"
+      ],
+      "research_ids": [
+        "r_pexels_14609095"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_32"
+      ],
+      "goal": "阅读新闻并喝咖啡的真实动作支持持续跟踪市场，10月25日最新判断仍由准确文字与3950呈现。",
+      "visual_solution": "阅读新闻并喝咖啡的真实动作支持持续跟踪市场，10月25日最新判断仍由准确文字与3950呈现。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "timeline2",
+      "source_ids": [
+        "pexels_7255353"
+      ],
+      "research_ids": [
+        "r_pexels_7255353"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_33"
+      ],
+      "goal": "纽约Trinity Place金融区街景与相机移动打底，未来一到两周观察窗口和评论互动继续原时轴。",
+      "visual_solution": "纽约Trinity Place金融区街景与相机移动打底，未来一到两周观察窗口和评论互动继续原时轴。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "interaction",
+      "source_ids": [
+        "pexels_39104011"
+      ],
+      "research_ids": [
+        "r_pexels_39104011"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_34",
+        "scene_35"
+      ],
+      "goal": "真实试戴和观赏金饰的手部动作收尾，继续黄金主题与原口播；不加封面、不改音轨。",
+      "visual_solution": "真实试戴和观赏金饰的手部动作收尾，继续黄金主题与原口播；不加封面、不改音轨。",
+      "graphics_role": "保留本期已确认图形与数据，增强灰蒙版、实色物件和字体对比。",
+      "visual_family": "close",
+      "source_ids": [
+        "pexels_5705007"
+      ],
+      "research_ids": [
+        "r_pexels_5705007"
+      ]
+    }
+  ],
+  "temporal_claims": [
+    {
+      "scene_ids": [
+        "scene_01",
+        "scene_02"
+      ],
+      "quote": "黄金刚刚跌破4000美元",
+      "decision": "animate_series",
+      "data_path": "data/xau-daily.json"
+    },
+    {
+      "scene_ids": [
+        "scene_06"
+      ],
+      "quote": "托尔森认为，金价如果短暂跌破3950美元，市场可能出现最后一轮恐慌抛售。",
+      "decision": "not_a_time_series",
+      "reason": "本幕是阈值/预测判断，不是随时间已发生的行情；真实历史走势已在开头完整交代。"
+    },
+    {
+      "scene_ids": [
+        "scene_12"
+      ],
+      "quote": "当时黄金还没有跌破4000美元，他就已经把本轮回调目标看到3950美元附近。",
+      "decision": "not_a_time_series",
+      "reason": "本幕是阈值/预测判断，不是随时间已发生的行情；真实历史走势已在开头完整交代。"
+    },
+    {
+      "scene_ids": [
+        "scene_24"
+      ],
+      "quote": "白银也是类似，跌破55美元之后，托尔森认为下一步测试50美元趋势线支撑的可能性正在上升。",
+      "decision": "not_a_time_series",
+      "reason": "本幕是阈值/预测判断，不是随时间已发生的行情；真实历史走势已在开头完整交代。"
+    },
+    {
+      "scene_ids": [
+        "scene_25"
+      ],
+      "quote": "10年期美债收益率上周已经收在5%下方",
+      "decision": "reveal_source_chart",
+      "chart_path": "evidence/thorson-0-chart-1.png",
+      "source_url": "https://goldprice.substack.com/p/weekend-gold-update",
+      "reason": "作者同一口径TNX周线已留原图；未取得作者周线逐笔序列，使用原始StockCharts真实走势图及原坐标，不从两个端点补线。",
+      "reveal_method": "完整图短暂交代后，在原图横轴上从左至右揭示2022—2026真实周线，最后定位2026年10月与5%水平线。"
+    }
+  ],
+  "reuse_policy": {
+    "max_reused_sources": 0
+  }
+}

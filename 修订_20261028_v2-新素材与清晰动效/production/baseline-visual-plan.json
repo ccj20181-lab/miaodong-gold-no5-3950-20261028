@@ -1,0 +1,736 @@
+{
+  "version": 1,
+  "intent": "new_episode",
+  "episode_number": 5,
+  "narration_sha256": "ad2b6fecd0e93ecf6f6c2b8d18fc54d47ddc94333d4f73883fb67f6ed56112d2",
+  "history": {
+    "root": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频",
+    "scope_note": "扫描本视频工作空间中实际已渲染的项目；比较原始视频身份与SHA，封面和原始数据不算底层视频复用。"
+  },
+  "research": [
+    {
+      "id": "r_pexels_38698437",
+      "query": "stock exchange",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/dynamic-stock-market-charts-displayed-on-screens-38698437/",
+          "source_id": "pexels_38698437",
+          "decision": "selected",
+          "why": "从实际日收盘曲线看见跌破4000；实物金条生产持续运动，历史收盘与3975盘中低点分开标注。"
+        }
+      ]
+    },
+    {
+      "id": "r_mixkit_2861",
+      "query": "gold bullion real production vault",
+      "channel": "Mixkit本期gold检索与单素材许可页面",
+      "results": [
+        {
+          "url": "https://mixkit.co/free-stock-video/producing-gold-bullion-2861/",
+          "source_id": "mixkit_2861",
+          "decision": "selected",
+          "why": "熔铸黄金实物持续运动，展示3975盘中低点与实际日线；主镜头不冻结。"
+        },
+        {
+          "url": "https://www.pexels.com/video/digital-animation-of-gold-bars-8733007/",
+          "decision": "rejected",
+          "why": "CGI，非真实实物金条"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-handful-of-gold-and-silver-coins-8369983/",
+          "decision": "rejected",
+          "why": "加密代币，不可冒充实物黄金"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_36418699",
+      "query": "financial trader",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/stock-market-analysis-on-tablet-with-graphs-36418699/",
+          "source_id": "pexels_36418699",
+          "decision": "selected",
+          "why": "真实投资者看盘动作对应跌势下的疑问；不把演员标作托尔森。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7579954",
+      "query": "financial trader",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/man-looking-at-digital-graph-7579954/",
+          "source_id": "pexels_7579954",
+          "decision": "selected",
+          "why": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_38412249",
+      "query": "stock exchange",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/dynamic-financial-market-graphs-and-charts-analysis-38412249/",
+          "source_id": "pexels_38412249",
+          "decision": "selected",
+          "why": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_10223447",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447/",
+          "source_id": "pexels_10223447",
+          "decision": "selected",
+          "why": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_27616566",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566/",
+          "source_id": "pexels_27616566",
+          "decision": "selected",
+          "why": "金融新闻报纸与美元实拍打底，展示10月15日报告标题与原文预测；不冒充报告实拍。"
+        }
+      ]
+    },
+    {
+      "id": "r_mixkit_2862",
+      "query": "gold bullion real production vault",
+      "channel": "Mixkit本期gold检索与单素材许可页面",
+      "results": [
+        {
+          "url": "https://mixkit.co/free-stock-video/gold-ingots-on-a-shelf-2862/",
+          "source_id": "mixkit_2862",
+          "decision": "selected",
+          "why": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。"
+        },
+        {
+          "url": "https://www.pexels.com/video/digital-animation-of-gold-bars-8733007/",
+          "decision": "rejected",
+          "why": "CGI，非真实实物金条"
+        },
+        {
+          "url": "https://www.pexels.com/video/a-handful-of-gold-and-silver-coins-8369983/",
+          "decision": "rejected",
+          "why": "加密代币，不可冒充实物黄金"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_39020626",
+      "query": "stock exchange",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626/",
+          "source_id": "pexels_39020626",
+          "decision": "selected",
+          "why": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7580278",
+      "query": "financial trader",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/man-touching-a-screen-7580278/",
+          "source_id": "pexels_7580278",
+          "decision": "selected",
+          "why": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_38875223",
+      "query": "financial trader",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/dynamic-financial-market-data-display-38875223/",
+          "source_id": "pexels_38875223",
+          "decision": "selected",
+          "why": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_37558975",
+      "query": "new york stock exchange",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/vibrant-new-york-city-street-scene-at-wall-street-37558975/",
+          "source_id": "pexels_37558975",
+          "decision": "selected",
+          "why": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_7579951",
+      "query": "financial trader",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/man-monitoring-the-stocks-7579951/",
+          "source_id": "pexels_7579951",
+          "decision": "selected",
+          "why": "回到分析师真实原照与主要筑底时间窗，区分3500条件分支。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_4987955",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/panning-shot-of-the-united-states-mint-sign-4987955/",
+          "source_id": "pexels_4987955",
+          "decision": "selected",
+          "why": "美国铸币局实景作贵金属机构资料；原白银报告图聚焦55下方与50趋势线，标明预测支撑。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_29188213",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/historic-government-building-in-washington-dc-29188213/",
+          "source_id": "pexels_29188213",
+          "decision": "selected",
+          "why": "美国财政建筑实景；揭示原TNX周线真实过程，单位TNX除以10，最后4.988%与5%阈值分开。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_1797020",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/person-using-a-magnifying-glass-on-a-dollar-bill-1797020/",
+          "source_id": "pexels_1797020",
+          "decision": "selected",
+          "why": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_4393479",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/close-up-shot-of-flying-dollar-bills-4393479/",
+          "source_id": "pexels_4393479",
+          "decision": "selected",
+          "why": "美元钞票实拍和议息日历翻页，决议作为待发生催化；不冒充发布会现场。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_5466779",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/a-person-counting-money-5466779/",
+          "source_id": "pexels_5466779",
+          "decision": "selected",
+          "why": "真实数钞动作；通胀压力活塞上升推动加息预期标尺，表达条件机制。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_4145888",
+      "query": "treasury bonds",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/usa-money-american-bills-4145888/",
+          "source_id": "pexels_4145888",
+          "decision": "selected",
+          "why": "美元资料打底；预期利息筹码减少、持金机会成本压力解除、黄金承接面稳定，最后指向筑底窗口。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_38711950",
+      "query": "new york stock exchange",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/dynamic-stock-market-heatmap-display-38711950/",
+          "source_id": "pexels_38711950",
+          "decision": "selected",
+          "why": "市场热图实拍；10月15日至23日八日跨度，分别落定3950预测和3975实际低点，保留差距。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_30445098",
+      "query": "financial trader",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/focused-trader-analyzing-stocks-on-dual-monitors-30445098/",
+          "source_id": "pexels_30445098",
+          "decision": "selected",
+          "why": "双屏研究实拍；10月25日最新判断与3950再次出现，标明仍是判断。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_4319342",
+      "query": "stock exchange",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/finance-nyse-wall-street-new-york-city-4319342/",
+          "source_id": "pexels_4319342",
+          "decision": "selected",
+          "why": "纽约证券交易所实景；未来一到两周日历与关键观察线，留时间读互动问题。"
+        }
+      ]
+    },
+    {
+      "id": "r_pexels_5651767",
+      "query": "federal reserve",
+      "channel": "Pexels官方当期检索与原始JSON",
+      "results": [
+        {
+          "url": "https://www.pexels.com/video/american-legal-tender-coins-and-currency-5651767/",
+          "source_id": "pexels_5651767",
+          "decision": "selected",
+          "why": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。"
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene_ids": [
+        "scene_01"
+      ],
+      "goal": "从实际日收盘曲线看见跌破4000；实物金条生产持续运动，历史收盘与3975盘中低点分开标注。",
+      "visual_solution": "从实际日收盘曲线看见跌破4000；实物金条生产持续运动，历史收盘与3975盘中低点分开标注。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "history",
+      "source_ids": [
+        "pexels_38698437"
+      ],
+      "research_ids": [
+        "r_pexels_38698437"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_02"
+      ],
+      "goal": "熔铸黄金实物持续运动，展示3975盘中低点与实际日线；主镜头不冻结。",
+      "visual_solution": "熔铸黄金实物持续运动，展示3975盘中低点与实际日线；主镜头不冻结。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "history_low",
+      "source_ids": [
+        "mixkit_2861"
+      ],
+      "research_ids": [
+        "r_mixkit_2861"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_03"
+      ],
+      "goal": "真实投资者看盘动作对应跌势下的疑问；不把演员标作托尔森。",
+      "visual_solution": "真实投资者看盘动作对应跌势下的疑问；不把演员标作托尔森。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "question",
+      "source_ids": [
+        "pexels_36418699"
+      ],
+      "research_ids": [
+        "r_pexels_36418699"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_04",
+        "scene_05"
+      ],
+      "goal": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+      "visual_solution": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "author",
+      "source_ids": [
+        "pexels_7579954"
+      ],
+      "research_ids": [
+        "r_pexels_7579954"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_06",
+        "scene_07"
+      ],
+      "goal": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+      "visual_solution": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "washout",
+      "source_ids": [
+        "pexels_38412249"
+      ],
+      "research_ids": [
+        "r_pexels_38412249"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_08",
+        "scene_09",
+        "scene_10"
+      ],
+      "goal": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+      "visual_solution": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "window",
+      "source_ids": [
+        "pexels_10223447"
+      ],
+      "research_ids": [
+        "r_pexels_10223447"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_11"
+      ],
+      "goal": "金融新闻报纸与美元实拍打底，展示10月15日报告标题与原文预测；不冒充报告实拍。",
+      "visual_solution": "金融新闻报纸与美元实拍打底，展示10月15日报告标题与原文预测；不冒充报告实拍。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "earlier_title",
+      "source_ids": [
+        "pexels_27616566"
+      ],
+      "research_ids": [
+        "r_pexels_27616566"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_12",
+        "scene_13"
+      ],
+      "goal": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+      "visual_solution": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "earlier",
+      "source_ids": [
+        "mixkit_2862"
+      ],
+      "research_ids": [
+        "r_mixkit_2862"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_14",
+        "scene_15",
+        "scene_16"
+      ],
+      "goal": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+      "visual_solution": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "distance",
+      "source_ids": [
+        "pexels_39020626"
+      ],
+      "research_ids": [
+        "r_pexels_39020626"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_17",
+        "scene_18"
+      ],
+      "goal": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+      "visual_solution": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "support",
+      "source_ids": [
+        "pexels_7580278"
+      ],
+      "research_ids": [
+        "r_pexels_7580278"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_19",
+        "scene_20"
+      ],
+      "goal": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+      "visual_solution": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "support_deep",
+      "source_ids": [
+        "pexels_38875223"
+      ],
+      "research_ids": [
+        "r_pexels_38875223"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_21",
+        "scene_22"
+      ],
+      "goal": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+      "visual_solution": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "stress",
+      "source_ids": [
+        "pexels_37558975"
+      ],
+      "research_ids": [
+        "r_pexels_37558975"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_23"
+      ],
+      "goal": "回到分析师真实原照与主要筑底时间窗，区分3500条件分支。",
+      "visual_solution": "回到分析师真实原照与主要筑底时间窗，区分3500条件分支。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "maincase",
+      "source_ids": [
+        "pexels_7579951"
+      ],
+      "research_ids": [
+        "r_pexels_7579951"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_24"
+      ],
+      "goal": "美国铸币局实景作贵金属机构资料；原白银报告图聚焦55下方与50趋势线，标明预测支撑。",
+      "visual_solution": "美国铸币局实景作贵金属机构资料；原白银报告图聚焦55下方与50趋势线，标明预测支撑。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "silver",
+      "source_ids": [
+        "pexels_4987955"
+      ],
+      "research_ids": [
+        "r_pexels_4987955"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_25"
+      ],
+      "goal": "美国财政建筑实景；揭示原TNX周线真实过程，单位TNX除以10，最后4.988%与5%阈值分开。",
+      "visual_solution": "美国财政建筑实景；揭示原TNX周线真实过程，单位TNX除以10，最后4.988%与5%阈值分开。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "yield",
+      "source_ids": [
+        "pexels_29188213"
+      ],
+      "research_ids": [
+        "r_pexels_29188213"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_26",
+        "scene_27"
+      ],
+      "goal": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+      "visual_solution": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "probability",
+      "source_ids": [
+        "pexels_1797020"
+      ],
+      "research_ids": [
+        "r_pexels_1797020"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_28"
+      ],
+      "goal": "美元钞票实拍和议息日历翻页，决议作为待发生催化；不冒充发布会现场。",
+      "visual_solution": "美元钞票实拍和议息日历翻页，决议作为待发生催化；不冒充发布会现场。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "fed",
+      "source_ids": [
+        "pexels_4393479"
+      ],
+      "research_ids": [
+        "r_pexels_4393479"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_29"
+      ],
+      "goal": "真实数钞动作；通胀压力活塞上升推动加息预期标尺，表达条件机制。",
+      "visual_solution": "真实数钞动作；通胀压力活塞上升推动加息预期标尺，表达条件机制。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "pce",
+      "source_ids": [
+        "pexels_5466779"
+      ],
+      "research_ids": [
+        "r_pexels_5466779"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_30"
+      ],
+      "goal": "美元资料打底；预期利息筹码减少、持金机会成本压力解除、黄金承接面稳定，最后指向筑底窗口。",
+      "visual_solution": "美元资料打底；预期利息筹码减少、持金机会成本压力解除、黄金承接面稳定，最后指向筑底窗口。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "sequence",
+      "source_ids": [
+        "pexels_4145888"
+      ],
+      "research_ids": [
+        "r_pexels_4145888"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_31"
+      ],
+      "goal": "市场热图实拍；10月15日至23日八日跨度，分别落定3950预测和3975实际低点，保留差距。",
+      "visual_solution": "市场热图实拍；10月15日至23日八日跨度，分别落定3950预测和3975实际低点，保留差距。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "timeline1",
+      "source_ids": [
+        "pexels_38711950"
+      ],
+      "research_ids": [
+        "r_pexels_38711950"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_32"
+      ],
+      "goal": "双屏研究实拍；10月25日最新判断与3950再次出现，标明仍是判断。",
+      "visual_solution": "双屏研究实拍；10月25日最新判断与3950再次出现，标明仍是判断。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "timeline2",
+      "source_ids": [
+        "pexels_30445098"
+      ],
+      "research_ids": [
+        "r_pexels_30445098"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_33"
+      ],
+      "goal": "纽约证券交易所实景；未来一到两周日历与关键观察线，留时间读互动问题。",
+      "visual_solution": "纽约证券交易所实景；未来一到两周日历与关键观察线，留时间读互动问题。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "interaction",
+      "source_ids": [
+        "pexels_4319342"
+      ],
+      "research_ids": [
+        "r_pexels_4319342"
+      ]
+    },
+    {
+      "scene_ids": [
+        "scene_34",
+        "scene_35"
+      ],
+      "goal": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+      "visual_solution": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+      "graphics_role": "以原数据、原图、阈值和对象状态变化提供口播增量，不重复整句字幕。",
+      "visual_family": "close",
+      "source_ids": [
+        "pexels_5651767"
+      ],
+      "research_ids": [
+        "r_pexels_5651767"
+      ]
+    }
+  ],
+  "temporal_claims": [
+    {
+      "scene_ids": [
+        "scene_01",
+        "scene_02"
+      ],
+      "quote": "黄金刚刚跌破4000美元",
+      "decision": "animate_series",
+      "data_path": "data/xau-daily.json"
+    },
+    {
+      "scene_ids": [
+        "scene_06"
+      ],
+      "quote": "托尔森认为，金价如果短暂跌破3950美元，市场可能出现最后一轮恐慌抛售。",
+      "decision": "not_a_time_series",
+      "reason": "本幕是阈值/预测判断，不是随时间已发生的行情；真实历史走势已在开头完整交代。"
+    },
+    {
+      "scene_ids": [
+        "scene_12"
+      ],
+      "quote": "当时黄金还没有跌破4000美元，他就已经把本轮回调目标看到3950美元附近。",
+      "decision": "not_a_time_series",
+      "reason": "本幕是阈值/预测判断，不是随时间已发生的行情；真实历史走势已在开头完整交代。"
+    },
+    {
+      "scene_ids": [
+        "scene_24"
+      ],
+      "quote": "白银也是类似，跌破55美元之后，托尔森认为下一步测试50美元趋势线支撑的可能性正在上升。",
+      "decision": "not_a_time_series",
+      "reason": "本幕是阈值/预测判断，不是随时间已发生的行情；真实历史走势已在开头完整交代。"
+    },
+    {
+      "scene_ids": [
+        "scene_25"
+      ],
+      "quote": "10年期美债收益率上周已经收在5%下方",
+      "decision": "reveal_source_chart",
+      "chart_path": "evidence/thorson-0-chart-1.png",
+      "source_url": "https://goldprice.substack.com/p/weekend-gold-update",
+      "reason": "作者同一口径TNX周线已留原图；未取得作者周线逐笔序列，使用原始StockCharts真实走势图及原坐标，不从两个端点补线。",
+      "reveal_method": "完整图短暂交代后，在原图横轴上从左至右揭示2022—2026真实周线，最后定位2026年10月与5%水平线。"
+    }
+  ]
+}

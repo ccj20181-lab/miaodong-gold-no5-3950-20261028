@@ -1,0 +1,16 @@
+{
+  "original_md_sha256": "f3f451027f82becb1a31cbcb7b17fcf4e854afba448a7132648ea2d1ff4d4c57",
+  "narration_equal_original_35_scenes": true,
+  "narration_sha256": "ad2b6fecd0e93ecf6f6c2b8d18fc54d47ddc94333d4f73883fb67f6ed56112d2",
+  "episode": 5,
+  "mode": "stock",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "duration_seconds": 189.73333333333332,
+  "cover": "黄金观察NO.5-封面.png",
+  "human_full_listening": "not_performed",
+  "published": false
+}

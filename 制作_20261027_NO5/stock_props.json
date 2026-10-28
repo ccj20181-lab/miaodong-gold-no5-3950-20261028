@@ -1,0 +1,3728 @@
+{
+  "materialAudit": {
+    "status": "pass",
+    "shot_count": 35,
+    "original_video_count": 23,
+    "checks": [
+      "source_id",
+      "resolved_path",
+      "normalized_url",
+      "provider_id_if_present",
+      "actual_file_sha256"
+    ],
+    "semantic_match_verified": false,
+    "semantic_review": "supports statements are author supplied; human visual review required",
+    "shots": [
+      {
+        "scene_id": "scene_01",
+        "shot_index": 1,
+        "supports": "从实际日收盘曲线看见跌破4000；实物金条生产持续运动，历史收盘与3975盘中低点分开标注。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38698437",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38698437.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-market-charts-displayed-on-screens-38698437",
+          "provider_id": "pexels:38698437",
+          "sha256": "a8d6c524254042bf6ea9810e02ad280fe5145a9fb768802745c6df709f211df4"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_02",
+        "shot_index": 1,
+        "supports": "熔铸黄金实物持续运动，展示3975盘中低点与实际日线；主镜头不冻结。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "mixkit_2861",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/mixkit_2861.mp4",
+          "url": "//mixkit.co/free-stock-video/producing-gold-bullion-2861",
+          "provider_id": "mixkit:2861",
+          "sha256": "9acf3004416eda8f418692937f14aefd283d9c8da458a899db8cf023e77aabba"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_03",
+        "shot_index": 1,
+        "supports": "真实投资者看盘动作对应跌势下的疑问；不把演员标作托尔森。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_36418699",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_36418699.mp4",
+          "url": "//www.pexels.com/video/stock-market-analysis-on-tablet-with-graphs-36418699",
+          "provider_id": "pexels:36418699",
+          "sha256": "81e11979ee7a2e66265bfa9ff25939c9513070ab4369ddb8d8609603f343233e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_04",
+        "shot_index": 1,
+        "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7579954",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7579954.mp4",
+          "url": "//www.pexels.com/video/man-looking-at-digital-graph-7579954",
+          "provider_id": "pexels:7579954",
+          "sha256": "1fc913e0bb9a476aa943f7daed1e7c0ac46638ccf94179df05c2cccd0b9aeb6c"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_05",
+        "shot_index": 1,
+        "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7579954",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7579954.mp4",
+          "url": "//www.pexels.com/video/man-looking-at-digital-graph-7579954",
+          "provider_id": "pexels:7579954",
+          "sha256": "1fc913e0bb9a476aa943f7daed1e7c0ac46638ccf94179df05c2cccd0b9aeb6c"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_06",
+        "shot_index": 1,
+        "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38412249",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38412249.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-graphs-and-charts-analysis-38412249",
+          "provider_id": "pexels:38412249",
+          "sha256": "fb41b14fa9514652af7d497fe50512e71ac393f3f4a0c518dacf309a124bdf89"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_07",
+        "shot_index": 1,
+        "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38412249",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38412249.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-graphs-and-charts-analysis-38412249",
+          "provider_id": "pexels:38412249",
+          "sha256": "fb41b14fa9514652af7d497fe50512e71ac393f3f4a0c518dacf309a124bdf89"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_08",
+        "shot_index": 1,
+        "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_10223447",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_10223447.mp4",
+          "url": "//www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447",
+          "provider_id": "pexels:10223447",
+          "sha256": "aed44a78d107e3d11b7af24ed8410e371182217cdf4bcc52c89a81fd451a9a01"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_09",
+        "shot_index": 1,
+        "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_10223447",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_10223447.mp4",
+          "url": "//www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447",
+          "provider_id": "pexels:10223447",
+          "sha256": "aed44a78d107e3d11b7af24ed8410e371182217cdf4bcc52c89a81fd451a9a01"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_10",
+        "shot_index": 1,
+        "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_10223447",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_10223447.mp4",
+          "url": "//www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447",
+          "provider_id": "pexels:10223447",
+          "sha256": "aed44a78d107e3d11b7af24ed8410e371182217cdf4bcc52c89a81fd451a9a01"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_11",
+        "shot_index": 1,
+        "supports": "金融新闻报纸与美元实拍打底，展示10月15日报告标题与原文预测；不冒充报告实拍。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_27616566",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_27616566.mp4",
+          "url": "//www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566",
+          "provider_id": "pexels:27616566",
+          "sha256": "b2b4a09ff3046f9d1014450a5ee8e6b1339f7136b32c16eaacdea99cae22c4b3"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_12",
+        "shot_index": 1,
+        "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "mixkit_2862",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/mixkit_2862.mp4",
+          "url": "//mixkit.co/free-stock-video/gold-ingots-on-a-shelf-2862",
+          "provider_id": "mixkit:2862",
+          "sha256": "966cfda0a7c53be7ff29b1553948bf5b4c034d3321bf47f2b3ad16a621bf3115"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_13",
+        "shot_index": 1,
+        "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "mixkit_2862",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/mixkit_2862.mp4",
+          "url": "//mixkit.co/free-stock-video/gold-ingots-on-a-shelf-2862",
+          "provider_id": "mixkit:2862",
+          "sha256": "966cfda0a7c53be7ff29b1553948bf5b4c034d3321bf47f2b3ad16a621bf3115"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_14",
+        "shot_index": 1,
+        "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_39020626",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_39020626.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626",
+          "provider_id": "pexels:39020626",
+          "sha256": "cac6d2afa1ce5c56e9d3ca1374501d1a1cf0a2251ec8e71dde6ac86d8ef174bf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_15",
+        "shot_index": 1,
+        "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_39020626",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_39020626.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626",
+          "provider_id": "pexels:39020626",
+          "sha256": "cac6d2afa1ce5c56e9d3ca1374501d1a1cf0a2251ec8e71dde6ac86d8ef174bf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_16",
+        "shot_index": 1,
+        "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_39020626",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_39020626.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626",
+          "provider_id": "pexels:39020626",
+          "sha256": "cac6d2afa1ce5c56e9d3ca1374501d1a1cf0a2251ec8e71dde6ac86d8ef174bf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_17",
+        "shot_index": 1,
+        "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7580278",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7580278.mp4",
+          "url": "//www.pexels.com/video/man-touching-a-screen-7580278",
+          "provider_id": "pexels:7580278",
+          "sha256": "38fed134ec1c33253d92968786e5374768b83e7dff69d00f080b4bd4254f506f"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_18",
+        "shot_index": 1,
+        "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7580278",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7580278.mp4",
+          "url": "//www.pexels.com/video/man-touching-a-screen-7580278",
+          "provider_id": "pexels:7580278",
+          "sha256": "38fed134ec1c33253d92968786e5374768b83e7dff69d00f080b4bd4254f506f"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_19",
+        "shot_index": 1,
+        "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38875223",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38875223.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-data-display-38875223",
+          "provider_id": "pexels:38875223",
+          "sha256": "d4eb2fcf806740cd8f38efb98c5ab3b3a4eb2942d20519d9dcf363e69a49befe"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_20",
+        "shot_index": 1,
+        "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38875223",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38875223.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-data-display-38875223",
+          "provider_id": "pexels:38875223",
+          "sha256": "d4eb2fcf806740cd8f38efb98c5ab3b3a4eb2942d20519d9dcf363e69a49befe"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_21",
+        "shot_index": 1,
+        "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_37558975",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_37558975.mp4",
+          "url": "//www.pexels.com/video/vibrant-new-york-city-street-scene-at-wall-street-37558975",
+          "provider_id": "pexels:37558975",
+          "sha256": "ab40092c31ac049edf82a7721ff433b9bfaec7fca76afbe0dc6452efc9a6ffbc"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_22",
+        "shot_index": 1,
+        "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_37558975",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_37558975.mp4",
+          "url": "//www.pexels.com/video/vibrant-new-york-city-street-scene-at-wall-street-37558975",
+          "provider_id": "pexels:37558975",
+          "sha256": "ab40092c31ac049edf82a7721ff433b9bfaec7fca76afbe0dc6452efc9a6ffbc"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_23",
+        "shot_index": 1,
+        "supports": "回到分析师真实原照与主要筑底时间窗，区分3500条件分支。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7579951",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7579951.mp4",
+          "url": "//www.pexels.com/video/man-monitoring-the-stocks-7579951",
+          "provider_id": "pexels:7579951",
+          "sha256": "5a4dda5415d9c933185c4afe015076d49ae3114ece0129edbe2cff90c9ad8386"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_24",
+        "shot_index": 1,
+        "supports": "美国铸币局实景作贵金属机构资料；原白银报告图聚焦55下方与50趋势线，标明预测支撑。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4987955",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4987955.mp4",
+          "url": "//www.pexels.com/video/panning-shot-of-the-united-states-mint-sign-4987955",
+          "provider_id": "pexels:4987955",
+          "sha256": "b832dcf63b22e298a442b55f1e1ff74d3af4ba1d0a7af47d1b298a1eb68bee9e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_25",
+        "shot_index": 1,
+        "supports": "美国财政建筑实景；揭示原TNX周线真实过程，单位TNX除以10，最后4.988%与5%阈值分开。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_29188213",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_29188213.mp4",
+          "url": "//www.pexels.com/video/historic-government-building-in-washington-dc-29188213",
+          "provider_id": "pexels:29188213",
+          "sha256": "c13e9820d96412da11e6c64d545ac0ac041065ff362fbbdf4ed0ff7f2b97fede"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_26",
+        "shot_index": 1,
+        "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_1797020",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_1797020.mp4",
+          "url": "//www.pexels.com/video/person-using-a-magnifying-glass-on-a-dollar-bill-1797020",
+          "provider_id": "pexels:1797020",
+          "sha256": "a1915fc9c0dcb11b992c377e495dddaa894d0346e4e70edc0995c24a2fd10f82"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_27",
+        "shot_index": 1,
+        "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_1797020",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_1797020.mp4",
+          "url": "//www.pexels.com/video/person-using-a-magnifying-glass-on-a-dollar-bill-1797020",
+          "provider_id": "pexels:1797020",
+          "sha256": "a1915fc9c0dcb11b992c377e495dddaa894d0346e4e70edc0995c24a2fd10f82"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_28",
+        "shot_index": 1,
+        "supports": "美元钞票实拍和议息日历翻页，决议作为待发生催化；不冒充发布会现场。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4393479",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4393479.mp4",
+          "url": "//www.pexels.com/video/close-up-shot-of-flying-dollar-bills-4393479",
+          "provider_id": "pexels:4393479",
+          "sha256": "18f0d43a8e9a3b5c1f9a6330ffa686617fda357c2ce3515b879e15a2f795c663"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_29",
+        "shot_index": 1,
+        "supports": "真实数钞动作；通胀压力活塞上升推动加息预期标尺，表达条件机制。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_5466779",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_5466779.mp4",
+          "url": "//www.pexels.com/video/a-person-counting-money-5466779",
+          "provider_id": "pexels:5466779",
+          "sha256": "8a822a31b7951cc6a21857b5671be04350b5e0cb3f24f6e7e97abf817507abcd"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_30",
+        "shot_index": 1,
+        "supports": "美元资料打底；预期利息筹码减少、持金机会成本压力解除、黄金承接面稳定，最后指向筑底窗口。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4145888",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4145888.mp4",
+          "url": "//www.pexels.com/video/usa-money-american-bills-4145888",
+          "provider_id": "pexels:4145888",
+          "sha256": "d880ca420fe6a91fce24bbdf78cc808ac2f8ad6808c622f8e209ea70162edb0e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_31",
+        "shot_index": 1,
+        "supports": "市场热图实拍；10月15日至23日八日跨度，分别落定3950预测和3975实际低点，保留差距。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38711950",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38711950.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-market-heatmap-display-38711950",
+          "provider_id": "pexels:38711950",
+          "sha256": "15b21f9bef81c3178b2bb9b4369172f5eaff80aa0954db72d5fd731317076c0e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_32",
+        "shot_index": 1,
+        "supports": "双屏研究实拍；10月25日最新判断与3950再次出现，标明仍是判断。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_30445098",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_30445098.mp4",
+          "url": "//www.pexels.com/video/focused-trader-analyzing-stocks-on-dual-monitors-30445098",
+          "provider_id": "pexels:30445098",
+          "sha256": "09aca2f2c0214a7ca122c44e475134dd860cd39de545b9689552be295f99f6cc"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_33",
+        "shot_index": 1,
+        "supports": "纽约证券交易所实景；未来一到两周日历与关键观察线，留时间读互动问题。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4319342",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4319342.mp4",
+          "url": "//www.pexels.com/video/finance-nyse-wall-street-new-york-city-4319342",
+          "provider_id": "pexels:4319342",
+          "sha256": "bac0b41d934e4393c76079efa946f3376725e20a16a6a9cc4635485e27b58ebf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_34",
+        "shot_index": 1,
+        "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_5651767",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_5651767.mp4",
+          "url": "//www.pexels.com/video/american-legal-tender-coins-and-currency-5651767",
+          "provider_id": "pexels:5651767",
+          "sha256": "43d04f0a210d05ae867d92162c44005edab411ddd8439ef3aab1b91c43977ddb"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_35",
+        "shot_index": 1,
+        "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_5651767",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_5651767.mp4",
+          "url": "//www.pexels.com/video/american-legal-tender-coins-and-currency-5651767",
+          "provider_id": "pexels:5651767",
+          "sha256": "43d04f0a210d05ae867d92162c44005edab411ddd8439ef3aab1b91c43977ddb"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      }
+    ]
+  },
+  "compositeMode": true,
+  "scenes": [
+    {
+      "id": "scene_01",
+      "from": 0,
+      "frames": 264,
+      "audio": "audio/scene_01.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_38698437",
+          "path": "materials/pexels_38698437.mp4",
+          "supports": "从实际日收盘曲线看见跌破4000；实物金条生产持续运动，历史收盘与3975盘中低点分开标注。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 8.8,
+          "from": 0,
+          "frames": 264,
+          "trimBefore": 3,
+          "src": "media/6bc3981f08e59449.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 40,
+          "segments": [
+            {
+              "text": "黄金刚刚跌破",
+              "highlight": false
+            },
+            {
+              "text": "4000美元",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 40,
+          "to": 136,
+          "segments": [
+            {
+              "text": "多次准确预判黄金走势的分析师托尔森又发",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 136,
+          "to": 195,
+          "segments": [
+            {
+              "text": "话了：",
+              "highlight": false
+            },
+            {
+              "text": "3950美元",
+              "highlight": true
+            },
+            {
+              "text": "附近，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 195,
+          "to": 264,
+          "segments": [
+            {
+              "text": "可能就是这轮下跌的“",
+              "highlight": false
+            },
+            {
+              "text": "最后一洗",
+              "highlight": true
+            },
+            {
+              "text": "”！",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": {
+        "from": 0,
+        "to": 264,
+        "title": "黄金跌破4000美元",
+        "instrument": "XAU/USD · 2026.09.25—10.23",
+        "unit": "美元/盎司",
+        "source": "英为财情｜日收盘；Kitco｜盘中低点",
+        "points": [
+          {
+            "date": "2026-09-25",
+            "close": 4287.25
+          },
+          {
+            "date": "2026-09-28",
+            "close": 4115.27
+          },
+          {
+            "date": "2026-09-29",
+            "close": 4182.8
+          },
+          {
+            "date": "2026-09-30",
+            "close": 4157.34
+          },
+          {
+            "date": "2026-10-01",
+            "close": 4178.86
+          },
+          {
+            "date": "2026-10-02",
+            "close": 4142.96
+          },
+          {
+            "date": "2026-10-05",
+            "close": 4139.89
+          },
+          {
+            "date": "2026-10-06",
+            "close": 4164.35
+          },
+          {
+            "date": "2026-10-07",
+            "close": 4111.05
+          },
+          {
+            "date": "2026-10-08",
+            "close": 4134.93
+          },
+          {
+            "date": "2026-10-09",
+            "close": 4194.46
+          },
+          {
+            "date": "2026-10-12",
+            "close": 4171.69
+          },
+          {
+            "date": "2026-10-13",
+            "close": 4157.95
+          },
+          {
+            "date": "2026-10-14",
+            "close": 4105.7
+          },
+          {
+            "date": "2026-10-15",
+            "close": 4170.87
+          },
+          {
+            "date": "2026-10-16",
+            "close": 4165.5
+          },
+          {
+            "date": "2026-10-19",
+            "close": 4140.87
+          },
+          {
+            "date": "2026-10-20",
+            "close": 4124.94
+          },
+          {
+            "date": "2026-10-21",
+            "close": 4140.97
+          },
+          {
+            "date": "2026-10-22",
+            "close": 4024.23
+          },
+          {
+            "date": "2026-10-23",
+            "close": 3995.8,
+            "low": 3975.64,
+            "high": 4034.17
+          }
+        ],
+        "domain": [
+          3900,
+          4350
+        ],
+        "drawFrom": 0,
+        "drawTo": 55,
+        "markers": [
+          {
+            "date": "2026-10-23",
+            "field": "low",
+            "label": "盘中低点3975.64",
+            "from": 58
+          }
+        ],
+        "contextNote": "历史行情截至10月23日｜3950为托尔森预测"
+      },
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_02",
+      "from": 264,
+      "frames": 225,
+      "audio": "audio/scene_02.mp3",
+      "shots": [
+        {
+          "source_id": "mixkit_2861",
+          "path": "materials/mixkit_2861.mp4",
+          "supports": "熔铸黄金实物持续运动，展示3975盘中低点与实际日线；主镜头不冻结。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 7.5,
+          "from": 0,
+          "frames": 225,
+          "trimBefore": 3,
+          "src": "media/1ecdb4b9fbabbba7.mp4",
+          "sourceLabel": "Mixkit｜实物黄金资料",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 28,
+          "segments": [
+            {
+              "text": "上周五，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 28,
+          "to": 110,
+          "segments": [
+            {
+              "text": "现货黄金最低一度砸到",
+              "highlight": false
+            },
+            {
+              "text": "3975美元",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 110,
+          "to": 180,
+          "segments": [
+            {
+              "text": "创下7月20日以来新低，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 180,
+          "to": 225,
+          "segments": [
+            {
+              "text": "一周跌幅超过4%。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": {
+        "from": 0,
+        "to": 225,
+        "title": "10月23日 · 盘中低点3975.64",
+        "instrument": "XAU/USD · 2026.09.25—10.23",
+        "unit": "美元/盎司",
+        "source": "英为财情｜日收盘；Kitco｜盘中低点",
+        "points": [
+          {
+            "date": "2026-09-25",
+            "close": 4287.25
+          },
+          {
+            "date": "2026-09-28",
+            "close": 4115.27
+          },
+          {
+            "date": "2026-09-29",
+            "close": 4182.8
+          },
+          {
+            "date": "2026-09-30",
+            "close": 4157.34
+          },
+          {
+            "date": "2026-10-01",
+            "close": 4178.86
+          },
+          {
+            "date": "2026-10-02",
+            "close": 4142.96
+          },
+          {
+            "date": "2026-10-05",
+            "close": 4139.89
+          },
+          {
+            "date": "2026-10-06",
+            "close": 4164.35
+          },
+          {
+            "date": "2026-10-07",
+            "close": 4111.05
+          },
+          {
+            "date": "2026-10-08",
+            "close": 4134.93
+          },
+          {
+            "date": "2026-10-09",
+            "close": 4194.46
+          },
+          {
+            "date": "2026-10-12",
+            "close": 4171.69
+          },
+          {
+            "date": "2026-10-13",
+            "close": 4157.95
+          },
+          {
+            "date": "2026-10-14",
+            "close": 4105.7
+          },
+          {
+            "date": "2026-10-15",
+            "close": 4170.87
+          },
+          {
+            "date": "2026-10-16",
+            "close": 4165.5
+          },
+          {
+            "date": "2026-10-19",
+            "close": 4140.87
+          },
+          {
+            "date": "2026-10-20",
+            "close": 4124.94
+          },
+          {
+            "date": "2026-10-21",
+            "close": 4140.97
+          },
+          {
+            "date": "2026-10-22",
+            "close": 4024.23
+          },
+          {
+            "date": "2026-10-23",
+            "close": 3995.8,
+            "low": 3975.64,
+            "high": 4034.17
+          }
+        ],
+        "domain": [
+          3900,
+          4350
+        ],
+        "drawFrom": 0,
+        "drawTo": 111,
+        "markers": [
+          {
+            "date": "2026-10-23",
+            "field": "low",
+            "label": "盘中低点3975.64",
+            "from": 112
+          }
+        ],
+        "contextNote": "历史行情截至10月23日｜3950为托尔森预测"
+      },
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_03",
+      "from": 489,
+      "frames": 114,
+      "audio": "audio/scene_03.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_36418699",
+          "path": "materials/pexels_36418699.mp4",
+          "supports": "真实投资者看盘动作对应跌势下的疑问；不把演员标作托尔森。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 3.8,
+          "from": 0,
+          "frames": 114,
+          "trimBefore": 3,
+          "src": "media/87491f3aa6682447.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 70,
+          "segments": [
+            {
+              "text": "很多人现在最关心的就是：这轮黄金，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 70,
+          "to": 114,
+          "segments": [
+            {
+              "text": "到底还要跌多久？",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_04",
+      "from": 603,
+      "frames": 159,
+      "audio": "audio/scene_04.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_7579954",
+          "path": "materials/pexels_7579954.mp4",
+          "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 5.3,
+          "from": 0,
+          "frames": 159,
+          "trimBefore": 3,
+          "src": "media/8d5461e38e88d036.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 23,
+          "segments": [
+            {
+              "text": "10月",
+              "highlight": false
+            },
+            {
+              "text": "25",
+              "highlight": true
+            },
+            {
+              "text": "日，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 23,
+          "to": 81,
+          "segments": [
+            {
+              "text": "托尔森在最新一期《Weekend ",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 81,
+          "to": 103,
+          "segments": [
+            {
+              "text": "Gold Update》里，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 103,
+          "to": 159,
+          "segments": [
+            {
+              "text": "给出了非常明确的判断。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_05",
+      "from": 762,
+      "frames": 205,
+      "audio": "audio/scene_05.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_7579954",
+          "path": "materials/pexels_7579954.mp4",
+          "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 5.4,
+          "duration_seconds": 6.833333333333333,
+          "from": 0,
+          "frames": 205,
+          "trimBefore": 162,
+          "src": "media/8d5461e38e88d036.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 85,
+          "segments": [
+            {
+              "text": "他的黄金周期指标",
+              "highlight": false
+            },
+            {
+              "text": "GCI",
+              "highlight": true
+            },
+            {
+              "text": "已经降到",
+              "highlight": false
+            },
+            {
+              "text": "25",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 85,
+          "to": 130,
+          "segments": [
+            {
+              "text": "正式进入下四分位，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 130,
+          "to": 205,
+          "segments": [
+            {
+              "text": "也就是他定义的“",
+              "highlight": false
+            },
+            {
+              "text": "深度超卖区",
+              "highlight": true
+            },
+            {
+              "text": "”。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_06",
+      "from": 967,
+      "frames": 173,
+      "audio": "audio/scene_06.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_38412249",
+          "path": "materials/pexels_38412249.mp4",
+          "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 5.766666666666667,
+          "from": 0,
+          "frames": 173,
+          "trimBefore": 3,
+          "src": "media/57c2bd9a9fbd16fa.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 24,
+          "segments": [
+            {
+              "text": "托尔森认为，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 24,
+          "to": 94,
+          "segments": [
+            {
+              "text": "金价如果短暂跌破",
+              "highlight": false
+            },
+            {
+              "text": "3950美元",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 94,
+          "to": 173,
+          "segments": [
+            {
+              "text": "市场可能出现最后一轮",
+              "highlight": false
+            },
+            {
+              "text": "恐慌抛售",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_07",
+      "from": 1140,
+      "frames": 91,
+      "audio": "audio/scene_07.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_38412249",
+          "path": "materials/pexels_38412249.mp4",
+          "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 5.866666666666666,
+          "duration_seconds": 3.033333333333333,
+          "from": 0,
+          "frames": 91,
+          "trimBefore": 176,
+          "src": "media/57c2bd9a9fbd16fa.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 16,
+          "segments": [
+            {
+              "text": "而这一下，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 16,
+          "to": 91,
+          "segments": [
+            {
+              "text": "很可能就是这轮调整的“",
+              "highlight": false
+            },
+            {
+              "text": "最终洗盘",
+              "highlight": true
+            },
+            {
+              "text": "”！",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_08",
+      "from": 1231,
+      "frames": 138,
+      "audio": "audio/scene_08.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_10223447",
+          "path": "materials/pexels_10223447.mp4",
+          "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 4.6,
+          "from": 0,
+          "frames": 138,
+          "trimBefore": 3,
+          "src": "media/f2c902c5396b6db2.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 39,
+          "segments": [
+            {
+              "text": "他给出的筑底窗口，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 39,
+          "to": 138,
+          "segments": [
+            {
+              "text": "是现在到11月第一周，最迟第二周。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_09",
+      "from": 1369,
+      "frames": 30,
+      "audio": "audio/scene_09.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_10223447",
+          "path": "materials/pexels_10223447.mp4",
+          "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 4.7,
+          "duration_seconds": 1.0,
+          "from": 0,
+          "frames": 30,
+          "trimBefore": 141,
+          "src": "media/f2c902c5396b6db2.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 30,
+          "segments": [
+            {
+              "text": "关键是！",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_10",
+      "from": 1399,
+      "frames": 152,
+      "audio": "audio/scene_10.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_10223447",
+          "path": "materials/pexels_10223447.mp4",
+          "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 5.7,
+          "duration_seconds": 5.066666666666666,
+          "from": 0,
+          "frames": 152,
+          "trimBefore": 171,
+          "src": "media/f2c902c5396b6db2.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 83,
+          "segments": [
+            {
+              "text": "3950美元",
+              "highlight": true
+            },
+            {
+              "text": "，并不是金价跌下来以后，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 83,
+          "to": 152,
+          "segments": [
+            {
+              "text": "托尔森才临时喊出来的数字。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_11",
+      "from": 1551,
+      "frames": 177,
+      "audio": "audio/scene_11.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_27616566",
+          "path": "materials/pexels_27616566.mp4",
+          "supports": "金融新闻报纸与美元实拍打底，展示10月15日报告标题与原文预测；不冒充报告实拍。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 5.9,
+          "from": 0,
+          "frames": 177,
+          "trimBefore": 3,
+          "src": "media/b4087be784b5e992.mp4",
+          "sourceLabel": "Pexels｜金融报道资料",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 67,
+          "segments": [
+            {
+              "text": "早在10月15日，他就发过一份报告，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 67,
+          "to": 114,
+          "segments": [
+            {
+              "text": "标题就叫《The Final ",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 114,
+          "to": 145,
+          "segments": [
+            {
+              "text": "Washout into an ",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 145,
+          "to": 177,
+          "segments": [
+            {
+              "text": "October Bottom》。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_12",
+      "from": 1728,
+      "frames": 181,
+      "audio": "audio/scene_12.mp3",
+      "shots": [
+        {
+          "source_id": "mixkit_2862",
+          "path": "materials/mixkit_2862.mp4",
+          "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 6.033333333333333,
+          "from": 0,
+          "frames": 181,
+          "trimBefore": 3,
+          "src": "media/c688968ab6939b45.mp4",
+          "sourceLabel": "Mixkit｜实物黄金资料",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 57,
+          "segments": [
+            {
+              "text": "当时黄金还没有跌破",
+              "highlight": false
+            },
+            {
+              "text": "4000美元",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 57,
+          "to": 158,
+          "segments": [
+            {
+              "text": "他就已经把本轮回调目标看到",
+              "highlight": false
+            },
+            {
+              "text": "3950美元",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "from": 158,
+          "to": 181,
+          "segments": [
+            {
+              "text": "附近。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_13",
+      "from": 1909,
+      "frames": 170,
+      "audio": "audio/scene_13.mp3",
+      "shots": [
+        {
+          "source_id": "mixkit_2862",
+          "path": "materials/mixkit_2862.mp4",
+          "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 6.133333333333334,
+          "duration_seconds": 5.666666666666667,
+          "from": 0,
+          "frames": 170,
+          "trimBefore": 184,
+          "src": "media/c688968ab6939b45.mp4",
+          "sourceLabel": "Mixkit｜实物黄金资料",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 49,
+          "segments": [
+            {
+              "text": "托尔森当时甚至判断，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 49,
+          "to": 101,
+          "segments": [
+            {
+              "text": "金价可能短暂跌穿这个位置，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 101,
+          "to": 170,
+          "segments": [
+            {
+              "text": "然后在10月底附近完成筑底。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_14",
+      "from": 2079,
+      "frames": 128,
+      "audio": "audio/scene_14.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_39020626",
+          "path": "materials/pexels_39020626.mp4",
+          "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 4.266666666666667,
+          "from": 0,
+          "frames": 128,
+          "trimBefore": 3,
+          "src": "media/f13754fcf497d330.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 34,
+          "segments": [
+            {
+              "text": "结果8天之后，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 34,
+          "to": 128,
+          "segments": [
+            {
+              "text": "金价最低真的杀到了",
+              "highlight": false
+            },
+            {
+              "text": "3975美元",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_15",
+      "from": 2207,
+      "frames": 128,
+      "audio": "audio/scene_15.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_39020626",
+          "path": "materials/pexels_39020626.mp4",
+          "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 4.366666666666666,
+          "duration_seconds": 4.266666666666667,
+          "from": 0,
+          "frames": 128,
+          "trimBefore": 131,
+          "src": "media/f13754fcf497d330.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 79,
+          "segments": [
+            {
+              "text": "距离",
+              "highlight": false
+            },
+            {
+              "text": "3950美元",
+              "highlight": true
+            },
+            {
+              "text": "，只差",
+              "highlight": false
+            },
+            {
+              "text": "25",
+              "highlight": true
+            },
+            {
+              "text": "美元，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 79,
+          "to": 128,
+          "segments": [
+            {
+              "text": "大约0.6%。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_16",
+      "from": 2335,
+      "frames": 54,
+      "audio": "audio/scene_16.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_39020626",
+          "path": "materials/pexels_39020626.mp4",
+          "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 8.633333333333333,
+          "duration_seconds": 1.8,
+          "from": 0,
+          "frames": 54,
+          "trimBefore": 259,
+          "src": "media/f13754fcf497d330.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 54,
+          "segments": [
+            {
+              "text": "这一笔，目前走得相当接近！",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_17",
+      "from": 2389,
+      "frames": 104,
+      "audio": "audio/scene_17.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_7580278",
+          "path": "materials/pexels_7580278.mp4",
+          "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 3.466666666666667,
+          "from": 0,
+          "frames": 104,
+          "trimBefore": 3,
+          "src": "media/9b327558c12116e4.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 59,
+          "segments": [
+            {
+              "text": "而且，市场现在盯着的支撑位，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 59,
+          "to": 104,
+          "segments": [
+            {
+              "text": "也刚好在这一带。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_18",
+      "from": 2493,
+      "frames": 192,
+      "audio": "audio/scene_18.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_7580278",
+          "path": "materials/pexels_7580278.mp4",
+          "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 3.566666666666667,
+          "duration_seconds": 6.4,
+          "from": 0,
+          "frames": 192,
+          "trimBefore": 107,
+          "src": "media/9b327558c12116e4.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 76,
+          "segments": [
+            {
+              "text": "Kitco最新技术分析给出的第一组重要",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 76,
+          "to": 192,
+          "segments": [
+            {
+              "text": "支撑，是",
+              "highlight": false
+            },
+            {
+              "text": "3963到3946美元",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_19",
+      "from": 2685,
+      "frames": 88,
+      "audio": "audio/scene_19.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_38875223",
+          "path": "materials/pexels_38875223.mp4",
+          "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 2.933333333333333,
+          "from": 0,
+          "frames": 88,
+          "trimBefore": 3,
+          "src": "media/ace328483cd684ed.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 88,
+          "segments": [
+            {
+              "text": "再往下，才会看向",
+              "highlight": false
+            },
+            {
+              "text": "3890美元",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_20",
+      "from": 2773,
+      "frames": 249,
+      "audio": "audio/scene_20.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_38875223",
+          "path": "materials/pexels_38875223.mp4",
+          "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 3.033333333333333,
+          "duration_seconds": 8.3,
+          "from": 0,
+          "frames": 249,
+          "trimBefore": 91,
+          "src": "media/ace328483cd684ed.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 70,
+          "segments": [
+            {
+              "text": "也就是说，托尔森盯3950，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 70,
+          "to": 156,
+          "segments": [
+            {
+              "text": "技术支撑区也压在3950附近，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 156,
+          "to": 249,
+          "segments": [
+            {
+              "text": "这里已经成了黄金现在最关键的位置之一。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_21",
+      "from": 3022,
+      "frames": 197,
+      "audio": "audio/scene_21.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_37558975",
+          "path": "materials/pexels_37558975.mp4",
+          "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 6.566666666666666,
+          "from": 0,
+          "frames": 197,
+          "trimBefore": 3,
+          "src": "media/184fc20e3f970de2.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 55,
+          "segments": [
+            {
+              "text": "托尔森也给了一个更极端的情况：",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 55,
+          "to": 139,
+          "segments": [
+            {
+              "text": "中期选举之后，如果美股出现严重下跌，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 139,
+          "to": 197,
+          "segments": [
+            {
+              "text": "黄金可能被一起拖下去。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_22",
+      "from": 3219,
+      "frames": 140,
+      "audio": "audio/scene_22.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_37558975",
+          "path": "materials/pexels_37558975.mp4",
+          "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 6.666666666666667,
+          "duration_seconds": 4.666666666666667,
+          "from": 0,
+          "frames": 140,
+          "trimBefore": 200,
+          "src": "media/184fc20e3f970de2.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 33,
+          "segments": [
+            {
+              "text": "到了这种极端情况，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 33,
+          "to": 127,
+          "segments": [
+            {
+              "text": "他才把黄金更深的位置看到",
+              "highlight": false
+            },
+            {
+              "text": "3500美元",
+              "highlight": true
+            },
+            {
+              "text": "附",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 127,
+          "to": 140,
+          "segments": [
+            {
+              "text": "近。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_23",
+      "from": 3359,
+      "frames": 161,
+      "audio": "audio/scene_23.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_7579951",
+          "path": "materials/pexels_7579951.mp4",
+          "supports": "回到分析师真实原照与主要筑底时间窗，区分3500条件分支。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 5.366666666666666,
+          "from": 0,
+          "frames": 161,
+          "trimBefore": 3,
+          "src": "media/52c852a2f32ecfdc.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.8972222222222221
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 64,
+          "segments": [
+            {
+              "text": "但这不是他的主判断，他现在押的，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 64,
+          "to": 161,
+          "segments": [
+            {
+              "text": "还是10月底到11月上旬完成这一轮筑底",
+              "highlight": false
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_24",
+      "from": 3520,
+      "frames": 215,
+      "audio": "audio/scene_24.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_4987955",
+          "path": "materials/pexels_4987955.mp4",
+          "supports": "美国铸币局实景作贵金属机构资料；原白银报告图聚焦55下方与50趋势线，标明预测支撑。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 7.166666666666667,
+          "from": 0,
+          "frames": 215,
+          "trimBefore": 3,
+          "src": "media/b940e603eef7b2d5.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 77,
+          "segments": [
+            {
+              "text": "白银也是类似，跌破55美元之后，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 77,
+          "to": 167,
+          "segments": [
+            {
+              "text": "托尔森认为下一步测试",
+              "highlight": false
+            },
+            {
+              "text": "50美元",
+              "highlight": true
+            },
+            {
+              "text": "趋势线支撑",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 167,
+          "to": 215,
+          "segments": [
+            {
+              "text": "的可能性正在上升。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_25",
+      "from": 3735,
+      "frames": 215,
+      "audio": "audio/scene_25.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_29188213",
+          "path": "materials/pexels_29188213.mp4",
+          "supports": "美国财政建筑实景；揭示原TNX周线真实过程，单位TNX除以10，最后4.988%与5%阈值分开。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 7.166666666666667,
+          "from": 0,
+          "frames": 215,
+          "trimBefore": 3,
+          "src": "media/db06be0c30852fc8.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 21,
+          "segments": [
+            {
+              "text": "再看美债，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 21,
+          "to": 117,
+          "segments": [
+            {
+              "text": "10年期美债收益率上周已经收在",
+              "highlight": false
+            },
+            {
+              "text": "5%",
+              "highlight": true
+            },
+            {
+              "text": "下方",
+              "highlight": false
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 117,
+          "to": 202,
+          "segments": [
+            {
+              "text": "托尔森认为这里可能正在形成10月阶段高",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 202,
+          "to": 215,
+          "segments": [
+            {
+              "text": "点。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_26",
+      "from": 3950,
+      "frames": 287,
+      "audio": "audio/scene_26.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_1797020",
+          "path": "materials/pexels_1797020.mp4",
+          "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 9.566666666666666,
+          "from": 0,
+          "frames": 287,
+          "trimBefore": 3,
+          "src": "media/e12b28513d71bc7b.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 78,
+          "segments": [
+            {
+              "text": "世界黄金协会10月26日最新周报又给了",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 78,
+          "to": 162,
+          "segments": [
+            {
+              "text": "一个强信号：本周美联储再次加息的概率，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 162,
+          "to": 234,
+          "segments": [
+            {
+              "text": "已经从一个月前大约",
+              "highlight": false
+            },
+            {
+              "text": "70%",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 234,
+          "to": 287,
+          "segments": [
+            {
+              "text": "降到",
+              "highlight": false
+            },
+            {
+              "text": "不足10%",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_27",
+      "from": 4237,
+      "frames": 104,
+      "audio": "audio/scene_27.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_1797020",
+          "path": "materials/pexels_1797020.mp4",
+          "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 9.666666666666666,
+          "duration_seconds": 3.466666666666667,
+          "from": 0,
+          "frames": 104,
+          "trimBefore": 290,
+          "src": "media/e12b28513d71bc7b.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 30,
+          "segments": [
+            {
+              "text": "这个变化非常大，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 30,
+          "to": 104,
+          "segments": [
+            {
+              "text": "但12月加息风险还没有消失。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_28",
+      "from": 4341,
+      "frames": 132,
+      "audio": "audio/scene_28.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_4393479",
+          "path": "materials/pexels_4393479.mp4",
+          "supports": "美元钞票实拍和议息日历翻页，决议作为待发生催化；不冒充发布会现场。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 4.4,
+          "from": 0,
+          "frames": 132,
+          "trimBefore": 3,
+          "src": "media/8e87d58844b024b2.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 23,
+          "segments": [
+            {
+              "text": "所以接下来，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 23,
+          "to": 81,
+          "segments": [
+            {
+              "text": "黄金能不能完成这次“",
+              "highlight": false
+            },
+            {
+              "text": "最后一洗",
+              "highlight": true
+            },
+            {
+              "text": "”，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 81,
+          "to": 132,
+          "segments": [
+            {
+              "text": "就看本周",
+              "highlight": false
+            },
+            {
+              "text": "美联储决议",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_29",
+      "from": 4473,
+      "frames": 130,
+      "audio": "audio/scene_29.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_5466779",
+          "path": "materials/pexels_5466779.mp4",
+          "supports": "真实数钞动作；通胀压力活塞上升推动加息预期标尺，表达条件机制。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 4.333333333333333,
+          "from": 0,
+          "frames": 130,
+          "trimBefore": 3,
+          "src": "media/11df8fd6126b2d8b.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 55,
+          "segments": [
+            {
+              "text": "然后再看",
+              "highlight": false
+            },
+            {
+              "text": "PCE通胀数据",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 55,
+          "to": 130,
+          "segments": [
+            {
+              "text": "会不会重新把加息预期推上去。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_30",
+      "from": 4603,
+      "frames": 188,
+      "audio": "audio/scene_30.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_4145888",
+          "path": "materials/pexels_4145888.mp4",
+          "supports": "美元资料打底；预期利息筹码减少、持金机会成本压力解除、黄金承接面稳定，最后指向筑底窗口。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 6.266666666666667,
+          "from": 0,
+          "frames": 188,
+          "trimBefore": 3,
+          "src": "media/3bd963938df24f2a.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 77,
+          "segments": [
+            {
+              "text": "托尔森这套逻辑很简单：收益率先见顶，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 77,
+          "to": 132,
+          "segments": [
+            {
+              "text": "黄金再完成最后一次洗盘，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 132,
+          "to": 188,
+          "segments": [
+            {
+              "text": "然后进入新的筑底窗口。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_31",
+      "from": 4791,
+      "frames": 246,
+      "audio": "audio/scene_31.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_38711950",
+          "path": "materials/pexels_38711950.mp4",
+          "supports": "市场热图实拍；10月15日至23日八日跨度，分别落定3950预测和3975实际低点，保留差距。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 8.2,
+          "from": 0,
+          "frames": 246,
+          "trimBefore": 3,
+          "src": "media/448cc8d2c7f72c58.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 24,
+          "segments": [
+            {
+              "text": "10月15日，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 24,
+          "to": 115,
+          "segments": [
+            {
+              "text": "他提前把回调目标看到",
+              "highlight": false
+            },
+            {
+              "text": "3950美元",
+              "highlight": true
+            },
+            {
+              "text": "；",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 115,
+          "to": 150,
+          "segments": [
+            {
+              "text": "8天之后，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 150,
+          "to": 246,
+          "segments": [
+            {
+              "text": "黄金最低已经杀到",
+              "highlight": false
+            },
+            {
+              "text": "3975美元",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_32",
+      "from": 5037,
+      "frames": 159,
+      "audio": "audio/scene_32.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_30445098",
+          "path": "materials/pexels_30445098.mp4",
+          "supports": "双屏研究实拍；10月25日最新判断与3950再次出现，标明仍是判断。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 5.3,
+          "from": 0,
+          "frames": 159,
+          "trimBefore": 3,
+          "src": "media/d51f9c8d06e75e25.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 52,
+          "segments": [
+            {
+              "text": "10月",
+              "highlight": false
+            },
+            {
+              "text": "25",
+              "highlight": true
+            },
+            {
+              "text": "日，他再次强调：",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 52,
+          "to": 103,
+          "segments": [
+            {
+              "text": "3950美元",
+              "highlight": true
+            },
+            {
+              "text": "附近，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 103,
+          "to": 159,
+          "segments": [
+            {
+              "text": "可能就是最后一轮洗盘。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_33",
+      "from": 5196,
+      "frames": 260,
+      "audio": "audio/scene_33.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_4319342",
+          "path": "materials/pexels_4319342.mp4",
+          "supports": "纽约证券交易所实景；未来一到两周日历与关键观察线，留时间读互动问题。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 8.666666666666666,
+          "from": 0,
+          "frames": 260,
+          "trimBefore": 3,
+          "src": "media/17383a65d9ffa4b2.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 81,
+          "segments": [
+            {
+              "text": "接下来的关键窗口，只剩",
+              "highlight": false
+            },
+            {
+              "text": "未来一到两周",
+              "highlight": true
+            },
+            {
+              "text": "。",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 81,
+          "to": 120,
+          "segments": [
+            {
+              "text": "3950美元",
+              "highlight": true
+            },
+            {
+              "text": "，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 120,
+          "to": 196,
+          "segments": [
+            {
+              "text": "到底会不会成为黄金的“",
+              "highlight": false
+            },
+            {
+              "text": "最后一跌",
+              "highlight": true
+            },
+            {
+              "text": "”？",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 196,
+          "to": 260,
+          "segments": [
+            {
+              "text": "评论区打出你的判断。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_34",
+      "from": 5456,
+      "frames": 90,
+      "audio": "audio/scene_34.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_5651767",
+          "path": "materials/pexels_5651767.mp4",
+          "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 0.1,
+          "duration_seconds": 3.0,
+          "from": 0,
+          "frames": 90,
+          "trimBefore": 3,
+          "src": "media/01a50f45fca5cbd6.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 90,
+          "segments": [
+            {
+              "text": "我们不当韭菜，只做先知先觉的那拨人。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    },
+    {
+      "id": "scene_35",
+      "from": 5546,
+      "frames": 146,
+      "audio": "audio/scene_35.mp3",
+      "shots": [
+        {
+          "source_id": "pexels_5651767",
+          "path": "materials/pexels_5651767.mp4",
+          "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_seconds": 3.1,
+          "duration_seconds": 4.866666666666666,
+          "from": 0,
+          "frames": 146,
+          "trimBefore": 93,
+          "src": "media/01a50f45fca5cbd6.mp4",
+          "sourceLabel": "Pexels｜资料画面",
+          "aspectRatio": 1.7777777777777777
+        }
+      ],
+      "captions": [
+        {
+          "from": 0,
+          "to": 55,
+          "segments": [
+            {
+              "text": "我会继续跟踪黄金最新动态，",
+              "highlight": false
+            }
+          ]
+        },
+        {
+          "from": 55,
+          "to": 146,
+          "segments": [
+            {
+              "text": "有新的变化第一时间更新。我们下期见。",
+              "highlight": false
+            }
+          ]
+        }
+      ],
+      "callouts": [],
+      "explanation": null,
+      "motionEvents": [],
+      "visualWords": [],
+      "evidenceFocus": null,
+      "sourceNote": "",
+      "editorial": null,
+      "overlayStrength": 0.32,
+      "priceHistory": null,
+      "semanticMotion": [],
+      "narrativeGraphics": [],
+      "economicSeries": null
+    }
+  ],
+  "titleLines": [
+    "黄金跌破4000美元",
+    "3950会是最后一跌？"
+  ],
+  "totalFrames": 5692,
+  "logo": "logo.png",
+  "bgm": "bgm.mp3",
+  "bgmVolume": 0.02,
+  "titleHighlightKeywords": [
+    "4000美元",
+    "3950"
+  ],
+  "episodeUnits": [
+    {
+      "first": "scene_01",
+      "last": "scene_01",
+      "kind": "history",
+      "from": 0,
+      "frames": 264
+    },
+    {
+      "first": "scene_02",
+      "last": "scene_02",
+      "kind": "history_low",
+      "from": 264,
+      "frames": 225
+    },
+    {
+      "first": "scene_03",
+      "last": "scene_03",
+      "kind": "question",
+      "from": 489,
+      "frames": 114
+    },
+    {
+      "first": "scene_04",
+      "last": "scene_05",
+      "kind": "author",
+      "from": 603,
+      "frames": 364
+    },
+    {
+      "first": "scene_06",
+      "last": "scene_07",
+      "kind": "washout",
+      "from": 967,
+      "frames": 264
+    },
+    {
+      "first": "scene_08",
+      "last": "scene_10",
+      "kind": "window",
+      "from": 1231,
+      "frames": 320
+    },
+    {
+      "first": "scene_11",
+      "last": "scene_11",
+      "kind": "earlier_title",
+      "from": 1551,
+      "frames": 177
+    },
+    {
+      "first": "scene_12",
+      "last": "scene_13",
+      "kind": "earlier",
+      "from": 1728,
+      "frames": 351
+    },
+    {
+      "first": "scene_14",
+      "last": "scene_16",
+      "kind": "distance",
+      "from": 2079,
+      "frames": 310
+    },
+    {
+      "first": "scene_17",
+      "last": "scene_18",
+      "kind": "support",
+      "from": 2389,
+      "frames": 296
+    },
+    {
+      "first": "scene_19",
+      "last": "scene_20",
+      "kind": "support_deep",
+      "from": 2685,
+      "frames": 337
+    },
+    {
+      "first": "scene_21",
+      "last": "scene_22",
+      "kind": "stress",
+      "from": 3022,
+      "frames": 337
+    },
+    {
+      "first": "scene_23",
+      "last": "scene_23",
+      "kind": "maincase",
+      "from": 3359,
+      "frames": 161
+    },
+    {
+      "first": "scene_24",
+      "last": "scene_24",
+      "kind": "silver",
+      "from": 3520,
+      "frames": 215
+    },
+    {
+      "first": "scene_25",
+      "last": "scene_25",
+      "kind": "yield",
+      "from": 3735,
+      "frames": 215
+    },
+    {
+      "first": "scene_26",
+      "last": "scene_27",
+      "kind": "probability",
+      "from": 3950,
+      "frames": 391
+    },
+    {
+      "first": "scene_28",
+      "last": "scene_28",
+      "kind": "fed",
+      "from": 4341,
+      "frames": 132
+    },
+    {
+      "first": "scene_29",
+      "last": "scene_29",
+      "kind": "pce",
+      "from": 4473,
+      "frames": 130
+    },
+    {
+      "first": "scene_30",
+      "last": "scene_30",
+      "kind": "sequence",
+      "from": 4603,
+      "frames": 188
+    },
+    {
+      "first": "scene_31",
+      "last": "scene_31",
+      "kind": "timeline1",
+      "from": 4791,
+      "frames": 246
+    },
+    {
+      "first": "scene_32",
+      "last": "scene_32",
+      "kind": "timeline2",
+      "from": 5037,
+      "frames": 159
+    },
+    {
+      "first": "scene_33",
+      "last": "scene_33",
+      "kind": "interaction",
+      "from": 5196,
+      "frames": 260
+    },
+    {
+      "first": "scene_34",
+      "last": "scene_35",
+      "kind": "close",
+      "from": 5456,
+      "frames": 236
+    }
+  ],
+  "actualGoldPoints": [
+    {
+      "date": "2026-09-25",
+      "close": 4287.25
+    },
+    {
+      "date": "2026-09-28",
+      "close": 4115.27
+    },
+    {
+      "date": "2026-09-29",
+      "close": 4182.8
+    },
+    {
+      "date": "2026-09-30",
+      "close": 4157.34
+    },
+    {
+      "date": "2026-10-01",
+      "close": 4178.86
+    },
+    {
+      "date": "2026-10-02",
+      "close": 4142.96
+    },
+    {
+      "date": "2026-10-05",
+      "close": 4139.89
+    },
+    {
+      "date": "2026-10-06",
+      "close": 4164.35
+    },
+    {
+      "date": "2026-10-07",
+      "close": 4111.05
+    },
+    {
+      "date": "2026-10-08",
+      "close": 4134.93
+    },
+    {
+      "date": "2026-10-09",
+      "close": 4194.46
+    },
+    {
+      "date": "2026-10-12",
+      "close": 4171.69
+    },
+    {
+      "date": "2026-10-13",
+      "close": 4157.95
+    },
+    {
+      "date": "2026-10-14",
+      "close": 4105.7
+    },
+    {
+      "date": "2026-10-15",
+      "close": 4170.87
+    },
+    {
+      "date": "2026-10-16",
+      "close": 4165.5
+    },
+    {
+      "date": "2026-10-19",
+      "close": 4140.87
+    },
+    {
+      "date": "2026-10-20",
+      "close": 4124.94
+    },
+    {
+      "date": "2026-10-21",
+      "close": 4140.97
+    },
+    {
+      "date": "2026-10-22",
+      "close": 4024.23
+    },
+    {
+      "date": "2026-10-23",
+      "close": 3995.8,
+      "low": 3975.64,
+      "high": 4034.17
+    }
+  ]
+}

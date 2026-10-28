@@ -1,0 +1,212 @@
+{
+  "text": "Titco最新技术分析给出的第一组重要支撑是3963到3946美元",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.88,
+      "text": "Titco最新技术分析给出的第一组重要支撑",
+      "tokens": [
+        50365,
+        51,
+        270,
+        1291,
+        8661,
+        12560,
+        32502,
+        1474,
+        107,
+        6627,
+        7360,
+        238,
+        23197,
+        7781,
+        1546,
+        18049,
+        10115,
+        226,
+        24928,
+        24400,
+        20559,
+        239,
+        50509
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0681134859720866,
+      "compression_ratio": 0.8690476190476191,
+      "no_speech_prob": 5.8883102387052855e-12,
+      "words": [
+        {
+          "word": "T",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.92724609375
+        },
+        {
+          "word": "it",
+          "start": 0.24,
+          "end": 0.32,
+          "probability": 0.77734375
+        },
+        {
+          "word": "co",
+          "start": 0.32,
+          "end": 0.46,
+          "probability": 0.82666015625
+        },
+        {
+          "word": "最",
+          "start": 0.46,
+          "end": 0.66,
+          "probability": 0.98876953125
+        },
+        {
+          "word": "新",
+          "start": 0.66,
+          "end": 0.84,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "技",
+          "start": 0.84,
+          "end": 1.0,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "术",
+          "start": 1.0,
+          "end": 1.12,
+          "probability": 1.0
+        },
+        {
+          "word": "分",
+          "start": 1.12,
+          "end": 1.26,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "析",
+          "start": 1.26,
+          "end": 1.46,
+          "probability": 1.0
+        },
+        {
+          "word": "给",
+          "start": 1.46,
+          "end": 1.7,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "出",
+          "start": 1.7,
+          "end": 1.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "的",
+          "start": 1.86,
+          "end": 1.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "第一",
+          "start": 1.96,
+          "end": 2.14,
+          "probability": 0.990234375
+        },
+        {
+          "word": "组",
+          "start": 2.14,
+          "end": 2.34,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "重要",
+          "start": 2.34,
+          "end": 2.56,
+          "probability": 0.998046875
+        },
+        {
+          "word": "支",
+          "start": 2.56,
+          "end": 2.72,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "撑",
+          "start": 2.72,
+          "end": 2.88,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.88,
+      "end": 5.92,
+      "text": "是3963到3946美元",
+      "tokens": [
+        50509,
+        1541,
+        12493,
+        29491,
+        4511,
+        12493,
+        16169,
+        39433,
+        50667
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0681134859720866,
+      "compression_ratio": 0.8690476190476191,
+      "no_speech_prob": 5.8883102387052855e-12,
+      "words": [
+        {
+          "word": "是",
+          "start": 2.88,
+          "end": 3.32,
+          "probability": 0.98828125
+        },
+        {
+          "word": "39",
+          "start": 3.32,
+          "end": 3.64,
+          "probability": 0.87890625
+        },
+        {
+          "word": "63",
+          "start": 3.64,
+          "end": 4.36,
+          "probability": 0.98974609375
+        },
+        {
+          "word": "到",
+          "start": 4.36,
+          "end": 4.74,
+          "probability": 0.7783203125
+        },
+        {
+          "word": "39",
+          "start": 4.74,
+          "end": 5.02,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "46",
+          "start": 5.02,
+          "end": 5.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "美元",
+          "start": 5.72,
+          "end": 5.92,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

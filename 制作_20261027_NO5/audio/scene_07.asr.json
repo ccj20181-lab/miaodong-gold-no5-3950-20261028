@@ -1,0 +1,132 @@
+{
+  "text": "而这一下很可能就是这轮调整的最终洗盘",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.74,
+      "text": "而这一下很可能就是这轮调整的最终洗盘",
+      "tokens": [
+        50365,
+        11070,
+        5562,
+        8861,
+        4563,
+        16657,
+        5620,
+        5562,
+        17819,
+        106,
+        8897,
+        225,
+        27662,
+        1546,
+        8661,
+        10115,
+        230,
+        43252,
+        5419,
+        246,
+        50503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04944770986383611,
+      "compression_ratio": 0.8307692307692308,
+      "no_speech_prob": 4.937711697849956e-12,
+      "words": [
+        {
+          "word": "而",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.98486328125
+        },
+        {
+          "word": "这",
+          "start": 0.18,
+          "end": 0.34,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "一下",
+          "start": 0.34,
+          "end": 0.56,
+          "probability": 0.98193359375
+        },
+        {
+          "word": "很",
+          "start": 0.56,
+          "end": 0.92,
+          "probability": 0.779296875
+        },
+        {
+          "word": "可能",
+          "start": 0.92,
+          "end": 1.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "就是",
+          "start": 1.2,
+          "end": 1.4,
+          "probability": 0.98681640625
+        },
+        {
+          "word": "这",
+          "start": 1.4,
+          "end": 1.56,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "轮",
+          "start": 1.56,
+          "end": 1.72,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "调",
+          "start": 1.72,
+          "end": 1.9,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "整",
+          "start": 1.9,
+          "end": 2.0,
+          "probability": 1.0
+        },
+        {
+          "word": "的",
+          "start": 2.0,
+          "end": 2.1,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "最",
+          "start": 2.1,
+          "end": 2.28,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "终",
+          "start": 2.28,
+          "end": 2.4,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "洗",
+          "start": 2.4,
+          "end": 2.52,
+          "probability": 0.990234375
+        },
+        {
+          "word": "盘",
+          "start": 2.52,
+          "end": 2.74,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

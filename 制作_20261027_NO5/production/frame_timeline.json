@@ -1,0 +1,182 @@
+{
+  "fps": 30,
+  "total_frames": 5692,
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "from": 0,
+      "frames": 264
+    },
+    {
+      "scene_id": "scene_02",
+      "from": 264,
+      "frames": 225
+    },
+    {
+      "scene_id": "scene_03",
+      "from": 489,
+      "frames": 114
+    },
+    {
+      "scene_id": "scene_04",
+      "from": 603,
+      "frames": 159
+    },
+    {
+      "scene_id": "scene_05",
+      "from": 762,
+      "frames": 205
+    },
+    {
+      "scene_id": "scene_06",
+      "from": 967,
+      "frames": 173
+    },
+    {
+      "scene_id": "scene_07",
+      "from": 1140,
+      "frames": 91
+    },
+    {
+      "scene_id": "scene_08",
+      "from": 1231,
+      "frames": 138
+    },
+    {
+      "scene_id": "scene_09",
+      "from": 1369,
+      "frames": 30
+    },
+    {
+      "scene_id": "scene_10",
+      "from": 1399,
+      "frames": 152
+    },
+    {
+      "scene_id": "scene_11",
+      "from": 1551,
+      "frames": 177
+    },
+    {
+      "scene_id": "scene_12",
+      "from": 1728,
+      "frames": 181
+    },
+    {
+      "scene_id": "scene_13",
+      "from": 1909,
+      "frames": 170
+    },
+    {
+      "scene_id": "scene_14",
+      "from": 2079,
+      "frames": 128
+    },
+    {
+      "scene_id": "scene_15",
+      "from": 2207,
+      "frames": 128
+    },
+    {
+      "scene_id": "scene_16",
+      "from": 2335,
+      "frames": 54
+    },
+    {
+      "scene_id": "scene_17",
+      "from": 2389,
+      "frames": 104
+    },
+    {
+      "scene_id": "scene_18",
+      "from": 2493,
+      "frames": 192
+    },
+    {
+      "scene_id": "scene_19",
+      "from": 2685,
+      "frames": 88
+    },
+    {
+      "scene_id": "scene_20",
+      "from": 2773,
+      "frames": 249
+    },
+    {
+      "scene_id": "scene_21",
+      "from": 3022,
+      "frames": 197
+    },
+    {
+      "scene_id": "scene_22",
+      "from": 3219,
+      "frames": 140
+    },
+    {
+      "scene_id": "scene_23",
+      "from": 3359,
+      "frames": 161
+    },
+    {
+      "scene_id": "scene_24",
+      "from": 3520,
+      "frames": 215
+    },
+    {
+      "scene_id": "scene_25",
+      "from": 3735,
+      "frames": 215
+    },
+    {
+      "scene_id": "scene_26",
+      "from": 3950,
+      "frames": 287
+    },
+    {
+      "scene_id": "scene_27",
+      "from": 4237,
+      "frames": 104
+    },
+    {
+      "scene_id": "scene_28",
+      "from": 4341,
+      "frames": 132
+    },
+    {
+      "scene_id": "scene_29",
+      "from": 4473,
+      "frames": 130
+    },
+    {
+      "scene_id": "scene_30",
+      "from": 4603,
+      "frames": 188
+    },
+    {
+      "scene_id": "scene_31",
+      "from": 4791,
+      "frames": 246
+    },
+    {
+      "scene_id": "scene_32",
+      "from": 5037,
+      "frames": 159
+    },
+    {
+      "scene_id": "scene_33",
+      "from": 5196,
+      "frames": 260
+    },
+    {
+      "scene_id": "scene_34",
+      "from": 5456,
+      "frames": 90
+    },
+    {
+      "scene_id": "scene_35",
+      "from": 5546,
+      "frames": 146
+    }
+  ],
+  "basis": "actual audio and original ASR anchors; no narration or source-duration stretching"
+}

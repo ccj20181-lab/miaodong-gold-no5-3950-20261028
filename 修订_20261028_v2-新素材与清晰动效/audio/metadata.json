@@ -1,0 +1,6665 @@
+{
+  "files": {
+    "scene_02": {
+      "path": "audio/scene_02.mp3",
+      "duration_ms": 7488,
+      "word_timestamps": [
+        {
+          "word": "上",
+          "start_ms": 0,
+          "end_ms": 300
+        },
+        {
+          "word": "周",
+          "start_ms": 300,
+          "end_ms": 420
+        },
+        {
+          "word": "五",
+          "start_ms": 420,
+          "end_ms": 620
+        },
+        {
+          "word": "，",
+          "start_ms": 620,
+          "end_ms": 620
+        },
+        {
+          "word": "现",
+          "start_ms": 940,
+          "end_ms": 1040
+        },
+        {
+          "word": "货",
+          "start_ms": 1040,
+          "end_ms": 1200
+        },
+        {
+          "word": "黄",
+          "start_ms": 1200,
+          "end_ms": 1360
+        },
+        {
+          "word": "金",
+          "start_ms": 1360,
+          "end_ms": 1520
+        },
+        {
+          "word": "最",
+          "start_ms": 1520,
+          "end_ms": 1700
+        },
+        {
+          "word": "低",
+          "start_ms": 1700,
+          "end_ms": 1860
+        },
+        {
+          "word": "一",
+          "start_ms": 1860,
+          "end_ms": 2040
+        },
+        {
+          "word": "度",
+          "start_ms": 2040,
+          "end_ms": 2160
+        },
+        {
+          "word": "砸",
+          "start_ms": 2160,
+          "end_ms": 2320
+        },
+        {
+          "word": "到",
+          "start_ms": 2320,
+          "end_ms": 2460
+        },
+        {
+          "word": "3",
+          "start_ms": 2460,
+          "end_ms": 2560
+        },
+        {
+          "word": "9",
+          "start_ms": 2560,
+          "end_ms": 2660
+        },
+        {
+          "word": "7",
+          "start_ms": 2660,
+          "end_ms": 3010
+        },
+        {
+          "word": "5",
+          "start_ms": 3010,
+          "end_ms": 3360
+        },
+        {
+          "word": "美",
+          "start_ms": 3360,
+          "end_ms": 3520
+        },
+        {
+          "word": "元",
+          "start_ms": 3520,
+          "end_ms": 3680
+        },
+        {
+          "word": "，",
+          "start_ms": 3680,
+          "end_ms": 3680
+        },
+        {
+          "word": "创",
+          "start_ms": 3680,
+          "end_ms": 4120
+        },
+        {
+          "word": "下",
+          "start_ms": 4120,
+          "end_ms": 4300
+        },
+        {
+          "word": "7",
+          "start_ms": 4300,
+          "end_ms": 4480
+        },
+        {
+          "word": "月",
+          "start_ms": 4480,
+          "end_ms": 4640
+        },
+        {
+          "word": "2",
+          "start_ms": 4640,
+          "end_ms": 4750
+        },
+        {
+          "word": "0",
+          "start_ms": 4750,
+          "end_ms": 4860
+        },
+        {
+          "word": "日",
+          "start_ms": 4860,
+          "end_ms": 5040
+        },
+        {
+          "word": "以",
+          "start_ms": 5040,
+          "end_ms": 5180
+        },
+        {
+          "word": "来",
+          "start_ms": 5180,
+          "end_ms": 5280
+        },
+        {
+          "word": "新",
+          "start_ms": 5280,
+          "end_ms": 5460
+        },
+        {
+          "word": "低",
+          "start_ms": 5460,
+          "end_ms": 5620
+        },
+        {
+          "word": "，",
+          "start_ms": 5620,
+          "end_ms": 5620
+        },
+        {
+          "word": "一",
+          "start_ms": 6000,
+          "end_ms": 6060
+        },
+        {
+          "word": "周",
+          "start_ms": 6060,
+          "end_ms": 6180
+        },
+        {
+          "word": "跌",
+          "start_ms": 6180,
+          "end_ms": 6360
+        },
+        {
+          "word": "幅",
+          "start_ms": 6360,
+          "end_ms": 6500
+        },
+        {
+          "word": "超",
+          "start_ms": 6500,
+          "end_ms": 6600
+        },
+        {
+          "word": "过",
+          "start_ms": 6600,
+          "end_ms": 6760
+        },
+        {
+          "word": "4",
+          "start_ms": 6760,
+          "end_ms": 6880
+        },
+        {
+          "word": "%",
+          "start_ms": 6880,
+          "end_ms": 6880
+        },
+        {
+          "word": "。",
+          "start_ms": 6880,
+          "end_ms": 6880
+        }
+      ],
+      "text_sha256": "267cffec3080159ff3f0d18e8501c1afffcfa25113f1f35bf96e186b80efdf59",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "上周五,现货黄金最低一度砸到3975美元创下7月20日以来新低,一周跌幅超过4%"
+      }
+    },
+    "scene_01": {
+      "path": "audio/scene_01.mp3",
+      "duration_ms": 8784,
+      "word_timestamps": [
+        {
+          "word": "黄",
+          "start_ms": 0,
+          "end_ms": 200
+        },
+        {
+          "word": "金",
+          "start_ms": 200,
+          "end_ms": 320
+        },
+        {
+          "word": "刚",
+          "start_ms": 320,
+          "end_ms": 480
+        },
+        {
+          "word": "刚",
+          "start_ms": 480,
+          "end_ms": 600
+        },
+        {
+          "word": "跌",
+          "start_ms": 600,
+          "end_ms": 740
+        },
+        {
+          "word": "破",
+          "start_ms": 740,
+          "end_ms": 880
+        },
+        {
+          "word": "4",
+          "start_ms": 880,
+          "end_ms": 1060
+        },
+        {
+          "word": "0",
+          "start_ms": 1060,
+          "end_ms": 1093
+        },
+        {
+          "word": "0",
+          "start_ms": 1093,
+          "end_ms": 1127
+        },
+        {
+          "word": "0",
+          "start_ms": 1127,
+          "end_ms": 1160
+        },
+        {
+          "word": "美",
+          "start_ms": 1160,
+          "end_ms": 1260
+        },
+        {
+          "word": "元",
+          "start_ms": 1260,
+          "end_ms": 1360
+        },
+        {
+          "word": "，",
+          "start_ms": 1360,
+          "end_ms": 1360
+        },
+        {
+          "word": "多",
+          "start_ms": 1360,
+          "end_ms": 1920
+        },
+        {
+          "word": "次",
+          "start_ms": 1920,
+          "end_ms": 2100
+        },
+        {
+          "word": "准",
+          "start_ms": 2100,
+          "end_ms": 2260
+        },
+        {
+          "word": "确",
+          "start_ms": 2260,
+          "end_ms": 2440
+        },
+        {
+          "word": "预",
+          "start_ms": 2440,
+          "end_ms": 2580
+        },
+        {
+          "word": "判",
+          "start_ms": 2580,
+          "end_ms": 2700
+        },
+        {
+          "word": "黄",
+          "start_ms": 2700,
+          "end_ms": 2880
+        },
+        {
+          "word": "金",
+          "start_ms": 2880,
+          "end_ms": 3020
+        },
+        {
+          "word": "走",
+          "start_ms": 3020,
+          "end_ms": 3120
+        },
+        {
+          "word": "势",
+          "start_ms": 3120,
+          "end_ms": 3300
+        },
+        {
+          "word": "的",
+          "start_ms": 3300,
+          "end_ms": 3380
+        },
+        {
+          "word": "分",
+          "start_ms": 3380,
+          "end_ms": 3520
+        },
+        {
+          "word": "析",
+          "start_ms": 3520,
+          "end_ms": 3640
+        },
+        {
+          "word": "师",
+          "start_ms": 3640,
+          "end_ms": 3760
+        },
+        {
+          "word": "托",
+          "start_ms": 3760,
+          "end_ms": 3900
+        },
+        {
+          "word": "尔",
+          "start_ms": 3900,
+          "end_ms": 4020
+        },
+        {
+          "word": "森",
+          "start_ms": 4020,
+          "end_ms": 4180
+        },
+        {
+          "word": "又",
+          "start_ms": 4180,
+          "end_ms": 4420
+        },
+        {
+          "word": "发",
+          "start_ms": 4420,
+          "end_ms": 4540
+        },
+        {
+          "word": "话",
+          "start_ms": 4540,
+          "end_ms": 4720
+        },
+        {
+          "word": "了",
+          "start_ms": 4720,
+          "end_ms": 4920
+        },
+        {
+          "word": "：",
+          "start_ms": 4920,
+          "end_ms": 4920
+        },
+        {
+          "word": "3",
+          "start_ms": 4920,
+          "end_ms": 5160
+        },
+        {
+          "word": "9",
+          "start_ms": 5160,
+          "end_ms": 5400
+        },
+        {
+          "word": "5",
+          "start_ms": 5400,
+          "end_ms": 5660
+        },
+        {
+          "word": "0",
+          "start_ms": 5660,
+          "end_ms": 5920
+        },
+        {
+          "word": "美",
+          "start_ms": 5920,
+          "end_ms": 6060
+        },
+        {
+          "word": "元",
+          "start_ms": 6060,
+          "end_ms": 6200
+        },
+        {
+          "word": "附",
+          "start_ms": 6200,
+          "end_ms": 6420
+        },
+        {
+          "word": "近",
+          "start_ms": 6420,
+          "end_ms": 6520
+        },
+        {
+          "word": "，",
+          "start_ms": 6520,
+          "end_ms": 6520
+        },
+        {
+          "word": "可",
+          "start_ms": 6520,
+          "end_ms": 6750
+        },
+        {
+          "word": "能",
+          "start_ms": 6750,
+          "end_ms": 6980
+        },
+        {
+          "word": "就",
+          "start_ms": 6980,
+          "end_ms": 7080
+        },
+        {
+          "word": "是",
+          "start_ms": 7080,
+          "end_ms": 7180
+        },
+        {
+          "word": "这",
+          "start_ms": 7180,
+          "end_ms": 7340
+        },
+        {
+          "word": "轮",
+          "start_ms": 7340,
+          "end_ms": 7480
+        },
+        {
+          "word": "下",
+          "start_ms": 7480,
+          "end_ms": 7620
+        },
+        {
+          "word": "跌",
+          "start_ms": 7620,
+          "end_ms": 7780
+        },
+        {
+          "word": "的",
+          "start_ms": 7780,
+          "end_ms": 7860
+        },
+        {
+          "word": "“",
+          "start_ms": 7860,
+          "end_ms": 7860
+        },
+        {
+          "word": "最",
+          "start_ms": 7860,
+          "end_ms": 8040
+        },
+        {
+          "word": "后",
+          "start_ms": 8040,
+          "end_ms": 8180
+        },
+        {
+          "word": "一",
+          "start_ms": 8180,
+          "end_ms": 8300
+        },
+        {
+          "word": "洗",
+          "start_ms": 8300,
+          "end_ms": 8440
+        },
+        {
+          "word": "”",
+          "start_ms": 8440,
+          "end_ms": 8440
+        },
+        {
+          "word": "！",
+          "start_ms": 8440,
+          "end_ms": 8440
+        }
+      ],
+      "text_sha256": "ef6c2955ad6773bc51bcf7569e4b4ad5996b1492111f53ec9694e1bb9ca94a20",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.9815,
+        "asr_text": "黄金刚刚跌破4000美元多次准确预判黄金走势的分析师托尔森又发话了3950美元附近可能就是这轮下跌的最后一席"
+      }
+    },
+    "scene_03": {
+      "path": "audio/scene_03.mp3",
+      "duration_ms": 3780,
+      "word_timestamps": [
+        {
+          "word": "很",
+          "start_ms": 0,
+          "end_ms": 140
+        },
+        {
+          "word": "多",
+          "start_ms": 140,
+          "end_ms": 280
+        },
+        {
+          "word": "人",
+          "start_ms": 280,
+          "end_ms": 400
+        },
+        {
+          "word": "现",
+          "start_ms": 400,
+          "end_ms": 490
+        },
+        {
+          "word": "在",
+          "start_ms": 490,
+          "end_ms": 580
+        },
+        {
+          "word": "最",
+          "start_ms": 580,
+          "end_ms": 760
+        },
+        {
+          "word": "关",
+          "start_ms": 760,
+          "end_ms": 920
+        },
+        {
+          "word": "心",
+          "start_ms": 920,
+          "end_ms": 1080
+        },
+        {
+          "word": "的",
+          "start_ms": 1080,
+          "end_ms": 1180
+        },
+        {
+          "word": "就",
+          "start_ms": 1180,
+          "end_ms": 1300
+        },
+        {
+          "word": "是",
+          "start_ms": 1300,
+          "end_ms": 1420
+        },
+        {
+          "word": "：",
+          "start_ms": 1420,
+          "end_ms": 1420
+        },
+        {
+          "word": "这",
+          "start_ms": 1420,
+          "end_ms": 1840
+        },
+        {
+          "word": "轮",
+          "start_ms": 1840,
+          "end_ms": 2000
+        },
+        {
+          "word": "黄",
+          "start_ms": 2000,
+          "end_ms": 2180
+        },
+        {
+          "word": "金",
+          "start_ms": 2180,
+          "end_ms": 2340
+        },
+        {
+          "word": "，",
+          "start_ms": 2340,
+          "end_ms": 2340
+        },
+        {
+          "word": "到",
+          "start_ms": 2340,
+          "end_ms": 2530
+        },
+        {
+          "word": "底",
+          "start_ms": 2530,
+          "end_ms": 2720
+        },
+        {
+          "word": "还",
+          "start_ms": 2720,
+          "end_ms": 2920
+        },
+        {
+          "word": "要",
+          "start_ms": 2920,
+          "end_ms": 3040
+        },
+        {
+          "word": "跌",
+          "start_ms": 3040,
+          "end_ms": 3180
+        },
+        {
+          "word": "多",
+          "start_ms": 3180,
+          "end_ms": 3320
+        },
+        {
+          "word": "久",
+          "start_ms": 3320,
+          "end_ms": 3480
+        },
+        {
+          "word": "？",
+          "start_ms": 3480,
+          "end_ms": 3480
+        }
+      ],
+      "text_sha256": "fde9aa1ee0b8295e58e335e02df8eb0d4095a657621a076ed4568bb4b3598dc4",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "很多人现在最关心的就是这轮黄金到底还要跌多久"
+      }
+    },
+    "scene_04": {
+      "path": "audio/scene_04.mp3",
+      "duration_ms": 5292,
+      "word_timestamps": [
+        {
+          "word": "1",
+          "start_ms": 0,
+          "end_ms": 110
+        },
+        {
+          "word": "0",
+          "start_ms": 110,
+          "end_ms": 220
+        },
+        {
+          "word": "月",
+          "start_ms": 220,
+          "end_ms": 300
+        },
+        {
+          "word": "2",
+          "start_ms": 300,
+          "end_ms": 430
+        },
+        {
+          "word": "5",
+          "start_ms": 430,
+          "end_ms": 560
+        },
+        {
+          "word": "日",
+          "start_ms": 560,
+          "end_ms": 780
+        },
+        {
+          "word": "，",
+          "start_ms": 780,
+          "end_ms": 780
+        },
+        {
+          "word": "托",
+          "start_ms": 780,
+          "end_ms": 1180
+        },
+        {
+          "word": "尔",
+          "start_ms": 1180,
+          "end_ms": 1260
+        },
+        {
+          "word": "森",
+          "start_ms": 1260,
+          "end_ms": 1380
+        },
+        {
+          "word": "在",
+          "start_ms": 1380,
+          "end_ms": 1540
+        },
+        {
+          "word": "最",
+          "start_ms": 1540,
+          "end_ms": 1720
+        },
+        {
+          "word": "新",
+          "start_ms": 1720,
+          "end_ms": 1880
+        },
+        {
+          "word": "一",
+          "start_ms": 1880,
+          "end_ms": 2000
+        },
+        {
+          "word": "期",
+          "start_ms": 2000,
+          "end_ms": 2160
+        },
+        {
+          "word": "《",
+          "start_ms": 2160,
+          "end_ms": 2160
+        },
+        {
+          "word": "W",
+          "start_ms": 2160,
+          "end_ms": 2300
+        },
+        {
+          "word": "e",
+          "start_ms": 2300,
+          "end_ms": 2440
+        },
+        {
+          "word": "e",
+          "start_ms": 2440,
+          "end_ms": 2510
+        },
+        {
+          "word": "k",
+          "start_ms": 2510,
+          "end_ms": 2580
+        },
+        {
+          "word": "e",
+          "start_ms": 2580,
+          "end_ms": 2620
+        },
+        {
+          "word": "n",
+          "start_ms": 2620,
+          "end_ms": 2660
+        },
+        {
+          "word": "d",
+          "start_ms": 2660,
+          "end_ms": 2700
+        },
+        {
+          "word": "G",
+          "start_ms": 2700,
+          "end_ms": 2755
+        },
+        {
+          "word": "o",
+          "start_ms": 2755,
+          "end_ms": 2810
+        },
+        {
+          "word": "l",
+          "start_ms": 2810,
+          "end_ms": 2865
+        },
+        {
+          "word": "d",
+          "start_ms": 2865,
+          "end_ms": 2920
+        },
+        {
+          "word": "U",
+          "start_ms": 2920,
+          "end_ms": 2980
+        },
+        {
+          "word": "p",
+          "start_ms": 2980,
+          "end_ms": 3040
+        },
+        {
+          "word": "d",
+          "start_ms": 3040,
+          "end_ms": 3100
+        },
+        {
+          "word": "a",
+          "start_ms": 3100,
+          "end_ms": 3160
+        },
+        {
+          "word": "t",
+          "start_ms": 3160,
+          "end_ms": 3220
+        },
+        {
+          "word": "e",
+          "start_ms": 3220,
+          "end_ms": 3280
+        },
+        {
+          "word": "》",
+          "start_ms": 3280,
+          "end_ms": 3280
+        },
+        {
+          "word": "里",
+          "start_ms": 3280,
+          "end_ms": 3460
+        },
+        {
+          "word": "，",
+          "start_ms": 3460,
+          "end_ms": 3460
+        },
+        {
+          "word": "给",
+          "start_ms": 3460,
+          "end_ms": 3840
+        },
+        {
+          "word": "出",
+          "start_ms": 3840,
+          "end_ms": 3980
+        },
+        {
+          "word": "了",
+          "start_ms": 3980,
+          "end_ms": 4080
+        },
+        {
+          "word": "非",
+          "start_ms": 4080,
+          "end_ms": 4190
+        },
+        {
+          "word": "常",
+          "start_ms": 4190,
+          "end_ms": 4300
+        },
+        {
+          "word": "明",
+          "start_ms": 4300,
+          "end_ms": 4500
+        },
+        {
+          "word": "确",
+          "start_ms": 4500,
+          "end_ms": 4660
+        },
+        {
+          "word": "的",
+          "start_ms": 4660,
+          "end_ms": 4720
+        },
+        {
+          "word": "判",
+          "start_ms": 4720,
+          "end_ms": 4880
+        },
+        {
+          "word": "断",
+          "start_ms": 4880,
+          "end_ms": 5040
+        },
+        {
+          "word": "。",
+          "start_ms": 5040,
+          "end_ms": 5040
+        }
+      ],
+      "text_sha256": "6d6d4e2362ab655de18f33bc9dca2ae4ed605ed2b6bb6ba7304f0156d73acd42",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "10月25日托尔森在最新一期Weekend Gold Update里给出了非常明确的判断"
+      }
+    },
+    "scene_06": {
+      "path": "audio/scene_06.mp3",
+      "duration_ms": 5760,
+      "word_timestamps": [
+        {
+          "word": "托",
+          "start_ms": 0,
+          "end_ms": 280
+        },
+        {
+          "word": "尔",
+          "start_ms": 280,
+          "end_ms": 360
+        },
+        {
+          "word": "森",
+          "start_ms": 360,
+          "end_ms": 480
+        },
+        {
+          "word": "认",
+          "start_ms": 480,
+          "end_ms": 620
+        },
+        {
+          "word": "为",
+          "start_ms": 620,
+          "end_ms": 820
+        },
+        {
+          "word": "，",
+          "start_ms": 820,
+          "end_ms": 820
+        },
+        {
+          "word": "金",
+          "start_ms": 820,
+          "end_ms": 1160
+        },
+        {
+          "word": "价",
+          "start_ms": 1160,
+          "end_ms": 1340
+        },
+        {
+          "word": "如",
+          "start_ms": 1340,
+          "end_ms": 1420
+        },
+        {
+          "word": "果",
+          "start_ms": 1420,
+          "end_ms": 1500
+        },
+        {
+          "word": "短",
+          "start_ms": 1500,
+          "end_ms": 1720
+        },
+        {
+          "word": "暂",
+          "start_ms": 1720,
+          "end_ms": 1880
+        },
+        {
+          "word": "跌",
+          "start_ms": 1880,
+          "end_ms": 2020
+        },
+        {
+          "word": "破",
+          "start_ms": 2020,
+          "end_ms": 2180
+        },
+        {
+          "word": "3",
+          "start_ms": 2180,
+          "end_ms": 2300
+        },
+        {
+          "word": "9",
+          "start_ms": 2300,
+          "end_ms": 2420
+        },
+        {
+          "word": "5",
+          "start_ms": 2420,
+          "end_ms": 2650
+        },
+        {
+          "word": "0",
+          "start_ms": 2650,
+          "end_ms": 2880
+        },
+        {
+          "word": "美",
+          "start_ms": 2880,
+          "end_ms": 3020
+        },
+        {
+          "word": "元",
+          "start_ms": 3020,
+          "end_ms": 3160
+        },
+        {
+          "word": "，",
+          "start_ms": 3160,
+          "end_ms": 3160
+        },
+        {
+          "word": "市",
+          "start_ms": 3160,
+          "end_ms": 3640
+        },
+        {
+          "word": "场",
+          "start_ms": 3640,
+          "end_ms": 3760
+        },
+        {
+          "word": "可",
+          "start_ms": 3760,
+          "end_ms": 3860
+        },
+        {
+          "word": "能",
+          "start_ms": 3860,
+          "end_ms": 3960
+        },
+        {
+          "word": "出",
+          "start_ms": 3960,
+          "end_ms": 4120
+        },
+        {
+          "word": "现",
+          "start_ms": 4120,
+          "end_ms": 4280
+        },
+        {
+          "word": "最",
+          "start_ms": 4280,
+          "end_ms": 4500
+        },
+        {
+          "word": "后",
+          "start_ms": 4500,
+          "end_ms": 4600
+        },
+        {
+          "word": "一",
+          "start_ms": 4600,
+          "end_ms": 4720
+        },
+        {
+          "word": "轮",
+          "start_ms": 4720,
+          "end_ms": 4840
+        },
+        {
+          "word": "恐",
+          "start_ms": 4840,
+          "end_ms": 4960
+        },
+        {
+          "word": "慌",
+          "start_ms": 4960,
+          "end_ms": 5140
+        },
+        {
+          "word": "抛",
+          "start_ms": 5140,
+          "end_ms": 5300
+        },
+        {
+          "word": "售",
+          "start_ms": 5300,
+          "end_ms": 5460
+        },
+        {
+          "word": "。",
+          "start_ms": 5460,
+          "end_ms": 5460
+        }
+      ],
+      "text_sha256": "7bf91344356af846e43ac5cca8919fede40b1a94c33ff3cccfdedabaec953f45",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "托尔森认为金价如果短暂跌破3950美元市场可能出现最后一轮恐慌抛售"
+      }
+    },
+    "scene_05": {
+      "path": "audio/scene_05.mp3",
+      "duration_ms": 6804,
+      "word_timestamps": [
+        {
+          "word": "他",
+          "start_ms": 0,
+          "end_ms": 130
+        },
+        {
+          "word": "的",
+          "start_ms": 130,
+          "end_ms": 260
+        },
+        {
+          "word": "黄",
+          "start_ms": 260,
+          "end_ms": 460
+        },
+        {
+          "word": "金",
+          "start_ms": 460,
+          "end_ms": 600
+        },
+        {
+          "word": "周",
+          "start_ms": 600,
+          "end_ms": 720
+        },
+        {
+          "word": "期",
+          "start_ms": 720,
+          "end_ms": 880
+        },
+        {
+          "word": "指",
+          "start_ms": 880,
+          "end_ms": 1040
+        },
+        {
+          "word": "标",
+          "start_ms": 1040,
+          "end_ms": 1240
+        },
+        {
+          "word": "G",
+          "start_ms": 1240,
+          "end_ms": 1540
+        },
+        {
+          "word": "C",
+          "start_ms": 1540,
+          "end_ms": 1680
+        },
+        {
+          "word": "I",
+          "start_ms": 1680,
+          "end_ms": 1820
+        },
+        {
+          "word": "已",
+          "start_ms": 1820,
+          "end_ms": 2050
+        },
+        {
+          "word": "经",
+          "start_ms": 2050,
+          "end_ms": 2280
+        },
+        {
+          "word": "降",
+          "start_ms": 2280,
+          "end_ms": 2460
+        },
+        {
+          "word": "到",
+          "start_ms": 2460,
+          "end_ms": 2560
+        },
+        {
+          "word": "2",
+          "start_ms": 2560,
+          "end_ms": 2710
+        },
+        {
+          "word": "5",
+          "start_ms": 2710,
+          "end_ms": 2860
+        },
+        {
+          "word": "，",
+          "start_ms": 2860,
+          "end_ms": 2860
+        },
+        {
+          "word": "正",
+          "start_ms": 2860,
+          "end_ms": 3280
+        },
+        {
+          "word": "式",
+          "start_ms": 3280,
+          "end_ms": 3440
+        },
+        {
+          "word": "进",
+          "start_ms": 3440,
+          "end_ms": 3580
+        },
+        {
+          "word": "入",
+          "start_ms": 3580,
+          "end_ms": 3740
+        },
+        {
+          "word": "下",
+          "start_ms": 3740,
+          "end_ms": 3900
+        },
+        {
+          "word": "四",
+          "start_ms": 3900,
+          "end_ms": 4080
+        },
+        {
+          "word": "分",
+          "start_ms": 4080,
+          "end_ms": 4210
+        },
+        {
+          "word": "位",
+          "start_ms": 4210,
+          "end_ms": 4340
+        },
+        {
+          "word": "，",
+          "start_ms": 4340,
+          "end_ms": 4340
+        },
+        {
+          "word": "也",
+          "start_ms": 4340,
+          "end_ms": 4740
+        },
+        {
+          "word": "就",
+          "start_ms": 4740,
+          "end_ms": 4830
+        },
+        {
+          "word": "是",
+          "start_ms": 4830,
+          "end_ms": 4920
+        },
+        {
+          "word": "他",
+          "start_ms": 4920,
+          "end_ms": 5100
+        },
+        {
+          "word": "定",
+          "start_ms": 5100,
+          "end_ms": 5240
+        },
+        {
+          "word": "义",
+          "start_ms": 5240,
+          "end_ms": 5380
+        },
+        {
+          "word": "的",
+          "start_ms": 5380,
+          "end_ms": 5500
+        },
+        {
+          "word": "“",
+          "start_ms": 5500,
+          "end_ms": 5500
+        },
+        {
+          "word": "深",
+          "start_ms": 5500,
+          "end_ms": 5800
+        },
+        {
+          "word": "度",
+          "start_ms": 5800,
+          "end_ms": 5960
+        },
+        {
+          "word": "超",
+          "start_ms": 5960,
+          "end_ms": 6100
+        },
+        {
+          "word": "卖",
+          "start_ms": 6100,
+          "end_ms": 6280
+        },
+        {
+          "word": "区",
+          "start_ms": 6280,
+          "end_ms": 6440
+        },
+        {
+          "word": "”",
+          "start_ms": 6440,
+          "end_ms": 6440
+        },
+        {
+          "word": "。",
+          "start_ms": 6440,
+          "end_ms": 6440
+        }
+      ],
+      "text_sha256": "f106790a8670a24fc46785f0a3009117f87d1ec4941e6b5721b9ec0b1b9362fa",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.8919,
+        "asr_text": "它的黄金周期指标GCI已经降到25正式进入下四氛围也就是它定义的深度超卖区"
+      }
+    },
+    "scene_07": {
+      "path": "audio/scene_07.mp3",
+      "duration_ms": 3024,
+      "word_timestamps": [
+        {
+          "word": "而",
+          "start_ms": 0,
+          "end_ms": 180
+        },
+        {
+          "word": "这",
+          "start_ms": 180,
+          "end_ms": 340
+        },
+        {
+          "word": "一",
+          "start_ms": 340,
+          "end_ms": 450
+        },
+        {
+          "word": "下",
+          "start_ms": 450,
+          "end_ms": 560
+        },
+        {
+          "word": "，",
+          "start_ms": 560,
+          "end_ms": 560
+        },
+        {
+          "word": "很",
+          "start_ms": 560,
+          "end_ms": 920
+        },
+        {
+          "word": "可",
+          "start_ms": 920,
+          "end_ms": 1060
+        },
+        {
+          "word": "能",
+          "start_ms": 1060,
+          "end_ms": 1200
+        },
+        {
+          "word": "就",
+          "start_ms": 1200,
+          "end_ms": 1300
+        },
+        {
+          "word": "是",
+          "start_ms": 1300,
+          "end_ms": 1400
+        },
+        {
+          "word": "这",
+          "start_ms": 1400,
+          "end_ms": 1560
+        },
+        {
+          "word": "轮",
+          "start_ms": 1560,
+          "end_ms": 1720
+        },
+        {
+          "word": "调",
+          "start_ms": 1720,
+          "end_ms": 1900
+        },
+        {
+          "word": "整",
+          "start_ms": 1900,
+          "end_ms": 2000
+        },
+        {
+          "word": "的",
+          "start_ms": 2000,
+          "end_ms": 2100
+        },
+        {
+          "word": "“",
+          "start_ms": 2100,
+          "end_ms": 2100
+        },
+        {
+          "word": "最",
+          "start_ms": 2100,
+          "end_ms": 2280
+        },
+        {
+          "word": "终",
+          "start_ms": 2280,
+          "end_ms": 2400
+        },
+        {
+          "word": "洗",
+          "start_ms": 2400,
+          "end_ms": 2520
+        },
+        {
+          "word": "盘",
+          "start_ms": 2520,
+          "end_ms": 2740
+        },
+        {
+          "word": "”",
+          "start_ms": 2740,
+          "end_ms": 2740
+        },
+        {
+          "word": "！",
+          "start_ms": 2740,
+          "end_ms": 2740
+        }
+      ],
+      "text_sha256": "299454dbc59fbafc9bc80f3dbab443fea1222bd43492d3efcab673e8c4cd9b07",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "而这一下很可能就是这轮调整的最终洗盘"
+      }
+    },
+    "scene_08": {
+      "path": "audio/scene_08.mp3",
+      "duration_ms": 4572,
+      "word_timestamps": [
+        {
+          "word": "他",
+          "start_ms": 0,
+          "end_ms": 280
+        },
+        {
+          "word": "给",
+          "start_ms": 280,
+          "end_ms": 440
+        },
+        {
+          "word": "出",
+          "start_ms": 440,
+          "end_ms": 600
+        },
+        {
+          "word": "的",
+          "start_ms": 600,
+          "end_ms": 700
+        },
+        {
+          "word": "筑",
+          "start_ms": 700,
+          "end_ms": 840
+        },
+        {
+          "word": "底",
+          "start_ms": 840,
+          "end_ms": 940
+        },
+        {
+          "word": "窗",
+          "start_ms": 940,
+          "end_ms": 1100
+        },
+        {
+          "word": "口",
+          "start_ms": 1100,
+          "end_ms": 1320
+        },
+        {
+          "word": "，",
+          "start_ms": 1320,
+          "end_ms": 1320
+        },
+        {
+          "word": "是",
+          "start_ms": 1320,
+          "end_ms": 1740
+        },
+        {
+          "word": "现",
+          "start_ms": 1740,
+          "end_ms": 1880
+        },
+        {
+          "word": "在",
+          "start_ms": 1880,
+          "end_ms": 2020
+        },
+        {
+          "word": "到",
+          "start_ms": 2020,
+          "end_ms": 2260
+        },
+        {
+          "word": "1",
+          "start_ms": 2260,
+          "end_ms": 2400
+        },
+        {
+          "word": "1",
+          "start_ms": 2400,
+          "end_ms": 2540
+        },
+        {
+          "word": "月",
+          "start_ms": 2540,
+          "end_ms": 2720
+        },
+        {
+          "word": "第",
+          "start_ms": 2720,
+          "end_ms": 2830
+        },
+        {
+          "word": "一",
+          "start_ms": 2830,
+          "end_ms": 2940
+        },
+        {
+          "word": "周",
+          "start_ms": 2940,
+          "end_ms": 3160
+        },
+        {
+          "word": "，",
+          "start_ms": 3160,
+          "end_ms": 3160
+        },
+        {
+          "word": "最",
+          "start_ms": 3160,
+          "end_ms": 3600
+        },
+        {
+          "word": "迟",
+          "start_ms": 3600,
+          "end_ms": 3780
+        },
+        {
+          "word": "第",
+          "start_ms": 3780,
+          "end_ms": 3900
+        },
+        {
+          "word": "二",
+          "start_ms": 3900,
+          "end_ms": 4020
+        },
+        {
+          "word": "周",
+          "start_ms": 4020,
+          "end_ms": 4220
+        },
+        {
+          "word": "。",
+          "start_ms": 4220,
+          "end_ms": 4220
+        }
+      ],
+      "text_sha256": "585213dbc49cb850d2a92905220a6b3f61a5756b9ced39ecc48d4986a37ccb42",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "他给出的筑底窗口是现在到11月第一周最迟第二周"
+      }
+    },
+    "scene_09": {
+      "path": "audio/scene_09.mp3",
+      "duration_ms": 972,
+      "word_timestamps": [
+        {
+          "word": "关",
+          "start_ms": 0,
+          "end_ms": 260
+        },
+        {
+          "word": "键",
+          "start_ms": 260,
+          "end_ms": 420
+        },
+        {
+          "word": "是",
+          "start_ms": 420,
+          "end_ms": 580
+        },
+        {
+          "word": "！",
+          "start_ms": 580,
+          "end_ms": 580
+        }
+      ],
+      "text_sha256": "4a658f3c221b9b5746568c3023a43765aeb3622c818be235d70d48314dbeaaa8",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "关键是"
+      }
+    },
+    "scene_10": {
+      "path": "audio/scene_10.mp3",
+      "duration_ms": 5040,
+      "word_timestamps": [
+        {
+          "word": "3",
+          "start_ms": 0,
+          "end_ms": 170
+        },
+        {
+          "word": "9",
+          "start_ms": 170,
+          "end_ms": 340
+        },
+        {
+          "word": "5",
+          "start_ms": 340,
+          "end_ms": 590
+        },
+        {
+          "word": "0",
+          "start_ms": 590,
+          "end_ms": 840
+        },
+        {
+          "word": "美",
+          "start_ms": 840,
+          "end_ms": 970
+        },
+        {
+          "word": "元",
+          "start_ms": 970,
+          "end_ms": 1100
+        },
+        {
+          "word": "，",
+          "start_ms": 1100,
+          "end_ms": 1100
+        },
+        {
+          "word": "并",
+          "start_ms": 1100,
+          "end_ms": 1580
+        },
+        {
+          "word": "不",
+          "start_ms": 1580,
+          "end_ms": 1680
+        },
+        {
+          "word": "是",
+          "start_ms": 1680,
+          "end_ms": 1780
+        },
+        {
+          "word": "金",
+          "start_ms": 1780,
+          "end_ms": 1920
+        },
+        {
+          "word": "价",
+          "start_ms": 1920,
+          "end_ms": 2100
+        },
+        {
+          "word": "跌",
+          "start_ms": 2100,
+          "end_ms": 2260
+        },
+        {
+          "word": "下",
+          "start_ms": 2260,
+          "end_ms": 2360
+        },
+        {
+          "word": "来",
+          "start_ms": 2360,
+          "end_ms": 2480
+        },
+        {
+          "word": "以",
+          "start_ms": 2480,
+          "end_ms": 2600
+        },
+        {
+          "word": "后",
+          "start_ms": 2600,
+          "end_ms": 2780
+        },
+        {
+          "word": "，",
+          "start_ms": 2780,
+          "end_ms": 2780
+        },
+        {
+          "word": "托",
+          "start_ms": 2780,
+          "end_ms": 3140
+        },
+        {
+          "word": "尔",
+          "start_ms": 3140,
+          "end_ms": 3260
+        },
+        {
+          "word": "森",
+          "start_ms": 3260,
+          "end_ms": 3420
+        },
+        {
+          "word": "才",
+          "start_ms": 3420,
+          "end_ms": 3600
+        },
+        {
+          "word": "临",
+          "start_ms": 3600,
+          "end_ms": 3800
+        },
+        {
+          "word": "时",
+          "start_ms": 3800,
+          "end_ms": 3940
+        },
+        {
+          "word": "喊",
+          "start_ms": 3940,
+          "end_ms": 4120
+        },
+        {
+          "word": "出",
+          "start_ms": 4120,
+          "end_ms": 4220
+        },
+        {
+          "word": "来",
+          "start_ms": 4220,
+          "end_ms": 4320
+        },
+        {
+          "word": "的",
+          "start_ms": 4320,
+          "end_ms": 4440
+        },
+        {
+          "word": "数",
+          "start_ms": 4440,
+          "end_ms": 4560
+        },
+        {
+          "word": "字",
+          "start_ms": 4560,
+          "end_ms": 4740
+        },
+        {
+          "word": "。",
+          "start_ms": 4740,
+          "end_ms": 4740
+        }
+      ],
+      "text_sha256": "adc742dc75ba272bdd7822d4f0eb8460a99548d53f79843c32df601703628cfd",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "3950美元并不是金价跌下来以后托尔森才临时喊出来的数字"
+      }
+    },
+    "scene_11": {
+      "path": "audio/scene_11.mp3",
+      "duration_ms": 5868,
+      "word_timestamps": [
+        {
+          "word": "早",
+          "start_ms": 0,
+          "end_ms": 180
+        },
+        {
+          "word": "在",
+          "start_ms": 180,
+          "end_ms": 340
+        },
+        {
+          "word": "1",
+          "start_ms": 340,
+          "end_ms": 440
+        },
+        {
+          "word": "0",
+          "start_ms": 440,
+          "end_ms": 540
+        },
+        {
+          "word": "月",
+          "start_ms": 540,
+          "end_ms": 640
+        },
+        {
+          "word": "1",
+          "start_ms": 640,
+          "end_ms": 750
+        },
+        {
+          "word": "5",
+          "start_ms": 750,
+          "end_ms": 860
+        },
+        {
+          "word": "日",
+          "start_ms": 860,
+          "end_ms": 1040
+        },
+        {
+          "word": "，",
+          "start_ms": 1040,
+          "end_ms": 1040
+        },
+        {
+          "word": "他",
+          "start_ms": 1040,
+          "end_ms": 1360
+        },
+        {
+          "word": "就",
+          "start_ms": 1360,
+          "end_ms": 1500
+        },
+        {
+          "word": "发",
+          "start_ms": 1500,
+          "end_ms": 1640
+        },
+        {
+          "word": "过",
+          "start_ms": 1640,
+          "end_ms": 1760
+        },
+        {
+          "word": "一",
+          "start_ms": 1760,
+          "end_ms": 1840
+        },
+        {
+          "word": "份",
+          "start_ms": 1840,
+          "end_ms": 1940
+        },
+        {
+          "word": "报",
+          "start_ms": 1940,
+          "end_ms": 2080
+        },
+        {
+          "word": "告",
+          "start_ms": 2080,
+          "end_ms": 2240
+        },
+        {
+          "word": "，",
+          "start_ms": 2240,
+          "end_ms": 2240
+        },
+        {
+          "word": "标",
+          "start_ms": 2240,
+          "end_ms": 2640
+        },
+        {
+          "word": "题",
+          "start_ms": 2640,
+          "end_ms": 2780
+        },
+        {
+          "word": "就",
+          "start_ms": 2780,
+          "end_ms": 2920
+        },
+        {
+          "word": "叫",
+          "start_ms": 2920,
+          "end_ms": 3100
+        },
+        {
+          "word": "《",
+          "start_ms": 3100,
+          "end_ms": 3100
+        },
+        {
+          "word": "T",
+          "start_ms": 3100,
+          "end_ms": 3227
+        },
+        {
+          "word": "h",
+          "start_ms": 3227,
+          "end_ms": 3353
+        },
+        {
+          "word": "e",
+          "start_ms": 3353,
+          "end_ms": 3480
+        },
+        {
+          "word": "F",
+          "start_ms": 3480,
+          "end_ms": 3544
+        },
+        {
+          "word": "i",
+          "start_ms": 3544,
+          "end_ms": 3608
+        },
+        {
+          "word": "n",
+          "start_ms": 3608,
+          "end_ms": 3672
+        },
+        {
+          "word": "a",
+          "start_ms": 3672,
+          "end_ms": 3736
+        },
+        {
+          "word": "l",
+          "start_ms": 3736,
+          "end_ms": 3800
+        },
+        {
+          "word": "W",
+          "start_ms": 3800,
+          "end_ms": 3855
+        },
+        {
+          "word": "a",
+          "start_ms": 3855,
+          "end_ms": 3910
+        },
+        {
+          "word": "s",
+          "start_ms": 3910,
+          "end_ms": 3965
+        },
+        {
+          "word": "h",
+          "start_ms": 3965,
+          "end_ms": 4020
+        },
+        {
+          "word": "o",
+          "start_ms": 4020,
+          "end_ms": 4093
+        },
+        {
+          "word": "u",
+          "start_ms": 4093,
+          "end_ms": 4167
+        },
+        {
+          "word": "t",
+          "start_ms": 4167,
+          "end_ms": 4240
+        },
+        {
+          "word": "i",
+          "start_ms": 4240,
+          "end_ms": 4345
+        },
+        {
+          "word": "n",
+          "start_ms": 4345,
+          "end_ms": 4450
+        },
+        {
+          "word": "t",
+          "start_ms": 4450,
+          "end_ms": 4555
+        },
+        {
+          "word": "o",
+          "start_ms": 4555,
+          "end_ms": 4660
+        },
+        {
+          "word": "a",
+          "start_ms": 4660,
+          "end_ms": 4750
+        },
+        {
+          "word": "n",
+          "start_ms": 4750,
+          "end_ms": 4840
+        },
+        {
+          "word": "O",
+          "start_ms": 4840,
+          "end_ms": 4877
+        },
+        {
+          "word": "c",
+          "start_ms": 4877,
+          "end_ms": 4914
+        },
+        {
+          "word": "t",
+          "start_ms": 4914,
+          "end_ms": 4951
+        },
+        {
+          "word": "o",
+          "start_ms": 4951,
+          "end_ms": 4989
+        },
+        {
+          "word": "b",
+          "start_ms": 4989,
+          "end_ms": 5026
+        },
+        {
+          "word": "e",
+          "start_ms": 5026,
+          "end_ms": 5063
+        },
+        {
+          "word": "r",
+          "start_ms": 5063,
+          "end_ms": 5100
+        },
+        {
+          "word": "B",
+          "start_ms": 5100,
+          "end_ms": 5163
+        },
+        {
+          "word": "o",
+          "start_ms": 5163,
+          "end_ms": 5227
+        },
+        {
+          "word": "t",
+          "start_ms": 5227,
+          "end_ms": 5290
+        },
+        {
+          "word": "t",
+          "start_ms": 5290,
+          "end_ms": 5353
+        },
+        {
+          "word": "o",
+          "start_ms": 5353,
+          "end_ms": 5417
+        },
+        {
+          "word": "m",
+          "start_ms": 5417,
+          "end_ms": 5480
+        },
+        {
+          "word": "》",
+          "start_ms": 5480,
+          "end_ms": 5480
+        },
+        {
+          "word": "。",
+          "start_ms": 5480,
+          "end_ms": 5480
+        }
+      ],
+      "text_sha256": "70de0135ff100fed5bf10171d02eb619c8d8a989da018d58daf404f034183b1e",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "早在10月15日他就发过一份报告标题就叫The final washout into an October bottom"
+      }
+    },
+    "scene_12": {
+      "path": "audio/scene_12.mp3",
+      "duration_ms": 6012,
+      "word_timestamps": [
+        {
+          "word": "当",
+          "start_ms": 0,
+          "end_ms": 240
+        },
+        {
+          "word": "时",
+          "start_ms": 240,
+          "end_ms": 420
+        },
+        {
+          "word": "黄",
+          "start_ms": 420,
+          "end_ms": 620
+        },
+        {
+          "word": "金",
+          "start_ms": 620,
+          "end_ms": 760
+        },
+        {
+          "word": "还",
+          "start_ms": 760,
+          "end_ms": 920
+        },
+        {
+          "word": "没",
+          "start_ms": 920,
+          "end_ms": 1010
+        },
+        {
+          "word": "有",
+          "start_ms": 1010,
+          "end_ms": 1100
+        },
+        {
+          "word": "跌",
+          "start_ms": 1100,
+          "end_ms": 1240
+        },
+        {
+          "word": "破",
+          "start_ms": 1240,
+          "end_ms": 1400
+        },
+        {
+          "word": "4",
+          "start_ms": 1400,
+          "end_ms": 1560
+        },
+        {
+          "word": "0",
+          "start_ms": 1560,
+          "end_ms": 1607
+        },
+        {
+          "word": "0",
+          "start_ms": 1607,
+          "end_ms": 1653
+        },
+        {
+          "word": "0",
+          "start_ms": 1653,
+          "end_ms": 1700
+        },
+        {
+          "word": "美",
+          "start_ms": 1700,
+          "end_ms": 1800
+        },
+        {
+          "word": "元",
+          "start_ms": 1800,
+          "end_ms": 1900
+        },
+        {
+          "word": "，",
+          "start_ms": 1900,
+          "end_ms": 1900
+        },
+        {
+          "word": "他",
+          "start_ms": 1900,
+          "end_ms": 2360
+        },
+        {
+          "word": "就",
+          "start_ms": 2360,
+          "end_ms": 2480
+        },
+        {
+          "word": "已",
+          "start_ms": 2480,
+          "end_ms": 2570
+        },
+        {
+          "word": "经",
+          "start_ms": 2570,
+          "end_ms": 2660
+        },
+        {
+          "word": "把",
+          "start_ms": 2660,
+          "end_ms": 2840
+        },
+        {
+          "word": "本",
+          "start_ms": 2840,
+          "end_ms": 3020
+        },
+        {
+          "word": "轮",
+          "start_ms": 3020,
+          "end_ms": 3160
+        },
+        {
+          "word": "回",
+          "start_ms": 3160,
+          "end_ms": 3280
+        },
+        {
+          "word": "调",
+          "start_ms": 3280,
+          "end_ms": 3400
+        },
+        {
+          "word": "目",
+          "start_ms": 3400,
+          "end_ms": 3560
+        },
+        {
+          "word": "标",
+          "start_ms": 3560,
+          "end_ms": 3740
+        },
+        {
+          "word": "看",
+          "start_ms": 3740,
+          "end_ms": 3950
+        },
+        {
+          "word": "到",
+          "start_ms": 3950,
+          "end_ms": 4160
+        },
+        {
+          "word": "3",
+          "start_ms": 4160,
+          "end_ms": 4300
+        },
+        {
+          "word": "9",
+          "start_ms": 4300,
+          "end_ms": 4440
+        },
+        {
+          "word": "5",
+          "start_ms": 4440,
+          "end_ms": 4730
+        },
+        {
+          "word": "0",
+          "start_ms": 4730,
+          "end_ms": 5020
+        },
+        {
+          "word": "美",
+          "start_ms": 5020,
+          "end_ms": 5150
+        },
+        {
+          "word": "元",
+          "start_ms": 5150,
+          "end_ms": 5280
+        },
+        {
+          "word": "附",
+          "start_ms": 5280,
+          "end_ms": 5520
+        },
+        {
+          "word": "近",
+          "start_ms": 5520,
+          "end_ms": 5620
+        },
+        {
+          "word": "。",
+          "start_ms": 5620,
+          "end_ms": 5620
+        }
+      ],
+      "text_sha256": "622cdde579a659be3ff61919c4e582f7d40bb570c107c0181d672e1df4326ae9",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.9722,
+        "asr_text": "当时黄金还没有跌破4000美元他就已经把本轮回掉目标看到3950美元附近"
+      }
+    },
+    "scene_13": {
+      "path": "audio/scene_13.mp3",
+      "duration_ms": 5652,
+      "word_timestamps": [
+        {
+          "word": "托",
+          "start_ms": 0,
+          "end_ms": 260
+        },
+        {
+          "word": "尔",
+          "start_ms": 260,
+          "end_ms": 320
+        },
+        {
+          "word": "森",
+          "start_ms": 320,
+          "end_ms": 440
+        },
+        {
+          "word": "当",
+          "start_ms": 440,
+          "end_ms": 540
+        },
+        {
+          "word": "时",
+          "start_ms": 540,
+          "end_ms": 700
+        },
+        {
+          "word": "甚",
+          "start_ms": 700,
+          "end_ms": 840
+        },
+        {
+          "word": "至",
+          "start_ms": 840,
+          "end_ms": 980
+        },
+        {
+          "word": "判",
+          "start_ms": 980,
+          "end_ms": 1140
+        },
+        {
+          "word": "断",
+          "start_ms": 1140,
+          "end_ms": 1640
+        },
+        {
+          "word": "，",
+          "start_ms": 1640,
+          "end_ms": 1640
+        },
+        {
+          "word": "金",
+          "start_ms": 1640,
+          "end_ms": 1740
+        },
+        {
+          "word": "价",
+          "start_ms": 1740,
+          "end_ms": 1920
+        },
+        {
+          "word": "可",
+          "start_ms": 1920,
+          "end_ms": 2050
+        },
+        {
+          "word": "能",
+          "start_ms": 2050,
+          "end_ms": 2180
+        },
+        {
+          "word": "短",
+          "start_ms": 2180,
+          "end_ms": 2440
+        },
+        {
+          "word": "暂",
+          "start_ms": 2440,
+          "end_ms": 2600
+        },
+        {
+          "word": "跌",
+          "start_ms": 2600,
+          "end_ms": 2780
+        },
+        {
+          "word": "穿",
+          "start_ms": 2780,
+          "end_ms": 2940
+        },
+        {
+          "word": "这",
+          "start_ms": 2940,
+          "end_ms": 3020
+        },
+        {
+          "word": "个",
+          "start_ms": 3020,
+          "end_ms": 3100
+        },
+        {
+          "word": "位",
+          "start_ms": 3100,
+          "end_ms": 3240
+        },
+        {
+          "word": "置",
+          "start_ms": 3240,
+          "end_ms": 3380
+        },
+        {
+          "word": "，",
+          "start_ms": 3380,
+          "end_ms": 3380
+        },
+        {
+          "word": "然",
+          "start_ms": 3380,
+          "end_ms": 3620
+        },
+        {
+          "word": "后",
+          "start_ms": 3620,
+          "end_ms": 3860
+        },
+        {
+          "word": "在",
+          "start_ms": 3860,
+          "end_ms": 4060
+        },
+        {
+          "word": "1",
+          "start_ms": 4060,
+          "end_ms": 4140
+        },
+        {
+          "word": "0",
+          "start_ms": 4140,
+          "end_ms": 4220
+        },
+        {
+          "word": "月",
+          "start_ms": 4220,
+          "end_ms": 4340
+        },
+        {
+          "word": "底",
+          "start_ms": 4340,
+          "end_ms": 4460
+        },
+        {
+          "word": "附",
+          "start_ms": 4460,
+          "end_ms": 4620
+        },
+        {
+          "word": "近",
+          "start_ms": 4620,
+          "end_ms": 4760
+        },
+        {
+          "word": "完",
+          "start_ms": 4760,
+          "end_ms": 4930
+        },
+        {
+          "word": "成",
+          "start_ms": 4930,
+          "end_ms": 5100
+        },
+        {
+          "word": "筑",
+          "start_ms": 5100,
+          "end_ms": 5260
+        },
+        {
+          "word": "底",
+          "start_ms": 5260,
+          "end_ms": 5360
+        },
+        {
+          "word": "。",
+          "start_ms": 5360,
+          "end_ms": 5360
+        }
+      ],
+      "text_sha256": "1f312f6bab239c77cca8ffa91d1cfd38769f03e026896d46670beaf26ef5d7fc",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "托尔森当时甚至判断金价可能短暂跌穿这个位置然后在10月底附近完成筑底"
+      }
+    },
+    "scene_14": {
+      "path": "audio/scene_14.mp3",
+      "duration_ms": 4248,
+      "word_timestamps": [
+        {
+          "word": "结",
+          "start_ms": 0,
+          "end_ms": 280
+        },
+        {
+          "word": "果",
+          "start_ms": 280,
+          "end_ms": 460
+        },
+        {
+          "word": "8",
+          "start_ms": 460,
+          "end_ms": 700
+        },
+        {
+          "word": "天",
+          "start_ms": 700,
+          "end_ms": 820
+        },
+        {
+          "word": "之",
+          "start_ms": 820,
+          "end_ms": 980
+        },
+        {
+          "word": "后",
+          "start_ms": 980,
+          "end_ms": 1140
+        },
+        {
+          "word": "，",
+          "start_ms": 1140,
+          "end_ms": 1140
+        },
+        {
+          "word": "金",
+          "start_ms": 1140,
+          "end_ms": 1460
+        },
+        {
+          "word": "价",
+          "start_ms": 1460,
+          "end_ms": 1600
+        },
+        {
+          "word": "最",
+          "start_ms": 1600,
+          "end_ms": 1740
+        },
+        {
+          "word": "低",
+          "start_ms": 1740,
+          "end_ms": 1900
+        },
+        {
+          "word": "真",
+          "start_ms": 1900,
+          "end_ms": 2070
+        },
+        {
+          "word": "的",
+          "start_ms": 2070,
+          "end_ms": 2240
+        },
+        {
+          "word": "杀",
+          "start_ms": 2240,
+          "end_ms": 2440
+        },
+        {
+          "word": "到",
+          "start_ms": 2440,
+          "end_ms": 2540
+        },
+        {
+          "word": "了",
+          "start_ms": 2540,
+          "end_ms": 2640
+        },
+        {
+          "word": "3",
+          "start_ms": 2640,
+          "end_ms": 2760
+        },
+        {
+          "word": "9",
+          "start_ms": 2760,
+          "end_ms": 2880
+        },
+        {
+          "word": "7",
+          "start_ms": 2880,
+          "end_ms": 3240
+        },
+        {
+          "word": "5",
+          "start_ms": 3240,
+          "end_ms": 3600
+        },
+        {
+          "word": "美",
+          "start_ms": 3600,
+          "end_ms": 3710
+        },
+        {
+          "word": "元",
+          "start_ms": 3710,
+          "end_ms": 3820
+        },
+        {
+          "word": "。",
+          "start_ms": 3820,
+          "end_ms": 3820
+        }
+      ],
+      "text_sha256": "faf4d3fc23f179451817fb95fd13b437db605972c0c5d0b8368bb7ad9d3ec11c",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "结果8天之后金价最低真的杀到了3975美元"
+      }
+    },
+    "scene_15": {
+      "path": "audio/scene_15.mp3",
+      "duration_ms": 4248,
+      "word_timestamps": [
+        {
+          "word": "距",
+          "start_ms": 0,
+          "end_ms": 300
+        },
+        {
+          "word": "离",
+          "start_ms": 300,
+          "end_ms": 460
+        },
+        {
+          "word": "3",
+          "start_ms": 460,
+          "end_ms": 540
+        },
+        {
+          "word": "9",
+          "start_ms": 540,
+          "end_ms": 620
+        },
+        {
+          "word": "5",
+          "start_ms": 620,
+          "end_ms": 900
+        },
+        {
+          "word": "0",
+          "start_ms": 900,
+          "end_ms": 1180
+        },
+        {
+          "word": "美",
+          "start_ms": 1180,
+          "end_ms": 1300
+        },
+        {
+          "word": "元",
+          "start_ms": 1300,
+          "end_ms": 1420
+        },
+        {
+          "word": "，",
+          "start_ms": 1420,
+          "end_ms": 1420
+        },
+        {
+          "word": "只",
+          "start_ms": 1420,
+          "end_ms": 1900
+        },
+        {
+          "word": "差",
+          "start_ms": 1900,
+          "end_ms": 2040
+        },
+        {
+          "word": "2",
+          "start_ms": 2040,
+          "end_ms": 2180
+        },
+        {
+          "word": "5",
+          "start_ms": 2180,
+          "end_ms": 2320
+        },
+        {
+          "word": "美",
+          "start_ms": 2320,
+          "end_ms": 2480
+        },
+        {
+          "word": "元",
+          "start_ms": 2480,
+          "end_ms": 2640
+        },
+        {
+          "word": "，",
+          "start_ms": 2640,
+          "end_ms": 2640
+        },
+        {
+          "word": "大",
+          "start_ms": 2640,
+          "end_ms": 3100
+        },
+        {
+          "word": "约",
+          "start_ms": 3100,
+          "end_ms": 3240
+        },
+        {
+          "word": "0",
+          "start_ms": 3240,
+          "end_ms": 3620
+        },
+        {
+          "word": ".",
+          "start_ms": 3620,
+          "end_ms": 3620
+        },
+        {
+          "word": "6",
+          "start_ms": 3740,
+          "end_ms": 3900
+        },
+        {
+          "word": "%",
+          "start_ms": 3900,
+          "end_ms": 3900
+        },
+        {
+          "word": "。",
+          "start_ms": 3900,
+          "end_ms": 3900
+        }
+      ],
+      "text_sha256": "770d3fde41146e06898947ff0d9dd1840726c06e266694672680230d94039af8",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "距离3950美元只差25美元大约0.6%"
+      }
+    },
+    "scene_16": {
+      "path": "audio/scene_16.mp3",
+      "duration_ms": 1800,
+      "word_timestamps": [
+        {
+          "word": "这",
+          "start_ms": 0,
+          "end_ms": 200
+        },
+        {
+          "word": "一",
+          "start_ms": 200,
+          "end_ms": 320
+        },
+        {
+          "word": "笔",
+          "start_ms": 320,
+          "end_ms": 440
+        },
+        {
+          "word": "，",
+          "start_ms": 440,
+          "end_ms": 440
+        },
+        {
+          "word": "目",
+          "start_ms": 440,
+          "end_ms": 550
+        },
+        {
+          "word": "前",
+          "start_ms": 550,
+          "end_ms": 660
+        },
+        {
+          "word": "走",
+          "start_ms": 660,
+          "end_ms": 860
+        },
+        {
+          "word": "得",
+          "start_ms": 860,
+          "end_ms": 960
+        },
+        {
+          "word": "相",
+          "start_ms": 960,
+          "end_ms": 1100
+        },
+        {
+          "word": "当",
+          "start_ms": 1100,
+          "end_ms": 1220
+        },
+        {
+          "word": "接",
+          "start_ms": 1220,
+          "end_ms": 1380
+        },
+        {
+          "word": "近",
+          "start_ms": 1380,
+          "end_ms": 1520
+        },
+        {
+          "word": "！",
+          "start_ms": 1520,
+          "end_ms": 1520
+        }
+      ],
+      "text_sha256": "aacfb104ffdb3570120778fb86e8c255062bd73e45ec7fd6b940dd11468d0d6e",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.9091,
+        "asr_text": "这一笔目前走的相当接近"
+      }
+    },
+    "scene_17": {
+      "path": "audio/scene_17.mp3",
+      "duration_ms": 3456,
+      "word_timestamps": [
+        {
+          "word": "而",
+          "start_ms": 0,
+          "end_ms": 190
+        },
+        {
+          "word": "且",
+          "start_ms": 190,
+          "end_ms": 380
+        },
+        {
+          "word": "，",
+          "start_ms": 380,
+          "end_ms": 380
+        },
+        {
+          "word": "市",
+          "start_ms": 380,
+          "end_ms": 780
+        },
+        {
+          "word": "场",
+          "start_ms": 780,
+          "end_ms": 940
+        },
+        {
+          "word": "现",
+          "start_ms": 940,
+          "end_ms": 1050
+        },
+        {
+          "word": "在",
+          "start_ms": 1050,
+          "end_ms": 1160
+        },
+        {
+          "word": "盯",
+          "start_ms": 1160,
+          "end_ms": 1360
+        },
+        {
+          "word": "着",
+          "start_ms": 1360,
+          "end_ms": 1480
+        },
+        {
+          "word": "的",
+          "start_ms": 1480,
+          "end_ms": 1580
+        },
+        {
+          "word": "支",
+          "start_ms": 1580,
+          "end_ms": 1700
+        },
+        {
+          "word": "撑",
+          "start_ms": 1700,
+          "end_ms": 1840
+        },
+        {
+          "word": "位",
+          "start_ms": 1840,
+          "end_ms": 1980
+        },
+        {
+          "word": "，",
+          "start_ms": 1980,
+          "end_ms": 1980
+        },
+        {
+          "word": "也",
+          "start_ms": 1980,
+          "end_ms": 2380
+        },
+        {
+          "word": "刚",
+          "start_ms": 2380,
+          "end_ms": 2520
+        },
+        {
+          "word": "好",
+          "start_ms": 2520,
+          "end_ms": 2700
+        },
+        {
+          "word": "在",
+          "start_ms": 2700,
+          "end_ms": 2820
+        },
+        {
+          "word": "这",
+          "start_ms": 2820,
+          "end_ms": 2980
+        },
+        {
+          "word": "一",
+          "start_ms": 2980,
+          "end_ms": 3040
+        },
+        {
+          "word": "带",
+          "start_ms": 3040,
+          "end_ms": 3160
+        },
+        {
+          "word": "。",
+          "start_ms": 3160,
+          "end_ms": 3160
+        }
+      ],
+      "text_sha256": "35dd3dbecda78a4ef5ec386461218199beba03ab20f12653a93ae9ffb20895f5",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "而且市场现在盯着的支撑位也刚好在这一带"
+      }
+    },
+    "scene_18": {
+      "path": "audio/scene_18.mp3",
+      "duration_ms": 6372,
+      "word_timestamps": [
+        {
+          "word": "K",
+          "start_ms": 0,
+          "end_ms": 240
+        },
+        {
+          "word": "i",
+          "start_ms": 240,
+          "end_ms": 280
+        },
+        {
+          "word": "t",
+          "start_ms": 280,
+          "end_ms": 320
+        },
+        {
+          "word": "c",
+          "start_ms": 320,
+          "end_ms": 390
+        },
+        {
+          "word": "o",
+          "start_ms": 390,
+          "end_ms": 460
+        },
+        {
+          "word": "最",
+          "start_ms": 460,
+          "end_ms": 660
+        },
+        {
+          "word": "新",
+          "start_ms": 660,
+          "end_ms": 840
+        },
+        {
+          "word": "技",
+          "start_ms": 840,
+          "end_ms": 1000
+        },
+        {
+          "word": "术",
+          "start_ms": 1000,
+          "end_ms": 1120
+        },
+        {
+          "word": "分",
+          "start_ms": 1120,
+          "end_ms": 1260
+        },
+        {
+          "word": "析",
+          "start_ms": 1260,
+          "end_ms": 1460
+        },
+        {
+          "word": "给",
+          "start_ms": 1460,
+          "end_ms": 1700
+        },
+        {
+          "word": "出",
+          "start_ms": 1700,
+          "end_ms": 1860
+        },
+        {
+          "word": "的",
+          "start_ms": 1860,
+          "end_ms": 1960
+        },
+        {
+          "word": "第",
+          "start_ms": 1960,
+          "end_ms": 2050
+        },
+        {
+          "word": "一",
+          "start_ms": 2050,
+          "end_ms": 2140
+        },
+        {
+          "word": "组",
+          "start_ms": 2140,
+          "end_ms": 2340
+        },
+        {
+          "word": "重",
+          "start_ms": 2340,
+          "end_ms": 2450
+        },
+        {
+          "word": "要",
+          "start_ms": 2450,
+          "end_ms": 2560
+        },
+        {
+          "word": "支",
+          "start_ms": 2560,
+          "end_ms": 2720
+        },
+        {
+          "word": "撑",
+          "start_ms": 2720,
+          "end_ms": 2880
+        },
+        {
+          "word": "，",
+          "start_ms": 2880,
+          "end_ms": 2880
+        },
+        {
+          "word": "是",
+          "start_ms": 2880,
+          "end_ms": 3320
+        },
+        {
+          "word": "3",
+          "start_ms": 3320,
+          "end_ms": 3480
+        },
+        {
+          "word": "9",
+          "start_ms": 3480,
+          "end_ms": 3640
+        },
+        {
+          "word": "6",
+          "start_ms": 3640,
+          "end_ms": 4000
+        },
+        {
+          "word": "3",
+          "start_ms": 4000,
+          "end_ms": 4360
+        },
+        {
+          "word": "到",
+          "start_ms": 4360,
+          "end_ms": 4740
+        },
+        {
+          "word": "3",
+          "start_ms": 4740,
+          "end_ms": 4880
+        },
+        {
+          "word": "9",
+          "start_ms": 4880,
+          "end_ms": 5020
+        },
+        {
+          "word": "4",
+          "start_ms": 5020,
+          "end_ms": 5370
+        },
+        {
+          "word": "6",
+          "start_ms": 5370,
+          "end_ms": 5720
+        },
+        {
+          "word": "美",
+          "start_ms": 5720,
+          "end_ms": 5820
+        },
+        {
+          "word": "元",
+          "start_ms": 5820,
+          "end_ms": 5920
+        },
+        {
+          "word": "。",
+          "start_ms": 5920,
+          "end_ms": 5920
+        }
+      ],
+      "text_sha256": "0f229d3d5e946ac5e8805d37522eb9b7f4ff9f51a74be882d11602f120db95d5",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.9697,
+        "asr_text": "Titco最新技术分析给出的第一组重要支撑是3963到3946美元"
+      }
+    },
+    "scene_19": {
+      "path": "audio/scene_19.mp3",
+      "duration_ms": 2916,
+      "word_timestamps": [
+        {
+          "word": "再",
+          "start_ms": 0,
+          "end_ms": 240
+        },
+        {
+          "word": "往",
+          "start_ms": 240,
+          "end_ms": 380
+        },
+        {
+          "word": "下",
+          "start_ms": 380,
+          "end_ms": 580
+        },
+        {
+          "word": "，",
+          "start_ms": 580,
+          "end_ms": 580
+        },
+        {
+          "word": "才",
+          "start_ms": 580,
+          "end_ms": 1020
+        },
+        {
+          "word": "会",
+          "start_ms": 1020,
+          "end_ms": 1160
+        },
+        {
+          "word": "看",
+          "start_ms": 1160,
+          "end_ms": 1260
+        },
+        {
+          "word": "向",
+          "start_ms": 1260,
+          "end_ms": 1440
+        },
+        {
+          "word": "3",
+          "start_ms": 1440,
+          "end_ms": 1650
+        },
+        {
+          "word": "8",
+          "start_ms": 1650,
+          "end_ms": 1860
+        },
+        {
+          "word": "9",
+          "start_ms": 1860,
+          "end_ms": 2070
+        },
+        {
+          "word": "0",
+          "start_ms": 2070,
+          "end_ms": 2280
+        },
+        {
+          "word": "美",
+          "start_ms": 2280,
+          "end_ms": 2380
+        },
+        {
+          "word": "元",
+          "start_ms": 2380,
+          "end_ms": 2480
+        },
+        {
+          "word": "。",
+          "start_ms": 2480,
+          "end_ms": 2480
+        }
+      ],
+      "text_sha256": "097174c841bf06ed7b9a88fcd61dc750f294dbae514fbae32dd1c660571abf10",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "再往下才会看向3890美元"
+      }
+    },
+    "scene_20": {
+      "path": "audio/scene_20.mp3",
+      "duration_ms": 8280,
+      "word_timestamps": [
+        {
+          "word": "也",
+          "start_ms": 0,
+          "end_ms": 260
+        },
+        {
+          "word": "就",
+          "start_ms": 260,
+          "end_ms": 350
+        },
+        {
+          "word": "是",
+          "start_ms": 350,
+          "end_ms": 440
+        },
+        {
+          "word": "说",
+          "start_ms": 440,
+          "end_ms": 680
+        },
+        {
+          "word": "，",
+          "start_ms": 680,
+          "end_ms": 680
+        },
+        {
+          "word": "托",
+          "start_ms": 680,
+          "end_ms": 1140
+        },
+        {
+          "word": "尔",
+          "start_ms": 1140,
+          "end_ms": 1260
+        },
+        {
+          "word": "森",
+          "start_ms": 1260,
+          "end_ms": 1400
+        },
+        {
+          "word": "盯",
+          "start_ms": 1400,
+          "end_ms": 1600
+        },
+        {
+          "word": "3",
+          "start_ms": 1600,
+          "end_ms": 1720
+        },
+        {
+          "word": "9",
+          "start_ms": 1720,
+          "end_ms": 1840
+        },
+        {
+          "word": "5",
+          "start_ms": 1840,
+          "end_ms": 2100
+        },
+        {
+          "word": "0",
+          "start_ms": 2100,
+          "end_ms": 2360
+        },
+        {
+          "word": "，",
+          "start_ms": 2360,
+          "end_ms": 2360
+        },
+        {
+          "word": "技",
+          "start_ms": 2360,
+          "end_ms": 2960
+        },
+        {
+          "word": "术",
+          "start_ms": 2960,
+          "end_ms": 3120
+        },
+        {
+          "word": "支",
+          "start_ms": 3120,
+          "end_ms": 3220
+        },
+        {
+          "word": "撑",
+          "start_ms": 3220,
+          "end_ms": 3360
+        },
+        {
+          "word": "区",
+          "start_ms": 3360,
+          "end_ms": 3540
+        },
+        {
+          "word": "也",
+          "start_ms": 3540,
+          "end_ms": 3840
+        },
+        {
+          "word": "压",
+          "start_ms": 3840,
+          "end_ms": 4020
+        },
+        {
+          "word": "在",
+          "start_ms": 4020,
+          "end_ms": 4160
+        },
+        {
+          "word": "3",
+          "start_ms": 4160,
+          "end_ms": 4270
+        },
+        {
+          "word": "9",
+          "start_ms": 4270,
+          "end_ms": 4380
+        },
+        {
+          "word": "5",
+          "start_ms": 4380,
+          "end_ms": 4640
+        },
+        {
+          "word": "0",
+          "start_ms": 4640,
+          "end_ms": 4900
+        },
+        {
+          "word": "附",
+          "start_ms": 4900,
+          "end_ms": 5100
+        },
+        {
+          "word": "近",
+          "start_ms": 5100,
+          "end_ms": 5220
+        },
+        {
+          "word": "，",
+          "start_ms": 5220,
+          "end_ms": 5220
+        },
+        {
+          "word": "这",
+          "start_ms": 5220,
+          "end_ms": 5500
+        },
+        {
+          "word": "里",
+          "start_ms": 5500,
+          "end_ms": 5780
+        },
+        {
+          "word": "已",
+          "start_ms": 5780,
+          "end_ms": 5910
+        },
+        {
+          "word": "经",
+          "start_ms": 5910,
+          "end_ms": 6040
+        },
+        {
+          "word": "成",
+          "start_ms": 6040,
+          "end_ms": 6200
+        },
+        {
+          "word": "了",
+          "start_ms": 6200,
+          "end_ms": 6300
+        },
+        {
+          "word": "黄",
+          "start_ms": 6300,
+          "end_ms": 6460
+        },
+        {
+          "word": "金",
+          "start_ms": 6460,
+          "end_ms": 6600
+        },
+        {
+          "word": "现",
+          "start_ms": 6600,
+          "end_ms": 6720
+        },
+        {
+          "word": "在",
+          "start_ms": 6720,
+          "end_ms": 6840
+        },
+        {
+          "word": "最",
+          "start_ms": 6840,
+          "end_ms": 7040
+        },
+        {
+          "word": "关",
+          "start_ms": 7040,
+          "end_ms": 7220
+        },
+        {
+          "word": "键",
+          "start_ms": 7220,
+          "end_ms": 7360
+        },
+        {
+          "word": "的",
+          "start_ms": 7360,
+          "end_ms": 7440
+        },
+        {
+          "word": "位",
+          "start_ms": 7440,
+          "end_ms": 7560
+        },
+        {
+          "word": "置",
+          "start_ms": 7560,
+          "end_ms": 7700
+        },
+        {
+          "word": "之",
+          "start_ms": 7700,
+          "end_ms": 7820
+        },
+        {
+          "word": "一",
+          "start_ms": 7820,
+          "end_ms": 7940
+        },
+        {
+          "word": "。",
+          "start_ms": 7940,
+          "end_ms": 7940
+        }
+      ],
+      "text_sha256": "c1d5b729de53e507c0ee4cd0660e0c6a9a01794a23d477280ec60bd49b35e48b",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.9773,
+        "asr_text": "也就是说托尔森丁3950技术支撑区也压在3950附近这里已经成了黄金现在最关键的位置之一"
+      }
+    },
+    "scene_21": {
+      "path": "audio/scene_21.mp3",
+      "duration_ms": 6552,
+      "word_timestamps": [
+        {
+          "word": "托",
+          "start_ms": 0,
+          "end_ms": 280
+        },
+        {
+          "word": "尔",
+          "start_ms": 280,
+          "end_ms": 360
+        },
+        {
+          "word": "森",
+          "start_ms": 360,
+          "end_ms": 500
+        },
+        {
+          "word": "也",
+          "start_ms": 500,
+          "end_ms": 640
+        },
+        {
+          "word": "给",
+          "start_ms": 640,
+          "end_ms": 780
+        },
+        {
+          "word": "了",
+          "start_ms": 780,
+          "end_ms": 880
+        },
+        {
+          "word": "一",
+          "start_ms": 880,
+          "end_ms": 960
+        },
+        {
+          "word": "个",
+          "start_ms": 960,
+          "end_ms": 1040
+        },
+        {
+          "word": "更",
+          "start_ms": 1040,
+          "end_ms": 1220
+        },
+        {
+          "word": "极",
+          "start_ms": 1220,
+          "end_ms": 1380
+        },
+        {
+          "word": "端",
+          "start_ms": 1380,
+          "end_ms": 1520
+        },
+        {
+          "word": "的",
+          "start_ms": 1520,
+          "end_ms": 1600
+        },
+        {
+          "word": "情",
+          "start_ms": 1600,
+          "end_ms": 1730
+        },
+        {
+          "word": "况",
+          "start_ms": 1730,
+          "end_ms": 1860
+        },
+        {
+          "word": "：",
+          "start_ms": 1860,
+          "end_ms": 1860
+        },
+        {
+          "word": "中",
+          "start_ms": 1860,
+          "end_ms": 2340
+        },
+        {
+          "word": "期",
+          "start_ms": 2340,
+          "end_ms": 2480
+        },
+        {
+          "word": "选",
+          "start_ms": 2480,
+          "end_ms": 2620
+        },
+        {
+          "word": "举",
+          "start_ms": 2620,
+          "end_ms": 2740
+        },
+        {
+          "word": "之",
+          "start_ms": 2740,
+          "end_ms": 2860
+        },
+        {
+          "word": "后",
+          "start_ms": 2860,
+          "end_ms": 3000
+        },
+        {
+          "word": "，",
+          "start_ms": 3000,
+          "end_ms": 3000
+        },
+        {
+          "word": "如",
+          "start_ms": 3000,
+          "end_ms": 3240
+        },
+        {
+          "word": "果",
+          "start_ms": 3240,
+          "end_ms": 3480
+        },
+        {
+          "word": "美",
+          "start_ms": 3480,
+          "end_ms": 3600
+        },
+        {
+          "word": "股",
+          "start_ms": 3600,
+          "end_ms": 3760
+        },
+        {
+          "word": "出",
+          "start_ms": 3760,
+          "end_ms": 3900
+        },
+        {
+          "word": "现",
+          "start_ms": 3900,
+          "end_ms": 4040
+        },
+        {
+          "word": "严",
+          "start_ms": 4040,
+          "end_ms": 4200
+        },
+        {
+          "word": "重",
+          "start_ms": 4200,
+          "end_ms": 4280
+        },
+        {
+          "word": "下",
+          "start_ms": 4280,
+          "end_ms": 4420
+        },
+        {
+          "word": "跌",
+          "start_ms": 4420,
+          "end_ms": 4640
+        },
+        {
+          "word": "，",
+          "start_ms": 4640,
+          "end_ms": 4640
+        },
+        {
+          "word": "黄",
+          "start_ms": 4640,
+          "end_ms": 5040
+        },
+        {
+          "word": "金",
+          "start_ms": 5040,
+          "end_ms": 5180
+        },
+        {
+          "word": "可",
+          "start_ms": 5180,
+          "end_ms": 5280
+        },
+        {
+          "word": "能",
+          "start_ms": 5280,
+          "end_ms": 5380
+        },
+        {
+          "word": "被",
+          "start_ms": 5380,
+          "end_ms": 5520
+        },
+        {
+          "word": "一",
+          "start_ms": 5520,
+          "end_ms": 5620
+        },
+        {
+          "word": "起",
+          "start_ms": 5620,
+          "end_ms": 5720
+        },
+        {
+          "word": "拖",
+          "start_ms": 5720,
+          "end_ms": 5920
+        },
+        {
+          "word": "下",
+          "start_ms": 5920,
+          "end_ms": 6050
+        },
+        {
+          "word": "去",
+          "start_ms": 6050,
+          "end_ms": 6180
+        },
+        {
+          "word": "。",
+          "start_ms": 6180,
+          "end_ms": 6180
+        }
+      ],
+      "text_sha256": "3332311e7b824bec138619a93be2919bd0b53aae3e371290d74f4c383dcbe92f",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "托尔森也给了一个更极端的情况中期选举之后如果美股出现严重下跌黄金可能被一起拖下去"
+      }
+    },
+    "scene_22": {
+      "path": "audio/scene_22.mp3",
+      "duration_ms": 4644,
+      "word_timestamps": [
+        {
+          "word": "到",
+          "start_ms": 0,
+          "end_ms": 150
+        },
+        {
+          "word": "了",
+          "start_ms": 150,
+          "end_ms": 300
+        },
+        {
+          "word": "这",
+          "start_ms": 300,
+          "end_ms": 480
+        },
+        {
+          "word": "种",
+          "start_ms": 480,
+          "end_ms": 560
+        },
+        {
+          "word": "极",
+          "start_ms": 560,
+          "end_ms": 700
+        },
+        {
+          "word": "端",
+          "start_ms": 700,
+          "end_ms": 840
+        },
+        {
+          "word": "情",
+          "start_ms": 840,
+          "end_ms": 980
+        },
+        {
+          "word": "况",
+          "start_ms": 980,
+          "end_ms": 1120
+        },
+        {
+          "word": "，",
+          "start_ms": 1120,
+          "end_ms": 1120
+        },
+        {
+          "word": "他",
+          "start_ms": 1120,
+          "end_ms": 1560
+        },
+        {
+          "word": "才",
+          "start_ms": 1560,
+          "end_ms": 1660
+        },
+        {
+          "word": "把",
+          "start_ms": 1660,
+          "end_ms": 1800
+        },
+        {
+          "word": "黄",
+          "start_ms": 1800,
+          "end_ms": 1980
+        },
+        {
+          "word": "金",
+          "start_ms": 1980,
+          "end_ms": 2100
+        },
+        {
+          "word": "更",
+          "start_ms": 2100,
+          "end_ms": 2260
+        },
+        {
+          "word": "深",
+          "start_ms": 2260,
+          "end_ms": 2400
+        },
+        {
+          "word": "的",
+          "start_ms": 2400,
+          "end_ms": 2520
+        },
+        {
+          "word": "位",
+          "start_ms": 2520,
+          "end_ms": 2640
+        },
+        {
+          "word": "置",
+          "start_ms": 2640,
+          "end_ms": 2820
+        },
+        {
+          "word": "看",
+          "start_ms": 2820,
+          "end_ms": 3040
+        },
+        {
+          "word": "到",
+          "start_ms": 3040,
+          "end_ms": 3260
+        },
+        {
+          "word": "3",
+          "start_ms": 3260,
+          "end_ms": 3460
+        },
+        {
+          "word": "5",
+          "start_ms": 3460,
+          "end_ms": 3547
+        },
+        {
+          "word": "0",
+          "start_ms": 3547,
+          "end_ms": 3633
+        },
+        {
+          "word": "0",
+          "start_ms": 3633,
+          "end_ms": 3720
+        },
+        {
+          "word": "美",
+          "start_ms": 3720,
+          "end_ms": 3860
+        },
+        {
+          "word": "元",
+          "start_ms": 3860,
+          "end_ms": 4000
+        },
+        {
+          "word": "附",
+          "start_ms": 4000,
+          "end_ms": 4260
+        },
+        {
+          "word": "近",
+          "start_ms": 4260,
+          "end_ms": 4360
+        },
+        {
+          "word": "。",
+          "start_ms": 4360,
+          "end_ms": 4360
+        }
+      ],
+      "text_sha256": "db76f39de9a98f604b731c585b4e6afb8eab155c78c49286d1dcb49b39c9d668",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "到了这种极端情况他才把黄金更深的位置看到3500美元附近"
+      }
+    },
+    "scene_24": {
+      "path": "audio/scene_24.mp3",
+      "duration_ms": 7164,
+      "word_timestamps": [
+        {
+          "word": "白",
+          "start_ms": 0,
+          "end_ms": 260
+        },
+        {
+          "word": "银",
+          "start_ms": 260,
+          "end_ms": 440
+        },
+        {
+          "word": "也",
+          "start_ms": 440,
+          "end_ms": 580
+        },
+        {
+          "word": "是",
+          "start_ms": 580,
+          "end_ms": 720
+        },
+        {
+          "word": "类",
+          "start_ms": 720,
+          "end_ms": 920
+        },
+        {
+          "word": "似",
+          "start_ms": 920,
+          "end_ms": 1100
+        },
+        {
+          "word": "，",
+          "start_ms": 1100,
+          "end_ms": 1100
+        },
+        {
+          "word": "跌",
+          "start_ms": 1100,
+          "end_ms": 1580
+        },
+        {
+          "word": "破",
+          "start_ms": 1580,
+          "end_ms": 1720
+        },
+        {
+          "word": "5",
+          "start_ms": 1720,
+          "end_ms": 1830
+        },
+        {
+          "word": "5",
+          "start_ms": 1830,
+          "end_ms": 1940
+        },
+        {
+          "word": "美",
+          "start_ms": 1940,
+          "end_ms": 2070
+        },
+        {
+          "word": "元",
+          "start_ms": 2070,
+          "end_ms": 2200
+        },
+        {
+          "word": "之",
+          "start_ms": 2200,
+          "end_ms": 2360
+        },
+        {
+          "word": "后",
+          "start_ms": 2360,
+          "end_ms": 2580
+        },
+        {
+          "word": "，",
+          "start_ms": 2580,
+          "end_ms": 2580
+        },
+        {
+          "word": "托",
+          "start_ms": 2580,
+          "end_ms": 2920
+        },
+        {
+          "word": "尔",
+          "start_ms": 2920,
+          "end_ms": 3020
+        },
+        {
+          "word": "森",
+          "start_ms": 3020,
+          "end_ms": 3140
+        },
+        {
+          "word": "认",
+          "start_ms": 3140,
+          "end_ms": 3280
+        },
+        {
+          "word": "为",
+          "start_ms": 3280,
+          "end_ms": 3460
+        },
+        {
+          "word": "下",
+          "start_ms": 3460,
+          "end_ms": 3660
+        },
+        {
+          "word": "一",
+          "start_ms": 3660,
+          "end_ms": 3860
+        },
+        {
+          "word": "步",
+          "start_ms": 3860,
+          "end_ms": 4040
+        },
+        {
+          "word": "测",
+          "start_ms": 4040,
+          "end_ms": 4200
+        },
+        {
+          "word": "试",
+          "start_ms": 4200,
+          "end_ms": 4340
+        },
+        {
+          "word": "5",
+          "start_ms": 4340,
+          "end_ms": 4420
+        },
+        {
+          "word": "0",
+          "start_ms": 4420,
+          "end_ms": 4500
+        },
+        {
+          "word": "美",
+          "start_ms": 4500,
+          "end_ms": 4650
+        },
+        {
+          "word": "元",
+          "start_ms": 4650,
+          "end_ms": 4800
+        },
+        {
+          "word": "趋",
+          "start_ms": 4800,
+          "end_ms": 5040
+        },
+        {
+          "word": "势",
+          "start_ms": 5040,
+          "end_ms": 5160
+        },
+        {
+          "word": "线",
+          "start_ms": 5160,
+          "end_ms": 5300
+        },
+        {
+          "word": "支",
+          "start_ms": 5300,
+          "end_ms": 5420
+        },
+        {
+          "word": "撑",
+          "start_ms": 5420,
+          "end_ms": 5580
+        },
+        {
+          "word": "的",
+          "start_ms": 5580,
+          "end_ms": 5680
+        },
+        {
+          "word": "可",
+          "start_ms": 5680,
+          "end_ms": 5770
+        },
+        {
+          "word": "能",
+          "start_ms": 5770,
+          "end_ms": 5860
+        },
+        {
+          "word": "性",
+          "start_ms": 5860,
+          "end_ms": 6060
+        },
+        {
+          "word": "正",
+          "start_ms": 6060,
+          "end_ms": 6360
+        },
+        {
+          "word": "在",
+          "start_ms": 6360,
+          "end_ms": 6520
+        },
+        {
+          "word": "上",
+          "start_ms": 6520,
+          "end_ms": 6660
+        },
+        {
+          "word": "升",
+          "start_ms": 6660,
+          "end_ms": 6820
+        },
+        {
+          "word": "。",
+          "start_ms": 6820,
+          "end_ms": 6820
+        }
+      ],
+      "text_sha256": "f523c28ce56bf47e7e6b9fc3957b775edad0e58a29b25c0b2612926cb272fe7b",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "白银也是类似跌破55美元之后托尔森认为下一步测试50美元趋势线支撑的可能性正在上升"
+      }
+    },
+    "scene_23": {
+      "path": "audio/scene_23.mp3",
+      "duration_ms": 5364,
+      "word_timestamps": [
+        {
+          "word": "但",
+          "start_ms": 0,
+          "end_ms": 220
+        },
+        {
+          "word": "这",
+          "start_ms": 220,
+          "end_ms": 340
+        },
+        {
+          "word": "不",
+          "start_ms": 340,
+          "end_ms": 440
+        },
+        {
+          "word": "是",
+          "start_ms": 440,
+          "end_ms": 540
+        },
+        {
+          "word": "他",
+          "start_ms": 540,
+          "end_ms": 640
+        },
+        {
+          "word": "的",
+          "start_ms": 640,
+          "end_ms": 740
+        },
+        {
+          "word": "主",
+          "start_ms": 740,
+          "end_ms": 940
+        },
+        {
+          "word": "判",
+          "start_ms": 940,
+          "end_ms": 1120
+        },
+        {
+          "word": "断",
+          "start_ms": 1120,
+          "end_ms": 1340
+        },
+        {
+          "word": "，",
+          "start_ms": 1340,
+          "end_ms": 1340
+        },
+        {
+          "word": "他",
+          "start_ms": 1340,
+          "end_ms": 1620
+        },
+        {
+          "word": "现",
+          "start_ms": 1620,
+          "end_ms": 1740
+        },
+        {
+          "word": "在",
+          "start_ms": 1740,
+          "end_ms": 1860
+        },
+        {
+          "word": "押",
+          "start_ms": 1860,
+          "end_ms": 2040
+        },
+        {
+          "word": "的",
+          "start_ms": 2040,
+          "end_ms": 2160
+        },
+        {
+          "word": "，",
+          "start_ms": 2160,
+          "end_ms": 2160
+        },
+        {
+          "word": "还",
+          "start_ms": 2160,
+          "end_ms": 2390
+        },
+        {
+          "word": "是",
+          "start_ms": 2390,
+          "end_ms": 2620
+        },
+        {
+          "word": "1",
+          "start_ms": 2620,
+          "end_ms": 2730
+        },
+        {
+          "word": "0",
+          "start_ms": 2730,
+          "end_ms": 2840
+        },
+        {
+          "word": "月",
+          "start_ms": 2840,
+          "end_ms": 2980
+        },
+        {
+          "word": "底",
+          "start_ms": 2980,
+          "end_ms": 3100
+        },
+        {
+          "word": "到",
+          "start_ms": 3100,
+          "end_ms": 3260
+        },
+        {
+          "word": "1",
+          "start_ms": 3260,
+          "end_ms": 3360
+        },
+        {
+          "word": "1",
+          "start_ms": 3360,
+          "end_ms": 3460
+        },
+        {
+          "word": "月",
+          "start_ms": 3460,
+          "end_ms": 3620
+        },
+        {
+          "word": "上",
+          "start_ms": 3620,
+          "end_ms": 3780
+        },
+        {
+          "word": "旬",
+          "start_ms": 3780,
+          "end_ms": 3980
+        },
+        {
+          "word": "完",
+          "start_ms": 3980,
+          "end_ms": 4200
+        },
+        {
+          "word": "成",
+          "start_ms": 4200,
+          "end_ms": 4420
+        },
+        {
+          "word": "这",
+          "start_ms": 4420,
+          "end_ms": 4620
+        },
+        {
+          "word": "一",
+          "start_ms": 4620,
+          "end_ms": 4720
+        },
+        {
+          "word": "轮",
+          "start_ms": 4720,
+          "end_ms": 4840
+        },
+        {
+          "word": "筑",
+          "start_ms": 4840,
+          "end_ms": 4940
+        },
+        {
+          "word": "底",
+          "start_ms": 4940,
+          "end_ms": 5100
+        },
+        {
+          "word": "。",
+          "start_ms": 5100,
+          "end_ms": 5100
+        }
+      ],
+      "text_sha256": "18d16f109965b5bb141174eb202a8067abe5b2e405bb90f88d64c8c97a1b86fb",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.9394,
+        "asr_text": "但这不是他的主判断他现在压的还是10月底到11月上旬完成这一轮注底"
+      }
+    },
+    "scene_26": {
+      "path": "audio/scene_26.mp3",
+      "duration_ms": 9540,
+      "word_timestamps": [
+        {
+          "word": "世",
+          "start_ms": 0,
+          "end_ms": 150
+        },
+        {
+          "word": "界",
+          "start_ms": 150,
+          "end_ms": 300
+        },
+        {
+          "word": "黄",
+          "start_ms": 300,
+          "end_ms": 480
+        },
+        {
+          "word": "金",
+          "start_ms": 480,
+          "end_ms": 580
+        },
+        {
+          "word": "协",
+          "start_ms": 580,
+          "end_ms": 700
+        },
+        {
+          "word": "会",
+          "start_ms": 700,
+          "end_ms": 860
+        },
+        {
+          "word": "1",
+          "start_ms": 860,
+          "end_ms": 960
+        },
+        {
+          "word": "0",
+          "start_ms": 960,
+          "end_ms": 1060
+        },
+        {
+          "word": "月",
+          "start_ms": 1060,
+          "end_ms": 1180
+        },
+        {
+          "word": "2",
+          "start_ms": 1180,
+          "end_ms": 1310
+        },
+        {
+          "word": "6",
+          "start_ms": 1310,
+          "end_ms": 1440
+        },
+        {
+          "word": "日",
+          "start_ms": 1440,
+          "end_ms": 1620
+        },
+        {
+          "word": "最",
+          "start_ms": 1620,
+          "end_ms": 1780
+        },
+        {
+          "word": "新",
+          "start_ms": 1780,
+          "end_ms": 1920
+        },
+        {
+          "word": "周",
+          "start_ms": 1920,
+          "end_ms": 2040
+        },
+        {
+          "word": "报",
+          "start_ms": 2040,
+          "end_ms": 2200
+        },
+        {
+          "word": "又",
+          "start_ms": 2200,
+          "end_ms": 2400
+        },
+        {
+          "word": "给",
+          "start_ms": 2400,
+          "end_ms": 2540
+        },
+        {
+          "word": "了",
+          "start_ms": 2540,
+          "end_ms": 2620
+        },
+        {
+          "word": "一",
+          "start_ms": 2620,
+          "end_ms": 2700
+        },
+        {
+          "word": "个",
+          "start_ms": 2700,
+          "end_ms": 2780
+        },
+        {
+          "word": "强",
+          "start_ms": 2780,
+          "end_ms": 2960
+        },
+        {
+          "word": "信",
+          "start_ms": 2960,
+          "end_ms": 3080
+        },
+        {
+          "word": "号",
+          "start_ms": 3080,
+          "end_ms": 3260
+        },
+        {
+          "word": "：",
+          "start_ms": 3260,
+          "end_ms": 3260
+        },
+        {
+          "word": "本",
+          "start_ms": 3260,
+          "end_ms": 3660
+        },
+        {
+          "word": "周",
+          "start_ms": 3660,
+          "end_ms": 3820
+        },
+        {
+          "word": "美",
+          "start_ms": 3820,
+          "end_ms": 4120
+        },
+        {
+          "word": "联",
+          "start_ms": 4120,
+          "end_ms": 4280
+        },
+        {
+          "word": "储",
+          "start_ms": 4280,
+          "end_ms": 4420
+        },
+        {
+          "word": "再",
+          "start_ms": 4420,
+          "end_ms": 4580
+        },
+        {
+          "word": "次",
+          "start_ms": 4580,
+          "end_ms": 4740
+        },
+        {
+          "word": "加",
+          "start_ms": 4740,
+          "end_ms": 4880
+        },
+        {
+          "word": "息",
+          "start_ms": 4880,
+          "end_ms": 5020
+        },
+        {
+          "word": "的",
+          "start_ms": 5020,
+          "end_ms": 5140
+        },
+        {
+          "word": "概",
+          "start_ms": 5140,
+          "end_ms": 5240
+        },
+        {
+          "word": "率",
+          "start_ms": 5240,
+          "end_ms": 5400
+        },
+        {
+          "word": "，",
+          "start_ms": 5400,
+          "end_ms": 5400
+        },
+        {
+          "word": "已",
+          "start_ms": 5400,
+          "end_ms": 5610
+        },
+        {
+          "word": "经",
+          "start_ms": 5610,
+          "end_ms": 5820
+        },
+        {
+          "word": "从",
+          "start_ms": 5820,
+          "end_ms": 6040
+        },
+        {
+          "word": "一",
+          "start_ms": 6040,
+          "end_ms": 6130
+        },
+        {
+          "word": "个",
+          "start_ms": 6130,
+          "end_ms": 6220
+        },
+        {
+          "word": "月",
+          "start_ms": 6220,
+          "end_ms": 6380
+        },
+        {
+          "word": "前",
+          "start_ms": 6380,
+          "end_ms": 6600
+        },
+        {
+          "word": "大",
+          "start_ms": 6600,
+          "end_ms": 6860
+        },
+        {
+          "word": "约",
+          "start_ms": 6860,
+          "end_ms": 7040
+        },
+        {
+          "word": "7",
+          "start_ms": 7040,
+          "end_ms": 7130
+        },
+        {
+          "word": "0",
+          "start_ms": 7130,
+          "end_ms": 7220
+        },
+        {
+          "word": "%",
+          "start_ms": 7220,
+          "end_ms": 7220
+        },
+        {
+          "word": "，",
+          "start_ms": 7220,
+          "end_ms": 7220
+        },
+        {
+          "word": "降",
+          "start_ms": 7800,
+          "end_ms": 8180
+        },
+        {
+          "word": "到",
+          "start_ms": 8180,
+          "end_ms": 8340
+        },
+        {
+          "word": "不",
+          "start_ms": 8340,
+          "end_ms": 8480
+        },
+        {
+          "word": "足",
+          "start_ms": 8480,
+          "end_ms": 8600
+        },
+        {
+          "word": "1",
+          "start_ms": 8600,
+          "end_ms": 8860
+        },
+        {
+          "word": "0",
+          "start_ms": 8860,
+          "end_ms": 9120
+        },
+        {
+          "word": "%",
+          "start_ms": 9120,
+          "end_ms": 9120
+        },
+        {
+          "word": "。",
+          "start_ms": 9120,
+          "end_ms": 9120
+        }
+      ],
+      "text_sha256": "2ca63a1fc367d1a62a0ae5ec1708afff2b440dcdd56de46f5f3e25b2237ba79b",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "世界黄金协会10月26日最新周报又给了一个强信号本周美联储再次加息的概率已经从一个月前大约70%降到不足10%"
+      }
+    },
+    "scene_25": {
+      "path": "audio/scene_25.mp3",
+      "duration_ms": 7164,
+      "word_timestamps": [
+        {
+          "word": "再",
+          "start_ms": 0,
+          "end_ms": 240
+        },
+        {
+          "word": "看",
+          "start_ms": 240,
+          "end_ms": 360
+        },
+        {
+          "word": "美",
+          "start_ms": 360,
+          "end_ms": 500
+        },
+        {
+          "word": "债",
+          "start_ms": 500,
+          "end_ms": 700
+        },
+        {
+          "word": "，",
+          "start_ms": 700,
+          "end_ms": 700
+        },
+        {
+          "word": "1",
+          "start_ms": 700,
+          "end_ms": 960
+        },
+        {
+          "word": "0",
+          "start_ms": 960,
+          "end_ms": 1220
+        },
+        {
+          "word": "年",
+          "start_ms": 1220,
+          "end_ms": 1360
+        },
+        {
+          "word": "期",
+          "start_ms": 1360,
+          "end_ms": 1500
+        },
+        {
+          "word": "美",
+          "start_ms": 1500,
+          "end_ms": 1680
+        },
+        {
+          "word": "债",
+          "start_ms": 1680,
+          "end_ms": 1840
+        },
+        {
+          "word": "收",
+          "start_ms": 1840,
+          "end_ms": 1940
+        },
+        {
+          "word": "益",
+          "start_ms": 1940,
+          "end_ms": 2060
+        },
+        {
+          "word": "率",
+          "start_ms": 2060,
+          "end_ms": 2140
+        },
+        {
+          "word": "上",
+          "start_ms": 2140,
+          "end_ms": 2440
+        },
+        {
+          "word": "周",
+          "start_ms": 2440,
+          "end_ms": 2600
+        },
+        {
+          "word": "已",
+          "start_ms": 2600,
+          "end_ms": 2700
+        },
+        {
+          "word": "经",
+          "start_ms": 2700,
+          "end_ms": 2800
+        },
+        {
+          "word": "收",
+          "start_ms": 2800,
+          "end_ms": 2960
+        },
+        {
+          "word": "在",
+          "start_ms": 2960,
+          "end_ms": 3100
+        },
+        {
+          "word": "5",
+          "start_ms": 3100,
+          "end_ms": 3260
+        },
+        {
+          "word": "%",
+          "start_ms": 3260,
+          "end_ms": 3260
+        },
+        {
+          "word": "下",
+          "start_ms": 3560,
+          "end_ms": 3700
+        },
+        {
+          "word": "方",
+          "start_ms": 3700,
+          "end_ms": 3900
+        },
+        {
+          "word": "，",
+          "start_ms": 3900,
+          "end_ms": 3900
+        },
+        {
+          "word": "托",
+          "start_ms": 3900,
+          "end_ms": 4320
+        },
+        {
+          "word": "尔",
+          "start_ms": 4320,
+          "end_ms": 4380
+        },
+        {
+          "word": "森",
+          "start_ms": 4380,
+          "end_ms": 4500
+        },
+        {
+          "word": "认",
+          "start_ms": 4500,
+          "end_ms": 4620
+        },
+        {
+          "word": "为",
+          "start_ms": 4620,
+          "end_ms": 4760
+        },
+        {
+          "word": "这",
+          "start_ms": 4760,
+          "end_ms": 4930
+        },
+        {
+          "word": "里",
+          "start_ms": 4930,
+          "end_ms": 5100
+        },
+        {
+          "word": "可",
+          "start_ms": 5100,
+          "end_ms": 5230
+        },
+        {
+          "word": "能",
+          "start_ms": 5230,
+          "end_ms": 5360
+        },
+        {
+          "word": "正",
+          "start_ms": 5360,
+          "end_ms": 5540
+        },
+        {
+          "word": "在",
+          "start_ms": 5540,
+          "end_ms": 5700
+        },
+        {
+          "word": "形",
+          "start_ms": 5700,
+          "end_ms": 5820
+        },
+        {
+          "word": "成",
+          "start_ms": 5820,
+          "end_ms": 6020
+        },
+        {
+          "word": "1",
+          "start_ms": 6020,
+          "end_ms": 6110
+        },
+        {
+          "word": "0",
+          "start_ms": 6110,
+          "end_ms": 6200
+        },
+        {
+          "word": "月",
+          "start_ms": 6200,
+          "end_ms": 6300
+        },
+        {
+          "word": "阶",
+          "start_ms": 6300,
+          "end_ms": 6440
+        },
+        {
+          "word": "段",
+          "start_ms": 6440,
+          "end_ms": 6580
+        },
+        {
+          "word": "高",
+          "start_ms": 6580,
+          "end_ms": 6740
+        },
+        {
+          "word": "点",
+          "start_ms": 6740,
+          "end_ms": 6860
+        },
+        {
+          "word": "。",
+          "start_ms": 6860,
+          "end_ms": 6860
+        }
+      ],
+      "text_sha256": "56dd57b357e47c50ee2a276d0cfe4818f41b18d80f03e1b7d0198f33574ad2db",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "再看美债10年期美债收益率上周已经收在5%下方托尔森认为这里可能正在形成10月阶段高点"
+      }
+    },
+    "scene_28": {
+      "path": "audio/scene_28.mp3",
+      "duration_ms": 4392,
+      "word_timestamps": [
+        {
+          "word": "所",
+          "start_ms": 0,
+          "end_ms": 180
+        },
+        {
+          "word": "以",
+          "start_ms": 180,
+          "end_ms": 360
+        },
+        {
+          "word": "接",
+          "start_ms": 360,
+          "end_ms": 500
+        },
+        {
+          "word": "下",
+          "start_ms": 500,
+          "end_ms": 620
+        },
+        {
+          "word": "来",
+          "start_ms": 620,
+          "end_ms": 780
+        },
+        {
+          "word": "，",
+          "start_ms": 780,
+          "end_ms": 780
+        },
+        {
+          "word": "黄",
+          "start_ms": 780,
+          "end_ms": 1180
+        },
+        {
+          "word": "金",
+          "start_ms": 1180,
+          "end_ms": 1300
+        },
+        {
+          "word": "能",
+          "start_ms": 1300,
+          "end_ms": 1420
+        },
+        {
+          "word": "不",
+          "start_ms": 1420,
+          "end_ms": 1520
+        },
+        {
+          "word": "能",
+          "start_ms": 1520,
+          "end_ms": 1620
+        },
+        {
+          "word": "完",
+          "start_ms": 1620,
+          "end_ms": 1750
+        },
+        {
+          "word": "成",
+          "start_ms": 1750,
+          "end_ms": 1880
+        },
+        {
+          "word": "这",
+          "start_ms": 1880,
+          "end_ms": 2060
+        },
+        {
+          "word": "次",
+          "start_ms": 2060,
+          "end_ms": 2160
+        },
+        {
+          "word": "“",
+          "start_ms": 2160,
+          "end_ms": 2160
+        },
+        {
+          "word": "最",
+          "start_ms": 2160,
+          "end_ms": 2300
+        },
+        {
+          "word": "后",
+          "start_ms": 2300,
+          "end_ms": 2440
+        },
+        {
+          "word": "一",
+          "start_ms": 2440,
+          "end_ms": 2540
+        },
+        {
+          "word": "洗",
+          "start_ms": 2540,
+          "end_ms": 2700
+        },
+        {
+          "word": "”",
+          "start_ms": 2700,
+          "end_ms": 2700
+        },
+        {
+          "word": "，",
+          "start_ms": 2700,
+          "end_ms": 2700
+        },
+        {
+          "word": "就",
+          "start_ms": 2700,
+          "end_ms": 3000
+        },
+        {
+          "word": "看",
+          "start_ms": 3000,
+          "end_ms": 3120
+        },
+        {
+          "word": "本",
+          "start_ms": 3120,
+          "end_ms": 3280
+        },
+        {
+          "word": "周",
+          "start_ms": 3280,
+          "end_ms": 3420
+        },
+        {
+          "word": "美",
+          "start_ms": 3420,
+          "end_ms": 3540
+        },
+        {
+          "word": "联",
+          "start_ms": 3540,
+          "end_ms": 3680
+        },
+        {
+          "word": "储",
+          "start_ms": 3680,
+          "end_ms": 3800
+        },
+        {
+          "word": "决",
+          "start_ms": 3800,
+          "end_ms": 3940
+        },
+        {
+          "word": "议",
+          "start_ms": 3940,
+          "end_ms": 4080
+        },
+        {
+          "word": "。",
+          "start_ms": 4080,
+          "end_ms": 4080
+        }
+      ],
+      "text_sha256": "e7ff360590d2ff273050cf1250da3d0791a9f071a11c18a6b9377374e28b43c8",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 0.963,
+        "asr_text": "所以接下来黄金能不能完成这次最后一席就看本周美联储决议"
+      }
+    },
+    "scene_27": {
+      "path": "audio/scene_27.mp3",
+      "duration_ms": 3456,
+      "word_timestamps": [
+        {
+          "word": "这",
+          "start_ms": 0,
+          "end_ms": 150
+        },
+        {
+          "word": "个",
+          "start_ms": 150,
+          "end_ms": 300
+        },
+        {
+          "word": "变",
+          "start_ms": 300,
+          "end_ms": 460
+        },
+        {
+          "word": "化",
+          "start_ms": 460,
+          "end_ms": 560
+        },
+        {
+          "word": "非",
+          "start_ms": 560,
+          "end_ms": 670
+        },
+        {
+          "word": "常",
+          "start_ms": 670,
+          "end_ms": 780
+        },
+        {
+          "word": "大",
+          "start_ms": 780,
+          "end_ms": 1020
+        },
+        {
+          "word": "，",
+          "start_ms": 1020,
+          "end_ms": 1020
+        },
+        {
+          "word": "但",
+          "start_ms": 1020,
+          "end_ms": 1440
+        },
+        {
+          "word": "1",
+          "start_ms": 1440,
+          "end_ms": 1550
+        },
+        {
+          "word": "2",
+          "start_ms": 1550,
+          "end_ms": 1660
+        },
+        {
+          "word": "月",
+          "start_ms": 1660,
+          "end_ms": 1860
+        },
+        {
+          "word": "加",
+          "start_ms": 1860,
+          "end_ms": 2100
+        },
+        {
+          "word": "息",
+          "start_ms": 2100,
+          "end_ms": 2240
+        },
+        {
+          "word": "风",
+          "start_ms": 2240,
+          "end_ms": 2380
+        },
+        {
+          "word": "险",
+          "start_ms": 2380,
+          "end_ms": 2520
+        },
+        {
+          "word": "还",
+          "start_ms": 2520,
+          "end_ms": 2620
+        },
+        {
+          "word": "没",
+          "start_ms": 2620,
+          "end_ms": 2700
+        },
+        {
+          "word": "有",
+          "start_ms": 2700,
+          "end_ms": 2780
+        },
+        {
+          "word": "消",
+          "start_ms": 2780,
+          "end_ms": 2940
+        },
+        {
+          "word": "失",
+          "start_ms": 2940,
+          "end_ms": 3120
+        },
+        {
+          "word": "。",
+          "start_ms": 3120,
+          "end_ms": 3120
+        }
+      ],
+      "text_sha256": "f7f61bfed0f036ec33d87076d9476c39e18b96b87f85d2e7f863fbc76c1f449d",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "这个变化非常大但12月加息风险还没有消失"
+      }
+    },
+    "scene_30": {
+      "path": "audio/scene_30.mp3",
+      "duration_ms": 6264,
+      "word_timestamps": [
+        {
+          "word": "托",
+          "start_ms": 0,
+          "end_ms": 200
+        },
+        {
+          "word": "尔",
+          "start_ms": 200,
+          "end_ms": 300
+        },
+        {
+          "word": "森",
+          "start_ms": 300,
+          "end_ms": 420
+        },
+        {
+          "word": "这",
+          "start_ms": 420,
+          "end_ms": 520
+        },
+        {
+          "word": "套",
+          "start_ms": 520,
+          "end_ms": 620
+        },
+        {
+          "word": "逻",
+          "start_ms": 620,
+          "end_ms": 720
+        },
+        {
+          "word": "辑",
+          "start_ms": 720,
+          "end_ms": 800
+        },
+        {
+          "word": "很",
+          "start_ms": 800,
+          "end_ms": 940
+        },
+        {
+          "word": "简",
+          "start_ms": 940,
+          "end_ms": 1120
+        },
+        {
+          "word": "单",
+          "start_ms": 1120,
+          "end_ms": 1320
+        },
+        {
+          "word": "：",
+          "start_ms": 1320,
+          "end_ms": 1320
+        },
+        {
+          "word": "收",
+          "start_ms": 1320,
+          "end_ms": 1740
+        },
+        {
+          "word": "益",
+          "start_ms": 1740,
+          "end_ms": 1860
+        },
+        {
+          "word": "率",
+          "start_ms": 1860,
+          "end_ms": 1940
+        },
+        {
+          "word": "先",
+          "start_ms": 1940,
+          "end_ms": 2220
+        },
+        {
+          "word": "见",
+          "start_ms": 2220,
+          "end_ms": 2360
+        },
+        {
+          "word": "顶",
+          "start_ms": 2360,
+          "end_ms": 2580
+        },
+        {
+          "word": "，",
+          "start_ms": 2580,
+          "end_ms": 2580
+        },
+        {
+          "word": "黄",
+          "start_ms": 2580,
+          "end_ms": 3060
+        },
+        {
+          "word": "金",
+          "start_ms": 3060,
+          "end_ms": 3200
+        },
+        {
+          "word": "再",
+          "start_ms": 3200,
+          "end_ms": 3360
+        },
+        {
+          "word": "完",
+          "start_ms": 3360,
+          "end_ms": 3480
+        },
+        {
+          "word": "成",
+          "start_ms": 3480,
+          "end_ms": 3600
+        },
+        {
+          "word": "最",
+          "start_ms": 3600,
+          "end_ms": 3820
+        },
+        {
+          "word": "后",
+          "start_ms": 3820,
+          "end_ms": 3920
+        },
+        {
+          "word": "一",
+          "start_ms": 3920,
+          "end_ms": 4000
+        },
+        {
+          "word": "次",
+          "start_ms": 4000,
+          "end_ms": 4080
+        },
+        {
+          "word": "洗",
+          "start_ms": 4080,
+          "end_ms": 4220
+        },
+        {
+          "word": "盘",
+          "start_ms": 4220,
+          "end_ms": 4420
+        },
+        {
+          "word": "，",
+          "start_ms": 4420,
+          "end_ms": 4420
+        },
+        {
+          "word": "然",
+          "start_ms": 4420,
+          "end_ms": 4640
+        },
+        {
+          "word": "后",
+          "start_ms": 4640,
+          "end_ms": 4860
+        },
+        {
+          "word": "进",
+          "start_ms": 4860,
+          "end_ms": 5040
+        },
+        {
+          "word": "入",
+          "start_ms": 5040,
+          "end_ms": 5180
+        },
+        {
+          "word": "新",
+          "start_ms": 5180,
+          "end_ms": 5360
+        },
+        {
+          "word": "的",
+          "start_ms": 5360,
+          "end_ms": 5500
+        },
+        {
+          "word": "筑",
+          "start_ms": 5500,
+          "end_ms": 5640
+        },
+        {
+          "word": "底",
+          "start_ms": 5640,
+          "end_ms": 5740
+        },
+        {
+          "word": "窗",
+          "start_ms": 5740,
+          "end_ms": 5860
+        },
+        {
+          "word": "口",
+          "start_ms": 5860,
+          "end_ms": 6040
+        },
+        {
+          "word": "。",
+          "start_ms": 6040,
+          "end_ms": 6040
+        }
+      ],
+      "text_sha256": "e842b9f854771044d8a28a37209e3e7ebd08726c0af59b074a7c8e151ef5aa76",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "托尔森这套逻辑很简单收益率先见顶黄金再完成最后一次洗盘然后进入新的筑底窗口"
+      }
+    },
+    "scene_29": {
+      "path": "audio/scene_29.mp3",
+      "duration_ms": 4320,
+      "word_timestamps": [
+        {
+          "word": "然",
+          "start_ms": 0,
+          "end_ms": 180
+        },
+        {
+          "word": "后",
+          "start_ms": 180,
+          "end_ms": 360
+        },
+        {
+          "word": "再",
+          "start_ms": 360,
+          "end_ms": 720
+        },
+        {
+          "word": "看",
+          "start_ms": 720,
+          "end_ms": 860
+        },
+        {
+          "word": "P",
+          "start_ms": 860,
+          "end_ms": 1020
+        },
+        {
+          "word": "C",
+          "start_ms": 1020,
+          "end_ms": 1120
+        },
+        {
+          "word": "E",
+          "start_ms": 1120,
+          "end_ms": 1220
+        },
+        {
+          "word": "通",
+          "start_ms": 1220,
+          "end_ms": 1380
+        },
+        {
+          "word": "胀",
+          "start_ms": 1380,
+          "end_ms": 1520
+        },
+        {
+          "word": "数",
+          "start_ms": 1520,
+          "end_ms": 1680
+        },
+        {
+          "word": "据",
+          "start_ms": 1680,
+          "end_ms": 1840
+        },
+        {
+          "word": "，",
+          "start_ms": 1840,
+          "end_ms": 1840
+        },
+        {
+          "word": "会",
+          "start_ms": 1840,
+          "end_ms": 2260
+        },
+        {
+          "word": "不",
+          "start_ms": 2260,
+          "end_ms": 2340
+        },
+        {
+          "word": "会",
+          "start_ms": 2340,
+          "end_ms": 2420
+        },
+        {
+          "word": "重",
+          "start_ms": 2420,
+          "end_ms": 2600
+        },
+        {
+          "word": "新",
+          "start_ms": 2600,
+          "end_ms": 2800
+        },
+        {
+          "word": "把",
+          "start_ms": 2800,
+          "end_ms": 2940
+        },
+        {
+          "word": "加",
+          "start_ms": 2940,
+          "end_ms": 3080
+        },
+        {
+          "word": "息",
+          "start_ms": 3080,
+          "end_ms": 3240
+        },
+        {
+          "word": "预",
+          "start_ms": 3240,
+          "end_ms": 3380
+        },
+        {
+          "word": "期",
+          "start_ms": 3380,
+          "end_ms": 3520
+        },
+        {
+          "word": "推",
+          "start_ms": 3520,
+          "end_ms": 3720
+        },
+        {
+          "word": "上",
+          "start_ms": 3720,
+          "end_ms": 3860
+        },
+        {
+          "word": "去",
+          "start_ms": 3860,
+          "end_ms": 4040
+        },
+        {
+          "word": "。",
+          "start_ms": 4040,
+          "end_ms": 4040
+        }
+      ],
+      "text_sha256": "f12f8ceb890bb6e912e15631f3b14f85a58fa143884df06d79866f315eb31feb",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "然后再看PCE通胀数据会不会重新把加息预期推上去"
+      }
+    },
+    "scene_32": {
+      "path": "audio/scene_32.mp3",
+      "duration_ms": 5292,
+      "word_timestamps": [
+        {
+          "word": "1",
+          "start_ms": 0,
+          "end_ms": 120
+        },
+        {
+          "word": "0",
+          "start_ms": 120,
+          "end_ms": 240
+        },
+        {
+          "word": "月",
+          "start_ms": 240,
+          "end_ms": 320
+        },
+        {
+          "word": "2",
+          "start_ms": 320,
+          "end_ms": 450
+        },
+        {
+          "word": "5",
+          "start_ms": 450,
+          "end_ms": 580
+        },
+        {
+          "word": "日",
+          "start_ms": 580,
+          "end_ms": 760
+        },
+        {
+          "word": "，",
+          "start_ms": 760,
+          "end_ms": 760
+        },
+        {
+          "word": "他",
+          "start_ms": 940,
+          "end_ms": 1120
+        },
+        {
+          "word": "再",
+          "start_ms": 1120,
+          "end_ms": 1260
+        },
+        {
+          "word": "次",
+          "start_ms": 1260,
+          "end_ms": 1380
+        },
+        {
+          "word": "强",
+          "start_ms": 1380,
+          "end_ms": 1540
+        },
+        {
+          "word": "调",
+          "start_ms": 1540,
+          "end_ms": 1740
+        },
+        {
+          "word": "：",
+          "start_ms": 1740,
+          "end_ms": 1740
+        },
+        {
+          "word": "3",
+          "start_ms": 1740,
+          "end_ms": 1990
+        },
+        {
+          "word": "9",
+          "start_ms": 1990,
+          "end_ms": 2240
+        },
+        {
+          "word": "5",
+          "start_ms": 2240,
+          "end_ms": 2530
+        },
+        {
+          "word": "0",
+          "start_ms": 2530,
+          "end_ms": 2820
+        },
+        {
+          "word": "美",
+          "start_ms": 2820,
+          "end_ms": 2950
+        },
+        {
+          "word": "元",
+          "start_ms": 2950,
+          "end_ms": 3080
+        },
+        {
+          "word": "附",
+          "start_ms": 3080,
+          "end_ms": 3320
+        },
+        {
+          "word": "近",
+          "start_ms": 3320,
+          "end_ms": 3440
+        },
+        {
+          "word": "，",
+          "start_ms": 3440,
+          "end_ms": 3440
+        },
+        {
+          "word": "可",
+          "start_ms": 3440,
+          "end_ms": 3660
+        },
+        {
+          "word": "能",
+          "start_ms": 3660,
+          "end_ms": 3880
+        },
+        {
+          "word": "就",
+          "start_ms": 3880,
+          "end_ms": 4000
+        },
+        {
+          "word": "是",
+          "start_ms": 4000,
+          "end_ms": 4120
+        },
+        {
+          "word": "最",
+          "start_ms": 4120,
+          "end_ms": 4320
+        },
+        {
+          "word": "后",
+          "start_ms": 4320,
+          "end_ms": 4440
+        },
+        {
+          "word": "一",
+          "start_ms": 4440,
+          "end_ms": 4540
+        },
+        {
+          "word": "轮",
+          "start_ms": 4540,
+          "end_ms": 4660
+        },
+        {
+          "word": "洗",
+          "start_ms": 4660,
+          "end_ms": 4780
+        },
+        {
+          "word": "盘",
+          "start_ms": 4780,
+          "end_ms": 4980
+        },
+        {
+          "word": "。",
+          "start_ms": 4980,
+          "end_ms": 4980
+        }
+      ],
+      "text_sha256": "8a98ad6de32d67b990c08c0634019e0fabceb686d261365fd334cecc79b0541c",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "10月25日,他再次强调3950美元附近可能就是最后一轮洗盘"
+      }
+    },
+    "scene_31": {
+      "path": "audio/scene_31.mp3",
+      "duration_ms": 8172,
+      "word_timestamps": [
+        {
+          "word": "1",
+          "start_ms": 0,
+          "end_ms": 120
+        },
+        {
+          "word": "0",
+          "start_ms": 120,
+          "end_ms": 240
+        },
+        {
+          "word": "月",
+          "start_ms": 240,
+          "end_ms": 360
+        },
+        {
+          "word": "1",
+          "start_ms": 360,
+          "end_ms": 480
+        },
+        {
+          "word": "5",
+          "start_ms": 480,
+          "end_ms": 600
+        },
+        {
+          "word": "日",
+          "start_ms": 600,
+          "end_ms": 800
+        },
+        {
+          "word": "，",
+          "start_ms": 800,
+          "end_ms": 800
+        },
+        {
+          "word": "他",
+          "start_ms": 800,
+          "end_ms": 1220
+        },
+        {
+          "word": "提",
+          "start_ms": 1220,
+          "end_ms": 1360
+        },
+        {
+          "word": "前",
+          "start_ms": 1360,
+          "end_ms": 1560
+        },
+        {
+          "word": "把",
+          "start_ms": 1560,
+          "end_ms": 1700
+        },
+        {
+          "word": "回",
+          "start_ms": 1700,
+          "end_ms": 1840
+        },
+        {
+          "word": "调",
+          "start_ms": 1840,
+          "end_ms": 2000
+        },
+        {
+          "word": "目",
+          "start_ms": 2000,
+          "end_ms": 2140
+        },
+        {
+          "word": "标",
+          "start_ms": 2140,
+          "end_ms": 2340
+        },
+        {
+          "word": "看",
+          "start_ms": 2340,
+          "end_ms": 2510
+        },
+        {
+          "word": "到",
+          "start_ms": 2510,
+          "end_ms": 2680
+        },
+        {
+          "word": "3",
+          "start_ms": 2680,
+          "end_ms": 2830
+        },
+        {
+          "word": "9",
+          "start_ms": 2830,
+          "end_ms": 2980
+        },
+        {
+          "word": "5",
+          "start_ms": 2980,
+          "end_ms": 3260
+        },
+        {
+          "word": "0",
+          "start_ms": 3260,
+          "end_ms": 3540
+        },
+        {
+          "word": "美",
+          "start_ms": 3540,
+          "end_ms": 3690
+        },
+        {
+          "word": "元",
+          "start_ms": 3690,
+          "end_ms": 3840
+        },
+        {
+          "word": "；",
+          "start_ms": 3840,
+          "end_ms": 3840
+        },
+        {
+          "word": "8",
+          "start_ms": 3840,
+          "end_ms": 4560
+        },
+        {
+          "word": "天",
+          "start_ms": 4560,
+          "end_ms": 4720
+        },
+        {
+          "word": "之",
+          "start_ms": 4720,
+          "end_ms": 4860
+        },
+        {
+          "word": "后",
+          "start_ms": 4860,
+          "end_ms": 5000
+        },
+        {
+          "word": "，",
+          "start_ms": 5000,
+          "end_ms": 5000
+        },
+        {
+          "word": "黄",
+          "start_ms": 5000,
+          "end_ms": 5440
+        },
+        {
+          "word": "金",
+          "start_ms": 5440,
+          "end_ms": 5580
+        },
+        {
+          "word": "最",
+          "start_ms": 5580,
+          "end_ms": 5740
+        },
+        {
+          "word": "低",
+          "start_ms": 5740,
+          "end_ms": 5920
+        },
+        {
+          "word": "已",
+          "start_ms": 5920,
+          "end_ms": 6070
+        },
+        {
+          "word": "经",
+          "start_ms": 6070,
+          "end_ms": 6220
+        },
+        {
+          "word": "杀",
+          "start_ms": 6220,
+          "end_ms": 6420
+        },
+        {
+          "word": "到",
+          "start_ms": 6420,
+          "end_ms": 6580
+        },
+        {
+          "word": "3",
+          "start_ms": 6580,
+          "end_ms": 6690
+        },
+        {
+          "word": "9",
+          "start_ms": 6690,
+          "end_ms": 6800
+        },
+        {
+          "word": "7",
+          "start_ms": 6800,
+          "end_ms": 7140
+        },
+        {
+          "word": "5",
+          "start_ms": 7140,
+          "end_ms": 7480
+        },
+        {
+          "word": "美",
+          "start_ms": 7480,
+          "end_ms": 7630
+        },
+        {
+          "word": "元",
+          "start_ms": 7630,
+          "end_ms": 7780
+        },
+        {
+          "word": "。",
+          "start_ms": 7780,
+          "end_ms": 7780
+        }
+      ],
+      "text_sha256": "2d16e1f2782a853e3424f8c76c1da253da6a5d6b2eedcc90e2bb3a3c144aaf61",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "10月15日他提前把回调目标看到3950美元8天之后黄金最低已经杀到3975美元"
+      }
+    },
+    "scene_33": {
+      "path": "audio/scene_33.mp3",
+      "duration_ms": 8640,
+      "word_timestamps": [
+        {
+          "word": "接",
+          "start_ms": 0,
+          "end_ms": 260
+        },
+        {
+          "word": "下",
+          "start_ms": 260,
+          "end_ms": 380
+        },
+        {
+          "word": "来",
+          "start_ms": 380,
+          "end_ms": 480
+        },
+        {
+          "word": "的",
+          "start_ms": 480,
+          "end_ms": 560
+        },
+        {
+          "word": "关",
+          "start_ms": 560,
+          "end_ms": 680
+        },
+        {
+          "word": "键",
+          "start_ms": 680,
+          "end_ms": 840
+        },
+        {
+          "word": "窗",
+          "start_ms": 840,
+          "end_ms": 980
+        },
+        {
+          "word": "口",
+          "start_ms": 980,
+          "end_ms": 1200
+        },
+        {
+          "word": "，",
+          "start_ms": 1200,
+          "end_ms": 1200
+        },
+        {
+          "word": "只",
+          "start_ms": 1200,
+          "end_ms": 1560
+        },
+        {
+          "word": "剩",
+          "start_ms": 1560,
+          "end_ms": 1800
+        },
+        {
+          "word": "未",
+          "start_ms": 1800,
+          "end_ms": 2040
+        },
+        {
+          "word": "来",
+          "start_ms": 2040,
+          "end_ms": 2160
+        },
+        {
+          "word": "一",
+          "start_ms": 2160,
+          "end_ms": 2260
+        },
+        {
+          "word": "到",
+          "start_ms": 2260,
+          "end_ms": 2360
+        },
+        {
+          "word": "两",
+          "start_ms": 2360,
+          "end_ms": 2520
+        },
+        {
+          "word": "周",
+          "start_ms": 2520,
+          "end_ms": 2720
+        },
+        {
+          "word": "。",
+          "start_ms": 2720,
+          "end_ms": 2720
+        },
+        {
+          "word": "3",
+          "start_ms": 2720,
+          "end_ms": 2970
+        },
+        {
+          "word": "9",
+          "start_ms": 2970,
+          "end_ms": 3220
+        },
+        {
+          "word": "5",
+          "start_ms": 3220,
+          "end_ms": 3490
+        },
+        {
+          "word": "0",
+          "start_ms": 3490,
+          "end_ms": 3760
+        },
+        {
+          "word": "美",
+          "start_ms": 3760,
+          "end_ms": 3890
+        },
+        {
+          "word": "元",
+          "start_ms": 3890,
+          "end_ms": 4020
+        },
+        {
+          "word": "，",
+          "start_ms": 4020,
+          "end_ms": 4020
+        },
+        {
+          "word": "到",
+          "start_ms": 4020,
+          "end_ms": 4310
+        },
+        {
+          "word": "底",
+          "start_ms": 4310,
+          "end_ms": 4600
+        },
+        {
+          "word": "会",
+          "start_ms": 4600,
+          "end_ms": 4880
+        },
+        {
+          "word": "不",
+          "start_ms": 4880,
+          "end_ms": 4980
+        },
+        {
+          "word": "会",
+          "start_ms": 4980,
+          "end_ms": 5080
+        },
+        {
+          "word": "成",
+          "start_ms": 5080,
+          "end_ms": 5240
+        },
+        {
+          "word": "为",
+          "start_ms": 5240,
+          "end_ms": 5380
+        },
+        {
+          "word": "黄",
+          "start_ms": 5380,
+          "end_ms": 5580
+        },
+        {
+          "word": "金",
+          "start_ms": 5580,
+          "end_ms": 5740
+        },
+        {
+          "word": "的",
+          "start_ms": 5740,
+          "end_ms": 5880
+        },
+        {
+          "word": "“",
+          "start_ms": 5880,
+          "end_ms": 5880
+        },
+        {
+          "word": "最",
+          "start_ms": 5880,
+          "end_ms": 6100
+        },
+        {
+          "word": "后",
+          "start_ms": 6100,
+          "end_ms": 6260
+        },
+        {
+          "word": "一",
+          "start_ms": 6260,
+          "end_ms": 6400
+        },
+        {
+          "word": "跌",
+          "start_ms": 6400,
+          "end_ms": 6540
+        },
+        {
+          "word": "”",
+          "start_ms": 6540,
+          "end_ms": 6540
+        },
+        {
+          "word": "？",
+          "start_ms": 6540,
+          "end_ms": 6540
+        },
+        {
+          "word": "评",
+          "start_ms": 6540,
+          "end_ms": 7040
+        },
+        {
+          "word": "论",
+          "start_ms": 7040,
+          "end_ms": 7140
+        },
+        {
+          "word": "区",
+          "start_ms": 7140,
+          "end_ms": 7320
+        },
+        {
+          "word": "打",
+          "start_ms": 7320,
+          "end_ms": 7620
+        },
+        {
+          "word": "出",
+          "start_ms": 7620,
+          "end_ms": 7800
+        },
+        {
+          "word": "你",
+          "start_ms": 7800,
+          "end_ms": 7890
+        },
+        {
+          "word": "的",
+          "start_ms": 7890,
+          "end_ms": 7980
+        },
+        {
+          "word": "判",
+          "start_ms": 7980,
+          "end_ms": 8160
+        },
+        {
+          "word": "断",
+          "start_ms": 8160,
+          "end_ms": 8340
+        },
+        {
+          "word": "。",
+          "start_ms": 8340,
+          "end_ms": 8340
+        }
+      ],
+      "text_sha256": "b41f154cc32c54ac746cdcda4280dbf10a2f231c786d02fd960d7883aed173f6",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "接下来的关键窗口只剩未来一到两周3950美元到底会不会成为黄金的最后一跌评论区打出你的判断"
+      }
+    },
+    "scene_34": {
+      "path": "audio/scene_34.mp3",
+      "duration_ms": 2988,
+      "word_timestamps": [
+        {
+          "word": "我",
+          "start_ms": 0,
+          "end_ms": 130
+        },
+        {
+          "word": "们",
+          "start_ms": 130,
+          "end_ms": 260
+        },
+        {
+          "word": "不",
+          "start_ms": 260,
+          "end_ms": 420
+        },
+        {
+          "word": "当",
+          "start_ms": 420,
+          "end_ms": 540
+        },
+        {
+          "word": "韭",
+          "start_ms": 540,
+          "end_ms": 680
+        },
+        {
+          "word": "菜",
+          "start_ms": 680,
+          "end_ms": 860
+        },
+        {
+          "word": "，",
+          "start_ms": 860,
+          "end_ms": 860
+        },
+        {
+          "word": "只",
+          "start_ms": 860,
+          "end_ms": 1420
+        },
+        {
+          "word": "做",
+          "start_ms": 1420,
+          "end_ms": 1560
+        },
+        {
+          "word": "先",
+          "start_ms": 1560,
+          "end_ms": 1740
+        },
+        {
+          "word": "知",
+          "start_ms": 1740,
+          "end_ms": 1900
+        },
+        {
+          "word": "先",
+          "start_ms": 1900,
+          "end_ms": 2060
+        },
+        {
+          "word": "觉",
+          "start_ms": 2060,
+          "end_ms": 2200
+        },
+        {
+          "word": "的",
+          "start_ms": 2200,
+          "end_ms": 2320
+        },
+        {
+          "word": "那",
+          "start_ms": 2320,
+          "end_ms": 2420
+        },
+        {
+          "word": "拨",
+          "start_ms": 2420,
+          "end_ms": 2560
+        },
+        {
+          "word": "人",
+          "start_ms": 2560,
+          "end_ms": 2700
+        },
+        {
+          "word": "。",
+          "start_ms": 2700,
+          "end_ms": 2700
+        }
+      ],
+      "text_sha256": "47cfe6755b0354d13a3d59681ab123b49cd46d7fe8e016ab135cd85bd08278ae",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "我们不当韭菜只做先知先觉的那拨人"
+      }
+    },
+    "scene_35": {
+      "path": "audio/scene_35.mp3",
+      "duration_ms": 4860,
+      "word_timestamps": [
+        {
+          "word": "我",
+          "start_ms": 0,
+          "end_ms": 260
+        },
+        {
+          "word": "会",
+          "start_ms": 260,
+          "end_ms": 360
+        },
+        {
+          "word": "继",
+          "start_ms": 360,
+          "end_ms": 500
+        },
+        {
+          "word": "续",
+          "start_ms": 500,
+          "end_ms": 600
+        },
+        {
+          "word": "跟",
+          "start_ms": 600,
+          "end_ms": 740
+        },
+        {
+          "word": "踪",
+          "start_ms": 740,
+          "end_ms": 880
+        },
+        {
+          "word": "黄",
+          "start_ms": 880,
+          "end_ms": 1040
+        },
+        {
+          "word": "金",
+          "start_ms": 1040,
+          "end_ms": 1180
+        },
+        {
+          "word": "最",
+          "start_ms": 1180,
+          "end_ms": 1340
+        },
+        {
+          "word": "新",
+          "start_ms": 1340,
+          "end_ms": 1540
+        },
+        {
+          "word": "动",
+          "start_ms": 1540,
+          "end_ms": 1620
+        },
+        {
+          "word": "态",
+          "start_ms": 1620,
+          "end_ms": 1840
+        },
+        {
+          "word": "，",
+          "start_ms": 1840,
+          "end_ms": 1840
+        },
+        {
+          "word": "有",
+          "start_ms": 1840,
+          "end_ms": 2240
+        },
+        {
+          "word": "新",
+          "start_ms": 2240,
+          "end_ms": 2380
+        },
+        {
+          "word": "的",
+          "start_ms": 2380,
+          "end_ms": 2480
+        },
+        {
+          "word": "变",
+          "start_ms": 2480,
+          "end_ms": 2620
+        },
+        {
+          "word": "化",
+          "start_ms": 2620,
+          "end_ms": 2760
+        },
+        {
+          "word": "第",
+          "start_ms": 2760,
+          "end_ms": 2890
+        },
+        {
+          "word": "一",
+          "start_ms": 2890,
+          "end_ms": 3020
+        },
+        {
+          "word": "时",
+          "start_ms": 3020,
+          "end_ms": 3150
+        },
+        {
+          "word": "间",
+          "start_ms": 3150,
+          "end_ms": 3280
+        },
+        {
+          "word": "更",
+          "start_ms": 3280,
+          "end_ms": 3420
+        },
+        {
+          "word": "新",
+          "start_ms": 3420,
+          "end_ms": 3600
+        },
+        {
+          "word": "。",
+          "start_ms": 3600,
+          "end_ms": 3600
+        },
+        {
+          "word": "我",
+          "start_ms": 3600,
+          "end_ms": 3800
+        },
+        {
+          "word": "们",
+          "start_ms": 3800,
+          "end_ms": 4000
+        },
+        {
+          "word": "下",
+          "start_ms": 4000,
+          "end_ms": 4240
+        },
+        {
+          "word": "期",
+          "start_ms": 4240,
+          "end_ms": 4380
+        },
+        {
+          "word": "见",
+          "start_ms": 4380,
+          "end_ms": 4500
+        },
+        {
+          "word": "。",
+          "start_ms": 4500,
+          "end_ms": 4500
+        }
+      ],
+      "text_sha256": "9258a4f5858d7cfeb93153a044b9056ded830682612ac02e002e566cb467687d",
+      "profile": {
+        "provider": "minimax",
+        "model": "speech-2.8-turbo",
+        "voice_id": "financevideo_v1_20260215",
+        "speed": 1.13
+      },
+      "alignment": {
+        "method": "local Whisper audio anchors; unmatched local spans interpolated",
+        "match_ratio": 1.0,
+        "asr_text": "我会继续跟踪黄金最新动态有新的变化第一时间更新我们下期见"
+      }
+    }
+  },
+  "total_duration_ms": 189180
+}

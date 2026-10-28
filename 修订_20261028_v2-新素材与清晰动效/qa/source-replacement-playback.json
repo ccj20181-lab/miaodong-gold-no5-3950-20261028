@@ -1,0 +1,44 @@
+{
+  "started": "2026-10-27T23:36:45.935Z",
+  "completed": true,
+  "ranges": [
+    {
+      "id": "pexels_5743128",
+      "start": 0.1,
+      "duration": 3.8,
+      "started": 65766.79999995232,
+      "rate": 1,
+      "actualEnd": 4.024847,
+      "wallSeconds": 4.033899999856949
+    },
+    {
+      "id": "pexels_26773217",
+      "start": 0.1,
+      "duration": 12.133333333333333,
+      "started": 69833.69999980927,
+      "rate": 1,
+      "actualEnd": 12.317306,
+      "wallSeconds": 12.217200000047685
+    },
+    {
+      "id": "pexels_5364907",
+      "start": 0.1,
+      "duration": 10.666666666666666,
+      "started": 82098.69999980927,
+      "rate": 1,
+      "actualEnd": 10.845689,
+      "wallSeconds": 10.8745
+    },
+    {
+      "id": "pexels_7552421",
+      "start": 0.1,
+      "duration": 10.333333333333334,
+      "started": 93009.5,
+      "rate": 1,
+      "actualEnd": 10.619519,
+      "wallSeconds": 10.619199999809265
+    }
+  ],
+  "errors": [],
+  "ended": "2026-10-27T23:37:23.850Z"
+}

@@ -1,0 +1,392 @@
+{
+  "sources": [
+    {
+      "source_id": "pexels_1797020",
+      "provider_id": "pexels:1797020",
+      "path": "materials/pexels_1797020.mp4",
+      "url": "https://www.pexels.com/video/person-using-a-magnifying-glass-on-a-dollar-bill-1797020/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/1797020/1797020-uhd_2560_1440_24fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "A magnifying glass inspecting a US dollar bill, highlighting intricate details.",
+      "candidate_duration": 30,
+      "research_query": "federal reserve"
+    },
+    {
+      "source_id": "pexels_4393479",
+      "provider_id": "pexels:4393479",
+      "path": "materials/pexels_4393479.mp4",
+      "url": "https://www.pexels.com/video/close-up-shot-of-flying-dollar-bills-4393479/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/4393479/4393479-hd_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Close-up view of various US dollar bills overlapping on a surface.",
+      "candidate_duration": 22,
+      "research_query": "federal reserve"
+    },
+    {
+      "source_id": "pexels_10223447",
+      "provider_id": "pexels:10223447",
+      "path": "materials/pexels_10223447.mp4",
+      "url": "https://www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/10223447/10223447-uhd_2732_1440_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Detailed close-up of US dollar bills showing intricacies and value.",
+      "candidate_duration": 59,
+      "research_query": "federal reserve"
+    },
+    {
+      "source_id": "pexels_5466779",
+      "provider_id": "pexels:5466779",
+      "path": "materials/pexels_5466779.mp4",
+      "url": "https://www.pexels.com/video/a-person-counting-money-5466779/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/5466779/5466779-hd_1920_1080_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Hands counting US 100 dollar bills on a wooden surface.",
+      "candidate_duration": 15,
+      "research_query": "federal reserve"
+    },
+    {
+      "source_id": "pexels_5651767",
+      "provider_id": "pexels:5651767",
+      "path": "materials/pexels_5651767.mp4",
+      "url": "https://www.pexels.com/video/american-legal-tender-coins-and-currency-5651767/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/5651767/5651767-uhd_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Macro close-up of US currency, highlighting coins and dollar bills.",
+      "candidate_duration": 18,
+      "research_query": "federal reserve"
+    },
+    {
+      "source_id": "pexels_29188213",
+      "provider_id": "pexels:29188213",
+      "path": "materials/pexels_29188213.mp4",
+      "url": "https://www.pexels.com/video/historic-government-building-in-washington-dc-29188213/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/29188213/12603679_2560_1440_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Majestic view of a historic building in Washington DC with prominent pillars.",
+      "candidate_duration": 20,
+      "research_query": "federal reserve"
+    },
+    {
+      "source_id": "pexels_4987955",
+      "provider_id": "pexels:4987955",
+      "path": "materials/pexels_4987955.mp4",
+      "url": "https://www.pexels.com/video/panning-shot-of-the-united-states-mint-sign-4987955/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/4987955/4987955-hd_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "View of the United States Mint building and signage.",
+      "candidate_duration": 9,
+      "research_query": "federal reserve"
+    },
+    {
+      "source_id": "pexels_38698437",
+      "provider_id": "pexels:38698437",
+      "path": "materials/pexels_38698437.mp4",
+      "url": "https://www.pexels.com/video/dynamic-stock-market-charts-displayed-on-screens-38698437/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/38698437/16438790_2560_1440_50fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-stock-exchange.json",
+        "source_url": "https://www.pexels.com/search/videos/stock%20exchange/"
+      },
+      "description": "Real-time stock market charts with red and green candlesticks on screens.",
+      "candidate_duration": 27,
+      "research_query": "stock exchange"
+    },
+    {
+      "source_id": "pexels_38412249",
+      "provider_id": "pexels:38412249",
+      "path": "materials/pexels_38412249.mp4",
+      "url": "https://www.pexels.com/video/dynamic-financial-market-graphs-and-charts-analysis-38412249/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/38412249/16310938_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-stock-exchange.json",
+        "source_url": "https://www.pexels.com/search/videos/stock%20exchange/"
+      },
+      "description": "Visual analysis of dynamic stock market trends and graphs.",
+      "candidate_duration": 38,
+      "research_query": "stock exchange"
+    },
+    {
+      "source_id": "pexels_4319342",
+      "provider_id": "pexels:4319342",
+      "path": "materials/pexels_4319342.mp4",
+      "url": "https://www.pexels.com/video/finance-nyse-wall-street-new-york-city-4319342/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/4319342/4319342-hd_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-stock-exchange.json",
+        "source_url": "https://www.pexels.com/search/videos/stock%20exchange/"
+      },
+      "description": "Elegant facade of the New York Stock Exchange with classic columns.",
+      "candidate_duration": 10,
+      "research_query": "stock exchange"
+    },
+    {
+      "source_id": "pexels_39020626",
+      "provider_id": "pexels:39020626",
+      "path": "materials/pexels_39020626.mp4",
+      "url": "https://www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/39020626/16604278_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-stock-exchange.json",
+        "source_url": "https://www.pexels.com/search/videos/stock%20exchange/"
+      },
+      "description": "Monitor displaying live stock trading charts and data analysis.",
+      "candidate_duration": 22,
+      "research_query": "stock exchange"
+    },
+    {
+      "source_id": "pexels_38875223",
+      "provider_id": "pexels:38875223",
+      "path": "materials/pexels_38875223.mp4",
+      "url": "https://www.pexels.com/video/dynamic-financial-market-data-display-38875223/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/38875223/16527238_2560_1440_50fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-trader.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20trader/"
+      },
+      "description": "Engaging stock market interface showing fluctuating financial data.",
+      "candidate_duration": 27,
+      "research_query": "financial trader"
+    },
+    {
+      "source_id": "pexels_7579954",
+      "provider_id": "pexels:7579954",
+      "path": "materials/pexels_7579954.mp4",
+      "url": "https://www.pexels.com/video/man-looking-at-digital-graph-7579954/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7579954/7579954-uhd_2732_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-trader.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20trader/"
+      },
+      "description": "Focused male analyst reviews stock market graphs on screen.",
+      "candidate_duration": 20,
+      "research_query": "financial trader"
+    },
+    {
+      "source_id": "pexels_7580278",
+      "provider_id": "pexels:7580278",
+      "path": "materials/pexels_7580278.mp4",
+      "url": "https://www.pexels.com/video/man-touching-a-screen-7580278/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7580278/7580278-uhd_2732_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-trader.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20trader/"
+      },
+      "description": "Man analyzes financial data on a touchscreen in a modern office.",
+      "candidate_duration": 15,
+      "research_query": "financial trader"
+    },
+    {
+      "source_id": "pexels_30445098",
+      "provider_id": "pexels:30445098",
+      "path": "materials/pexels_30445098.mp4",
+      "url": "https://www.pexels.com/video/focused-trader-analyzing-stocks-on-dual-monitors-30445098/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/30445098/13047062_2560_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-trader.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20trader/"
+      },
+      "description": "Trader analyzing stock charts and graphs on dual monitors in a dark room.",
+      "candidate_duration": 10,
+      "research_query": "financial trader"
+    },
+    {
+      "source_id": "pexels_7579951",
+      "provider_id": "pexels:7579951",
+      "path": "materials/pexels_7579951.mp4",
+      "url": "https://www.pexels.com/video/man-monitoring-the-stocks-7579951/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/7579951/7579951-uhd_2732_1440_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-trader.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20trader/"
+      },
+      "description": "Businessman analyzing cryptocurrency trends on laptop and monitor.",
+      "candidate_duration": 17,
+      "research_query": "financial trader"
+    },
+    {
+      "source_id": "pexels_36418699",
+      "provider_id": "pexels:36418699",
+      "path": "materials/pexels_36418699.mp4",
+      "url": "https://www.pexels.com/video/stock-market-analysis-on-tablet-with-graphs-36418699/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/36418699/15442101_1920_1080_25fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-financial-trader.json",
+        "source_url": "https://www.pexels.com/search/videos/financial%20trader/"
+      },
+      "description": "Older man analyzes stock market downturn on tablet screen.",
+      "candidate_duration": 11,
+      "research_query": "financial trader"
+    },
+    {
+      "source_id": "pexels_37558975",
+      "provider_id": "pexels:37558975",
+      "path": "materials/pexels_37558975.mp4",
+      "url": "https://www.pexels.com/video/vibrant-new-york-city-street-scene-at-wall-street-37558975/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/37558975/15915252_2560_1440_24fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-new-york-stock-exchange.json",
+        "source_url": "https://www.pexels.com/search/videos/new%20york%20stock%20exchange/"
+      },
+      "description": "Busy Wall Street with people and food cart, NY Stock Exchange in background.",
+      "candidate_duration": 59,
+      "research_query": "new york stock exchange"
+    },
+    {
+      "source_id": "pexels_38711950",
+      "provider_id": "pexels:38711950",
+      "path": "materials/pexels_38711950.mp4",
+      "url": "https://www.pexels.com/video/dynamic-stock-market-heatmap-display-38711950/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/38711950/16446150_2560_1440_50fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-new-york-stock-exchange.json",
+        "source_url": "https://www.pexels.com/search/videos/new%20york%20stock%20exchange/"
+      },
+      "description": "Stock market heatmap displaying real-time trading data on screen.",
+      "candidate_duration": 21,
+      "research_query": "new york stock exchange"
+    },
+    {
+      "source_id": "pexels_4145888",
+      "provider_id": "pexels:4145888",
+      "path": "materials/pexels_4145888.mp4",
+      "url": "https://www.pexels.com/video/usa-money-american-bills-4145888/",
+      "media_type": "video",
+      "source_label": "Pexels｜资料画面",
+      "download_url": "https://videos.pexels.com/video-files/4145888/4145888-hd_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-treasury-bonds.json",
+        "source_url": "https://www.pexels.com/search/videos/treasury%20bonds/"
+      },
+      "description": "Detailed close-up of antique US dollar bills and coins showcasing texture and age.",
+      "candidate_duration": 32,
+      "research_query": "treasury bonds"
+    },
+    {
+      "source_id": "mixkit_2861",
+      "provider_id": "mixkit:2861",
+      "path": "materials/mixkit_2861.mp4",
+      "url": "https://mixkit.co/free-stock-video/producing-gold-bullion-2861/",
+      "media_type": "video",
+      "source_label": "Mixkit｜实物黄金资料",
+      "download_url": "https://assets.mixkit.co/videos/2861/2861-720.mp4",
+      "license_evidence": {
+        "path": "production/mixkit-2861.html",
+        "source_url": "https://mixkit.co/free-stock-video/producing-gold-bullion-2861/"
+      },
+      "reuse_exception": {
+        "reason": "本期重新检索Pexels gold bullion/gold coins和Mixkit gold后，候选主要是加密币、CGI或无关装饰。真实金条熔铸与金库镜头直接对应实物黄金，限这两条例外复用。",
+        "searched_alternatives": [
+          {
+            "url": "https://www.pexels.com/video/digital-animation-of-gold-bars-8733007/",
+            "why": "CGI，非真实实物金条"
+          },
+          {
+            "url": "https://www.pexels.com/video/a-handful-of-gold-and-silver-coins-8369983/",
+            "why": "加密代币，不可冒充实物黄金"
+          }
+        ]
+      }
+    },
+    {
+      "source_id": "mixkit_2862",
+      "provider_id": "mixkit:2862",
+      "path": "materials/mixkit_2862.mp4",
+      "url": "https://mixkit.co/free-stock-video/gold-ingots-on-a-shelf-2862/",
+      "media_type": "video",
+      "source_label": "Mixkit｜实物黄金资料",
+      "download_url": "https://assets.mixkit.co/videos/2862/2862-720.mp4",
+      "license_evidence": {
+        "path": "production/mixkit-2862.html",
+        "source_url": "https://mixkit.co/free-stock-video/gold-ingots-on-a-shelf-2862/"
+      },
+      "reuse_exception": {
+        "reason": "本期重新检索Pexels gold bullion/gold coins和Mixkit gold后，候选主要是加密币、CGI或无关装饰。真实金条熔铸与金库镜头直接对应实物黄金，限这两条例外复用。",
+        "searched_alternatives": [
+          {
+            "url": "https://www.pexels.com/video/digital-animation-of-gold-bars-8733007/",
+            "why": "CGI，非真实实物金条"
+          },
+          {
+            "url": "https://www.pexels.com/video/a-handful-of-gold-and-silver-coins-8369983/",
+            "why": "加密代币，不可冒充实物黄金"
+          }
+        ]
+      }
+    },
+    {
+      "source_id": "pexels_27616566",
+      "provider_id": "pexels:27616566",
+      "path": "materials/pexels_27616566.mp4",
+      "url": "https://www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566/",
+      "media_type": "video",
+      "source_label": "Pexels｜金融报道资料",
+      "download_url": "https://videos.pexels.com/video-files/27616566/12186398_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Close-up of dollar bills on open newspaper pages, highlighting financial themes.",
+      "candidate_duration": 10,
+      "research_query": "federal reserve"
+    }
+  ]
+}

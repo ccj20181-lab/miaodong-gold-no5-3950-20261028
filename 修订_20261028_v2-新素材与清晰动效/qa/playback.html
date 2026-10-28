@@ -1,0 +1,9 @@
+<!doctype html><meta charset="utf-8"><style>body{background:#111;color:white;font:20px system-ui}video{height:88vh;max-width:95vw}</style>
+<button id="start">开始完整播放</button><video id="video" controls playsinline></video><script>
+const expected={"video_sha256": "4fdd866a76fdb43499ad40963648e9cae3e35bc41fcf9f150efdd968ede3154b", "duration": 189.733333, "file": "../黄金观察NO.5-新素材与清晰动效修订版.mp4"},v=document.querySelector('video');v.src=expected.file;
+window.playbackReport={video_sha256:expected.video_sha256,rate:1,ended:false,finished:false,started_at:null,elapsed_seconds:0,seeks:0,rate_changes:0,totalFrames:0,droppedFrames:0,corruptedFrames:0,played_seconds:0};
+let begun=null;document.querySelector('#start').onclick=()=>v.play();
+v.onplay=()=>{if(begun===null){begun=performance.now();playbackReport.started_at=Date.now()}};
+v.onseeking=()=>{if(begun!==null)playbackReport.seeks++};v.onratechange=()=>{playbackReport.rate_changes++;playbackReport.rate=v.playbackRate};
+v.onended=()=>{const q=v.getVideoPlaybackQuality();Object.assign(playbackReport,{ended:v.ended,finished:true,elapsed_seconds:(performance.now()-begun)/1000,time:v.currentTime,totalFrames:q.totalVideoFrames,droppedFrames:q.droppedVideoFrames,corruptedFrames:q.corruptedVideoFrames});let t=0;for(let i=0;i<v.played.length;i++)t+=v.played.end(i)-v.played.start(i);playbackReport.played_seconds=t;};
+</script>

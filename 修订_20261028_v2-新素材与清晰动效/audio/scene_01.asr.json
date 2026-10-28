@@ -1,0 +1,412 @@
+{
+  "text": "黄金刚刚跌破4000美元多次准确预判黄金走势的分析师托尔森又发话了3950美元附近可能就是这轮下跌的最后一席",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.36,
+      "text": "黄金刚刚跌破4000美元",
+      "tokens": [
+        50365,
+        6173,
+        226,
+        19117,
+        49160,
+        49160,
+        6563,
+        234,
+        39560,
+        19,
+        1360,
+        39433,
+        50436
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05249486171023946,
+      "compression_ratio": 1.020979020979021,
+      "no_speech_prob": 7.215571456303804e-12,
+      "words": [
+        {
+          "word": "黄",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.99609375
+        },
+        {
+          "word": "金",
+          "start": 0.2,
+          "end": 0.32,
+          "probability": 1.0
+        },
+        {
+          "word": "刚",
+          "start": 0.32,
+          "end": 0.48,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "刚",
+          "start": 0.48,
+          "end": 0.6,
+          "probability": 1.0
+        },
+        {
+          "word": "跌",
+          "start": 0.6,
+          "end": 0.74,
+          "probability": 1.0
+        },
+        {
+          "word": "破",
+          "start": 0.74,
+          "end": 0.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "4",
+          "start": 0.88,
+          "end": 1.06,
+          "probability": 0.974609375
+        },
+        {
+          "word": "000",
+          "start": 1.06,
+          "end": 1.16,
+          "probability": 0.94580078125
+        },
+        {
+          "word": "美元",
+          "start": 1.16,
+          "end": 1.36,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.36,
+      "end": 4.92,
+      "text": "多次准确预判黄金走势的分析师托尔森又发话了",
+      "tokens": [
+        50436,
+        6392,
+        9487,
+        6336,
+        228,
+        38114,
+        106,
+        12501,
+        226,
+        2437,
+        97,
+        6173,
+        226,
+        19117,
+        9575,
+        5087,
+        123,
+        1546,
+        6627,
+        7360,
+        238,
+        29186,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        17047,
+        28926,
+        21596,
+        2289,
+        50611
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05249486171023946,
+      "compression_ratio": 1.020979020979021,
+      "no_speech_prob": 7.215571456303804e-12,
+      "words": [
+        {
+          "word": "多",
+          "start": 1.36,
+          "end": 1.92,
+          "probability": 0.98291015625
+        },
+        {
+          "word": "次",
+          "start": 1.92,
+          "end": 2.1,
+          "probability": 1.0
+        },
+        {
+          "word": "准",
+          "start": 2.1,
+          "end": 2.26,
+          "probability": 1.0
+        },
+        {
+          "word": "确",
+          "start": 2.26,
+          "end": 2.44,
+          "probability": 1.0
+        },
+        {
+          "word": "预",
+          "start": 2.44,
+          "end": 2.58,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "判",
+          "start": 2.58,
+          "end": 2.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "黄",
+          "start": 2.7,
+          "end": 2.88,
+          "probability": 1.0
+        },
+        {
+          "word": "金",
+          "start": 2.88,
+          "end": 3.02,
+          "probability": 1.0
+        },
+        {
+          "word": "走",
+          "start": 3.02,
+          "end": 3.12,
+          "probability": 1.0
+        },
+        {
+          "word": "势",
+          "start": 3.12,
+          "end": 3.3,
+          "probability": 0.9814453125
+        },
+        {
+          "word": "的",
+          "start": 3.3,
+          "end": 3.38,
+          "probability": 1.0
+        },
+        {
+          "word": "分",
+          "start": 3.38,
+          "end": 3.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "析",
+          "start": 3.52,
+          "end": 3.64,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "师",
+          "start": 3.64,
+          "end": 3.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "托",
+          "start": 3.76,
+          "end": 3.9,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "尔",
+          "start": 3.9,
+          "end": 4.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "森",
+          "start": 4.02,
+          "end": 4.18,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "又",
+          "start": 4.18,
+          "end": 4.42,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "发",
+          "start": 4.42,
+          "end": 4.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "话",
+          "start": 4.54,
+          "end": 4.72,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "了",
+          "start": 4.72,
+          "end": 4.92,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.92,
+      "end": 6.52,
+      "text": "3950美元附近",
+      "tokens": [
+        50611,
+        12493,
+        2803,
+        39433,
+        8842,
+        226,
+        17463,
+        50692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05249486171023946,
+      "compression_ratio": 1.020979020979021,
+      "no_speech_prob": 7.215571456303804e-12,
+      "words": [
+        {
+          "word": "39",
+          "start": 4.92,
+          "end": 5.4,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "50",
+          "start": 5.4,
+          "end": 5.92,
+          "probability": 0.998046875
+        },
+        {
+          "word": "美元",
+          "start": 5.92,
+          "end": 6.2,
+          "probability": 1.0
+        },
+        {
+          "word": "附",
+          "start": 6.2,
+          "end": 6.42,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "近",
+          "start": 6.42,
+          "end": 6.52,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.52,
+      "end": 8.44,
+      "text": "可能就是这轮下跌的最后一席",
+      "tokens": [
+        50692,
+        16657,
+        5620,
+        5562,
+        17819,
+        106,
+        4438,
+        6563,
+        234,
+        1546,
+        8661,
+        13547,
+        2257,
+        4845,
+        255,
+        50787
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05249486171023946,
+      "compression_ratio": 1.020979020979021,
+      "no_speech_prob": 7.215571456303804e-12,
+      "words": [
+        {
+          "word": "可能",
+          "start": 6.52,
+          "end": 6.98,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "就是",
+          "start": 6.98,
+          "end": 7.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "这",
+          "start": 7.18,
+          "end": 7.34,
+          "probability": 1.0
+        },
+        {
+          "word": "轮",
+          "start": 7.34,
+          "end": 7.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "下",
+          "start": 7.48,
+          "end": 7.62,
+          "probability": 1.0
+        },
+        {
+          "word": "跌",
+          "start": 7.62,
+          "end": 7.78,
+          "probability": 1.0
+        },
+        {
+          "word": "的",
+          "start": 7.78,
+          "end": 7.86,
+          "probability": 1.0
+        },
+        {
+          "word": "最",
+          "start": 7.86,
+          "end": 8.04,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "后",
+          "start": 8.04,
+          "end": 8.18,
+          "probability": 1.0
+        },
+        {
+          "word": "一",
+          "start": 8.18,
+          "end": 8.3,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "席",
+          "start": 8.3,
+          "end": 8.44,
+          "probability": 0.95654296875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

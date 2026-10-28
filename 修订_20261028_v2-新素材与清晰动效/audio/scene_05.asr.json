@@ -1,0 +1,288 @@
+{
+  "text": "它的黄金周期指标GCI已经降到25正式进入下四氛围也就是它定义的深度超卖区",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.86,
+      "text": "它的黄金周期指标GCI已经降到25",
+      "tokens": [
+        50365,
+        45224,
+        6173,
+        226,
+        19117,
+        37390,
+        16786,
+        25922,
+        162,
+        3921,
+        38,
+        25240,
+        49161,
+        47421,
+        4511,
+        6074,
+        50509
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1239291585010031,
+      "compression_ratio": 0.9017857142857143,
+      "no_speech_prob": 7.501896673312025e-12,
+      "words": [
+        {
+          "word": "它的",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.83056640625
+        },
+        {
+          "word": "黄",
+          "start": 0.26,
+          "end": 0.46,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "金",
+          "start": 0.46,
+          "end": 0.6,
+          "probability": 1.0
+        },
+        {
+          "word": "周",
+          "start": 0.6,
+          "end": 0.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "期",
+          "start": 0.72,
+          "end": 0.88,
+          "probability": 1.0
+        },
+        {
+          "word": "指",
+          "start": 0.88,
+          "end": 1.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "标",
+          "start": 1.04,
+          "end": 1.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "G",
+          "start": 1.24,
+          "end": 1.54,
+          "probability": 0.9580078125
+        },
+        {
+          "word": "CI",
+          "start": 1.54,
+          "end": 1.82,
+          "probability": 0.98876953125
+        },
+        {
+          "word": "已经",
+          "start": 1.82,
+          "end": 2.28,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "降",
+          "start": 2.28,
+          "end": 2.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "到",
+          "start": 2.46,
+          "end": 2.56,
+          "probability": 0.9921875
+        },
+        {
+          "word": "25",
+          "start": 2.56,
+          "end": 2.86,
+          "probability": 0.99609375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.86,
+      "end": 4.34,
+      "text": "正式进入下四氛围",
+      "tokens": [
+        50509,
+        15789,
+        27584,
+        36700,
+        14028,
+        4438,
+        19425,
+        6610,
+        249,
+        3919,
+        112,
+        50583
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1239291585010031,
+      "compression_ratio": 0.9017857142857143,
+      "no_speech_prob": 7.501896673312025e-12,
+      "words": [
+        {
+          "word": "正",
+          "start": 2.86,
+          "end": 3.28,
+          "probability": 0.97998046875
+        },
+        {
+          "word": "式",
+          "start": 3.28,
+          "end": 3.44,
+          "probability": 0.990234375
+        },
+        {
+          "word": "进",
+          "start": 3.44,
+          "end": 3.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "入",
+          "start": 3.58,
+          "end": 3.74,
+          "probability": 1.0
+        },
+        {
+          "word": "下",
+          "start": 3.74,
+          "end": 3.9,
+          "probability": 0.826171875
+        },
+        {
+          "word": "四",
+          "start": 3.9,
+          "end": 4.08,
+          "probability": 0.267578125
+        },
+        {
+          "word": "氛",
+          "start": 4.08,
+          "end": 4.2,
+          "probability": 0.8916015625
+        },
+        {
+          "word": "围",
+          "start": 4.2,
+          "end": 4.34,
+          "probability": 0.9873046875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.34,
+      "end": 6.44,
+      "text": "也就是它定义的深度超卖区",
+      "tokens": [
+        50583,
+        6404,
+        5620,
+        11284,
+        12088,
+        2930,
+        231,
+        1546,
+        24043,
+        13127,
+        19869,
+        5322,
+        244,
+        9937,
+        118,
+        50688
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1239291585010031,
+      "compression_ratio": 0.9017857142857143,
+      "no_speech_prob": 7.501896673312025e-12,
+      "words": [
+        {
+          "word": "也",
+          "start": 4.34,
+          "end": 4.74,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "就是",
+          "start": 4.74,
+          "end": 4.92,
+          "probability": 1.0
+        },
+        {
+          "word": "它",
+          "start": 4.92,
+          "end": 5.1,
+          "probability": 0.9599609375
+        },
+        {
+          "word": "定",
+          "start": 5.1,
+          "end": 5.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "义",
+          "start": 5.24,
+          "end": 5.38,
+          "probability": 0.99609375
+        },
+        {
+          "word": "的",
+          "start": 5.38,
+          "end": 5.5,
+          "probability": 1.0
+        },
+        {
+          "word": "深",
+          "start": 5.5,
+          "end": 5.8,
+          "probability": 0.998046875
+        },
+        {
+          "word": "度",
+          "start": 5.8,
+          "end": 5.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "超",
+          "start": 5.96,
+          "end": 6.1,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "卖",
+          "start": 6.1,
+          "end": 6.28,
+          "probability": 0.96923828125
+        },
+        {
+          "word": "区",
+          "start": 6.28,
+          "end": 6.44,
+          "probability": 0.994140625
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

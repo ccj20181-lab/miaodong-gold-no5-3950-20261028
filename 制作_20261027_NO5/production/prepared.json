@@ -1,0 +1,13 @@
+{
+  "revision": "3f09df99ab4c9813d605641e15e1450d4bc2013c77c1937935728bfecbdd3e3f",
+  "entry": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/renderer/src/Episode5.tsx",
+  "narration_sha256": "ad2b6fecd0e93ecf6f6c2b8d18fc54d47ddc94333d4f73883fb67f6ed56112d2",
+  "tts_profile": {
+    "provider": "minimax",
+    "model": "speech-2.8-turbo",
+    "voice_id": "financevideo_v1_20260215",
+    "speed": 1.13
+  },
+  "prepared_seconds": 27.155894792,
+  "status": "prepared_review_required"
+}

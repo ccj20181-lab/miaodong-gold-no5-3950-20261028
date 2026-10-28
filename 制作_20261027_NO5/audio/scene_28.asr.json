@@ -1,0 +1,231 @@
+{
+  "text": "所以接下来黄金能不能完成这次最后一席就看本周美联储决议",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.78,
+      "text": "所以接下来",
+      "tokens": [
+        50365,
+        7239,
+        14468,
+        4438,
+        6912,
+        50407
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07516076113726641,
+      "compression_ratio": 0.8804347826086957,
+      "no_speech_prob": 5.4892752669732925e-12,
+      "words": [
+        {
+          "word": "所以",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "接",
+          "start": 0.36,
+          "end": 0.5,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "下",
+          "start": 0.5,
+          "end": 0.62,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "来",
+          "start": 0.62,
+          "end": 0.78,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.78,
+      "end": 2.7,
+      "text": "黄金能不能完成这次最后一席",
+      "tokens": [
+        50407,
+        6173,
+        226,
+        19117,
+        8225,
+        28590,
+        41509,
+        5562,
+        9487,
+        8661,
+        13547,
+        2257,
+        4845,
+        255,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07516076113726641,
+      "compression_ratio": 0.8804347826086957,
+      "no_speech_prob": 5.4892752669732925e-12,
+      "words": [
+        {
+          "word": "黄",
+          "start": 0.78,
+          "end": 1.18,
+          "probability": 0.9580078125
+        },
+        {
+          "word": "金",
+          "start": 1.18,
+          "end": 1.3,
+          "probability": 0.998046875
+        },
+        {
+          "word": "能",
+          "start": 1.3,
+          "end": 1.42,
+          "probability": 1.0
+        },
+        {
+          "word": "不能",
+          "start": 1.42,
+          "end": 1.62,
+          "probability": 1.0
+        },
+        {
+          "word": "完成",
+          "start": 1.62,
+          "end": 1.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "这",
+          "start": 1.88,
+          "end": 2.06,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "次",
+          "start": 2.06,
+          "end": 2.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "最",
+          "start": 2.16,
+          "end": 2.3,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "后",
+          "start": 2.3,
+          "end": 2.44,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "一",
+          "start": 2.44,
+          "end": 2.54,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "席",
+          "start": 2.54,
+          "end": 2.7,
+          "probability": 0.90283203125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.7,
+      "end": 4.08,
+      "text": "就看本周美联储决议",
+      "tokens": [
+        50500,
+        3111,
+        4200,
+        8802,
+        37390,
+        9175,
+        8171,
+        242,
+        11518,
+        101,
+        5676,
+        111,
+        7422,
+        106,
+        50569
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07516076113726641,
+      "compression_ratio": 0.8804347826086957,
+      "no_speech_prob": 5.4892752669732925e-12,
+      "words": [
+        {
+          "word": "就",
+          "start": 2.7,
+          "end": 3.0,
+          "probability": 0.97314453125
+        },
+        {
+          "word": "看",
+          "start": 3.0,
+          "end": 3.12,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "本",
+          "start": 3.12,
+          "end": 3.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "周",
+          "start": 3.28,
+          "end": 3.42,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "美",
+          "start": 3.42,
+          "end": 3.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "联",
+          "start": 3.54,
+          "end": 3.68,
+          "probability": 1.0
+        },
+        {
+          "word": "储",
+          "start": 3.68,
+          "end": 3.8,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "决",
+          "start": 3.8,
+          "end": 3.94,
+          "probability": 0.998046875
+        },
+        {
+          "word": "议",
+          "start": 3.94,
+          "end": 4.08,
+          "probability": 0.9912109375
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

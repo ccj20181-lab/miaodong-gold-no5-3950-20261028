@@ -1,0 +1,204 @@
+{
+  "candidates": {
+    "sources": [
+      {
+        "source_id": "pexels_36353836",
+        "provider_id": "pexels:36353836",
+        "path": "materials/pexels_36353836.mp4",
+        "url": "https://www.pexels.com/video/elegant-display-of-gold-jewelry-in-store-36353836/",
+        "media_type": "video",
+        "source_label": "Pexels｜黄金珠宝资料",
+        "download_url": "https://videos.pexels.com/video-files/36353836/15419555_2560_1440_50fps.mp4",
+        "license_evidence": {
+          "path": "production/pexels-gold-bullion.json",
+          "source_url": "https://www.pexels.com/search/videos/gold%20bullion/"
+        },
+        "description": "Elegant gold jewelry on display in a well-lit store showcasing luxurious pieces.",
+        "candidate_duration": 6,
+        "research_query": "gold bullion"
+      }
+    ]
+  },
+  "status": "passed",
+  "license_audit": {
+    "status": "passed",
+    "errors": [],
+    "sources": [
+      {
+        "source_id": "pexels_36353836",
+        "provider": "pexels",
+        "asset_id": "36353836",
+        "evidence_path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/production/pexels-gold-bullion.json",
+        "evidence_sha256": "b2013a4ce76f0bd54ad45f23615e61f943415fbf4d54e5391f32695964333ef1",
+        "evidence_source_url": "https://www.pexels.com/search/videos/gold%20bullion/",
+        "asset_url": "https://www.pexels.com/video/elegant-display-of-gold-jewelry-in-store-36353836/",
+        "license": "Pexels License",
+        "download_url": "https://videos.pexels.com/video-files/36353836/15419555_2560_1440_50fps.mp4",
+        "basis": "official asset attributes.id/license/video.src",
+        "status": "passed"
+      }
+    ]
+  },
+  "downloads": [
+    {
+      "source_id": "pexels_36353836",
+      "path": "materials/pexels_36353836.mp4",
+      "status": "downloaded",
+      "download_seconds": 9.9812,
+      "probe_seconds": 0.0875,
+      "sha256": "9b48e36cd02c0aacb3f1340fc28c94c76114349680b64aa492aee6d20ab59926",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "width": 2560,
+            "height": 1440,
+            "coded_width": 2560,
+            "coded_height": 1440,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 51,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "refs": 1,
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "50/1",
+            "avg_frame_rate": "50/1",
+            "time_base": "1/12800",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 85760,
+            "duration": "6.700000",
+            "bit_rate": "17165195",
+            "bits_per_raw_sample": "8",
+            "extradata_size": 50,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "Lavc60.31.102 libx264",
+              "timecode": "22:51:50:21"
+            }
+          },
+          {
+            "index": 1,
+            "codec_type": "data",
+            "codec_tag_string": "tmcd",
+            "codec_tag": "0x64636d74",
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "12800/256",
+            "time_base": "1/12800",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 85760,
+            "duration": "6.700000",
+            "bit_rate": "6",
+            "extradata_size": 20,
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "handler_name": "VideoHandler",
+              "timecode": "22:51:50:21"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/.pexels_36353836.mp4ndf33jz1.part",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "6.700000",
+          "size": "14380146",
+          "bit_rate": "17170323",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "iso5",
+            "minor_version": "512",
+            "compatible_brands": "iso5iso6mp41",
+            "encoder": "Lavf60.16.100"
+          }
+        }
+      },
+      "elapsed_seconds": 10.0761
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "pexels_36353836",
+      "provider_id": "pexels:36353836",
+      "path": "materials/pexels_36353836.mp4",
+      "url": "https://www.pexels.com/video/elegant-display-of-gold-jewelry-in-store-36353836/",
+      "media_type": "video",
+      "source_label": "Pexels｜黄金珠宝资料",
+      "download_url": "https://videos.pexels.com/video-files/36353836/15419555_2560_1440_50fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-gold-bullion.json",
+        "source_url": "https://www.pexels.com/search/videos/gold%20bullion/"
+      },
+      "description": "Elegant gold jewelry on display in a well-lit store showcasing luxurious pieces.",
+      "candidate_duration": 6,
+      "research_query": "gold bullion"
+    }
+  ],
+  "timings": {
+    "license_seconds": 0.0023,
+    "elapsed_seconds": 10.0793
+  }
+}

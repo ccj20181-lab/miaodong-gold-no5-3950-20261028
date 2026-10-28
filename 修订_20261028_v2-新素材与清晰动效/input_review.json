@@ -1,0 +1,17 @@
+{
+  "narration_sha256": "ad2b6fecd0e93ecf6f6c2b8d18fc54d47ddc94333d4f73883fb67f6ed56112d2",
+  "tts_profile": {
+    "provider": "minimax",
+    "model": "speech-2.8-turbo",
+    "voice_id": "financevideo_v1_20260215",
+    "speed": 1.13
+  },
+  "status": "ready",
+  "claim_sources": [
+    "https://goldprice.substack.com/p/weekend-gold-update",
+    "https://goldprice.substack.com/p/gold-price-forecast-the-final-washout-416",
+    "https://www.gold.org/goldhub/gold-focus/2026/10/weekly-markets-monitor-chill-and-boom"
+  ],
+  "notes": "35幕与用户指定原稿逐字一致；MiniMax原音色financevideo_v1_20260215/1.13。10月25日原文核验GCI25、3950最终洗盘、3500仅严重股灾情景、55/50白银与5%收益率。10月14日18:31UTC报告即北京时间10月15日02:31，保留原稿10月15日。WGC10月26日原文核验70%至不足10%。历史行情沿用10月23日收盘及低点的已留存实际行情数据，3975与3950尚差25，不将预测冒充兑现。",
+  "scope": "author-reported key-claim review; not automated factual approval"
+}

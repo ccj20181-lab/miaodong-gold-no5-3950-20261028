@@ -1,0 +1,15 @@
+{
+  "video_sha256": "4fdd866a76fdb43499ad40963648e9cae3e35bc41fcf9f150efdd968ede3154b",
+  "rate": 1,
+  "ended": true,
+  "finished": true,
+  "started_at": 1793145385961,
+  "elapsed_seconds": 189.82070000004768,
+  "seeks": 0,
+  "rate_changes": 0,
+  "totalFrames": 5696,
+  "droppedFrames": 0,
+  "corruptedFrames": 0,
+  "played_seconds": 189.781333,
+  "time": 189.781333
+}

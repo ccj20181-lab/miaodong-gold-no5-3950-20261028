@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "source_id": "pexels_36353836",
+      "provider_id": "pexels:36353836",
+      "path": "materials/pexels_36353836.mp4",
+      "url": "https://www.pexels.com/video/elegant-display-of-gold-jewelry-in-store-36353836/",
+      "media_type": "video",
+      "source_label": "Pexels｜黄金珠宝资料",
+      "download_url": "https://videos.pexels.com/video-files/36353836/15419555_2560_1440_50fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-gold-bullion.json",
+        "source_url": "https://www.pexels.com/search/videos/gold%20bullion/"
+      },
+      "description": "Elegant gold jewelry on display in a well-lit store showcasing luxurious pieces.",
+      "candidate_duration": 6,
+      "research_query": "gold bullion"
+    }
+  ]
+}

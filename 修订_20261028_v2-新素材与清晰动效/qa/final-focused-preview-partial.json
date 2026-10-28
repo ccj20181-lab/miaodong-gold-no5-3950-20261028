@@ -1,0 +1,32 @@
+{
+  "started": "2026-10-27T23:42:50.099Z",
+  "completed": false,
+  "ranges": [
+    {
+      "id": "pexels_6263486",
+      "start": 0.1,
+      "duration": 11.7,
+      "started": 41658.5,
+      "rate": 1,
+      "actualEnd": 12.051653,
+      "wallSeconds": 11.9515
+    },
+    {
+      "id": "scene_03-3.mp4",
+      "start": 0,
+      "duration": 15.878667,
+      "started": 53633.10000014305,
+      "rate": 1,
+      "actualEnd": 15.888675,
+      "wallSeconds": 15.930599999904633
+    },
+    {
+      "id": "scene_08-1.mp4",
+      "start": 0,
+      "duration": 4.550667000000001,
+      "started": 69580.5,
+      "rate": 1
+    }
+  ],
+  "errors": []
+}

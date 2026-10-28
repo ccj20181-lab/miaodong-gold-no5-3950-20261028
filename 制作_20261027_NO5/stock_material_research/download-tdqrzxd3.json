@@ -1,0 +1,206 @@
+{
+  "candidates": {
+    "sources": [
+      {
+        "source_id": "pexels_27616566",
+        "provider_id": "pexels:27616566",
+        "path": "materials/pexels_27616566.mp4",
+        "url": "https://www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566/",
+        "media_type": "video",
+        "source_label": "Pexels｜金融报道资料",
+        "download_url": "https://videos.pexels.com/video-files/27616566/12186398_1920_1080_30fps.mp4",
+        "license_evidence": {
+          "path": "production/pexels-federal-reserve.json",
+          "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+        },
+        "description": "Close-up of dollar bills on open newspaper pages, highlighting financial themes.",
+        "candidate_duration": 10,
+        "research_query": "federal reserve"
+      }
+    ]
+  },
+  "status": "passed",
+  "license_audit": {
+    "status": "passed",
+    "errors": [],
+    "sources": [
+      {
+        "source_id": "pexels_27616566",
+        "provider": "pexels",
+        "asset_id": "27616566",
+        "evidence_path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/production/pexels-federal-reserve.json",
+        "evidence_sha256": "430dfde0ca0e2a7b4e959b31239b24ad323b6d9c2d7f05538b02398addaf166e",
+        "evidence_source_url": "https://www.pexels.com/search/videos/federal%20reserve/",
+        "asset_url": "https://www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566/",
+        "license": "Pexels License",
+        "download_url": "https://videos.pexels.com/video-files/27616566/12186398_1920_1080_30fps.mp4",
+        "basis": "official asset attributes.id/license/video.src",
+        "status": "passed"
+      }
+    ]
+  },
+  "downloads": [
+    {
+      "source_id": "pexels_27616566",
+      "path": "materials/pexels_27616566.mp4",
+      "status": "downloaded",
+      "download_seconds": 10.6139,
+      "probe_seconds": 0.071,
+      "sha256": "b2b4a09ff3046f9d1014450a5ee8e6b1339f7136b32c16eaacdea99cae22c4b3",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "color_range": "tv",
+            "color_space": "bt2020nc",
+            "color_transfer": "arib-std-b67",
+            "color_primaries": "bt2020",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "refs": 1,
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "12403125/413437",
+            "avg_frame_rate": "12403125/413437",
+            "time_base": "1/12403125",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 136434210,
+            "duration": "10.999987",
+            "bit_rate": "10111409",
+            "bits_per_raw_sample": "8",
+            "extradata_size": 50,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "handler_name": "Apple Video Media Handler",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "Lavc60.31.102 libx264",
+              "timecode": "00:00:00:00"
+            }
+          },
+          {
+            "index": 1,
+            "codec_type": "data",
+            "codec_tag_string": "tmcd",
+            "codec_tag": "0x64636d74",
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "12403125/413437",
+            "time_base": "1/12403125",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 136434214,
+            "duration": "10.999987",
+            "bit_rate": "4",
+            "extradata_size": 20,
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "handler_name": "Apple Video Media Handler",
+              "timecode": "00:00:00:00"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/.pexels_27616566.mp4arfmq3ty.part",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "10.999987",
+          "size": "13907468",
+          "bit_rate": "10114534",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "iso5",
+            "minor_version": "512",
+            "compatible_brands": "iso5iso6mp41",
+            "encoder": "Lavf60.16.100"
+          }
+        }
+      },
+      "elapsed_seconds": 10.6914
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "pexels_27616566",
+      "provider_id": "pexels:27616566",
+      "path": "materials/pexels_27616566.mp4",
+      "url": "https://www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566/",
+      "media_type": "video",
+      "source_label": "Pexels｜金融报道资料",
+      "download_url": "https://videos.pexels.com/video-files/27616566/12186398_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Close-up of dollar bills on open newspaper pages, highlighting financial themes.",
+      "candidate_duration": 10,
+      "research_query": "federal reserve"
+    }
+  ],
+  "timings": {
+    "license_seconds": 0.0017,
+    "elapsed_seconds": 10.6939
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "text": "但这不是他的主判断他现在压的还是10月底到11月上旬完成这一轮注底",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.34,
+      "text": "但这不是他的主判断",
+      "tokens": [
+        50365,
+        8395,
+        5562,
+        7296,
+        31309,
+        13557,
+        2437,
+        97,
+        4307,
+        255,
+        50430
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1812752366065979,
+      "compression_ratio": 0.9479166666666666,
+      "no_speech_prob": 7.8234476189043e-12,
+      "words": [
+        {
+          "word": "但",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.98974609375
+        },
+        {
+          "word": "这",
+          "start": 0.22,
+          "end": 0.34,
+          "probability": 0.974609375
+        },
+        {
+          "word": "不是",
+          "start": 0.34,
+          "end": 0.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "他的",
+          "start": 0.54,
+          "end": 0.74,
+          "probability": 0.8896484375
+        },
+        {
+          "word": "主",
+          "start": 0.74,
+          "end": 0.94,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "判",
+          "start": 0.94,
+          "end": 1.12,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "断",
+          "start": 1.12,
+          "end": 1.34,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.34,
+      "end": 2.16,
+      "text": "他现在压的",
+      "tokens": [
+        50430,
+        5000,
+        25040,
+        5014,
+        233,
+        1546,
+        50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1812752366065979,
+      "compression_ratio": 0.9479166666666666,
+      "no_speech_prob": 7.8234476189043e-12,
+      "words": [
+        {
+          "word": "他",
+          "start": 1.34,
+          "end": 1.62,
+          "probability": 0.95068359375
+        },
+        {
+          "word": "现在",
+          "start": 1.62,
+          "end": 1.86,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "压",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.94189453125
+        },
+        {
+          "word": "的",
+          "start": 2.04,
+          "end": 2.16,
+          "probability": 0.99169921875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.16,
+      "end": 3.98,
+      "text": "还是10月底到11月上旬",
+      "tokens": [
+        50476,
+        45726,
+        3279,
+        6939,
+        22816,
+        4511,
+        5348,
+        6939,
+        5708,
+        4479,
+        105,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1812752366065979,
+      "compression_ratio": 0.9479166666666666,
+      "no_speech_prob": 7.8234476189043e-12,
+      "words": [
+        {
+          "word": "还是",
+          "start": 2.16,
+          "end": 2.62,
+          "probability": 0.890625
+        },
+        {
+          "word": "10",
+          "start": 2.62,
+          "end": 2.84,
+          "probability": 0.85205078125
+        },
+        {
+          "word": "月",
+          "start": 2.84,
+          "end": 2.98,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "底",
+          "start": 2.98,
+          "end": 3.1,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "到",
+          "start": 3.1,
+          "end": 3.26,
+          "probability": 0.9853515625
+        },
+        {
+          "word": "11",
+          "start": 3.26,
+          "end": 3.46,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "月",
+          "start": 3.46,
+          "end": 3.62,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "上",
+          "start": 3.62,
+          "end": 3.78,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "旬",
+          "start": 3.78,
+          "end": 3.98,
+          "probability": 0.9638671875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.98,
+      "end": 5.1,
+      "text": "完成这一轮注底",
+      "tokens": [
+        50564,
+        41509,
+        5562,
+        2257,
+        17819,
+        106,
+        26432,
+        22816,
+        50621
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1812752366065979,
+      "compression_ratio": 0.9479166666666666,
+      "no_speech_prob": 7.8234476189043e-12,
+      "words": [
+        {
+          "word": "完成",
+          "start": 3.98,
+          "end": 4.42,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "这",
+          "start": 4.42,
+          "end": 4.62,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "一",
+          "start": 4.62,
+          "end": 4.72,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "轮",
+          "start": 4.72,
+          "end": 4.84,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "注",
+          "start": 4.84,
+          "end": 4.94,
+          "probability": 0.27783203125
+        },
+        {
+          "word": "底",
+          "start": 4.94,
+          "end": 5.1,
+          "probability": 0.177734375
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

@@ -1,0 +1,10 @@
+{
+  "episode": 5,
+  "file": "黄金观察NO.5-封面.png",
+  "sha256": "495b8b05279d5b0912a2d442c144d41b12dc6a1b1dd26124d7ce8f31186813e3",
+  "tool": "imagegen",
+  "template": "gold-observation-cover-reference-v3.png",
+  "portrait_source": "https://goldpredict.highland.dev/uploads/2023/10/16193939/bio1.png",
+  "visual_review": "已实际查看：NO.5、Logo、蓝红标题、托尔森人物身份、金条与署名对应。无旧期人物或机构残留。",
+  "user_aesthetic_acceptance": false
+}

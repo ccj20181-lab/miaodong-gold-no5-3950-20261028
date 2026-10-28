@@ -1,0 +1,272 @@
+{
+  "text": "托尔森当时甚至判断金价可能短暂跌穿这个位置然后在10月底附近完成筑底",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.64,
+      "text": "托尔森当时甚至判断",
+      "tokens": [
+        50365,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        16233,
+        15729,
+        17556,
+        20844,
+        2437,
+        97,
+        4307,
+        255,
+        50431
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.101430743932724,
+      "compression_ratio": 0.8990825688073395,
+      "no_speech_prob": 7.272132982599766e-12,
+      "words": [
+        {
+          "word": "托",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.9619140625
+        },
+        {
+          "word": "尔",
+          "start": 0.26,
+          "end": 0.32,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "森",
+          "start": 0.32,
+          "end": 0.44,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "当",
+          "start": 0.44,
+          "end": 0.54,
+          "probability": 0.990234375
+        },
+        {
+          "word": "时",
+          "start": 0.54,
+          "end": 0.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "甚",
+          "start": 0.7,
+          "end": 0.84,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "至",
+          "start": 0.84,
+          "end": 0.98,
+          "probability": 1.0
+        },
+        {
+          "word": "判",
+          "start": 0.98,
+          "end": 1.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "断",
+          "start": 1.14,
+          "end": 1.64,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.64,
+      "end": 3.38,
+      "text": "金价可能短暂跌穿这个位置",
+      "tokens": [
+        50431,
+        19117,
+        1550,
+        115,
+        16657,
+        5881,
+        255,
+        23826,
+        224,
+        6563,
+        234,
+        13740,
+        123,
+        15368,
+        11160,
+        34719,
+        50536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.101430743932724,
+      "compression_ratio": 0.8990825688073395,
+      "no_speech_prob": 7.272132982599766e-12,
+      "words": [
+        {
+          "word": "金",
+          "start": 1.64,
+          "end": 1.74,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "价",
+          "start": 1.74,
+          "end": 1.92,
+          "probability": 0.8056640625
+        },
+        {
+          "word": "可能",
+          "start": 1.92,
+          "end": 2.18,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "短",
+          "start": 2.18,
+          "end": 2.44,
+          "probability": 1.0
+        },
+        {
+          "word": "暂",
+          "start": 2.44,
+          "end": 2.6,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "跌",
+          "start": 2.6,
+          "end": 2.78,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "穿",
+          "start": 2.78,
+          "end": 2.94,
+          "probability": 0.998046875
+        },
+        {
+          "word": "这个",
+          "start": 2.94,
+          "end": 3.1,
+          "probability": 0.998046875
+        },
+        {
+          "word": "位",
+          "start": 3.1,
+          "end": 3.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "置",
+          "start": 3.24,
+          "end": 3.38,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.38,
+      "end": 5.36,
+      "text": "然后在10月底附近完成筑底",
+      "tokens": [
+        50536,
+        26636,
+        3581,
+        3279,
+        6939,
+        22816,
+        8842,
+        226,
+        17463,
+        41509,
+        7973,
+        239,
+        22816,
+        50634
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.101430743932724,
+      "compression_ratio": 0.8990825688073395,
+      "no_speech_prob": 7.272132982599766e-12,
+      "words": [
+        {
+          "word": "然后",
+          "start": 3.38,
+          "end": 3.86,
+          "probability": 0.96337890625
+        },
+        {
+          "word": "在",
+          "start": 3.86,
+          "end": 4.06,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "10",
+          "start": 4.06,
+          "end": 4.22,
+          "probability": 0.609375
+        },
+        {
+          "word": "月",
+          "start": 4.22,
+          "end": 4.34,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "底",
+          "start": 4.34,
+          "end": 4.46,
+          "probability": 1.0
+        },
+        {
+          "word": "附",
+          "start": 4.46,
+          "end": 4.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "近",
+          "start": 4.62,
+          "end": 4.76,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "完成",
+          "start": 4.76,
+          "end": 5.1,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "筑",
+          "start": 5.1,
+          "end": 5.26,
+          "probability": 0.68896484375
+        },
+        {
+          "word": "底",
+          "start": 5.26,
+          "end": 5.36,
+          "probability": 0.7255859375
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

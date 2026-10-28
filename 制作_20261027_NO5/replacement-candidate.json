@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "source_id": "pexels_27616566",
+      "provider_id": "pexels:27616566",
+      "path": "materials/pexels_27616566.mp4",
+      "url": "https://www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566/",
+      "media_type": "video",
+      "source_label": "Pexels｜金融报道资料",
+      "download_url": "https://videos.pexels.com/video-files/27616566/12186398_1920_1080_30fps.mp4",
+      "license_evidence": {
+        "path": "production/pexels-federal-reserve.json",
+        "source_url": "https://www.pexels.com/search/videos/federal%20reserve/"
+      },
+      "description": "Close-up of dollar bills on open newspaper pages, highlighting financial themes.",
+      "candidate_duration": 10,
+      "research_query": "federal reserve"
+    }
+  ]
+}

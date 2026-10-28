@@ -1,0 +1,374 @@
+{
+  "text": "接下来的关键窗口只剩未来一到两周3950美元到底会不会成为黄金的最后一跌评论区打出你的判断",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.2,
+      "text": "接下来的关键窗口",
+      "tokens": [
+        50365,
+        14468,
+        4438,
+        6912,
+        1546,
+        28053,
+        23049,
+        106,
+        30771,
+        245,
+        18144,
+        50425
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06740742524464925,
+      "compression_ratio": 0.9548872180451128,
+      "no_speech_prob": 8.337446184836228e-12,
+      "words": [
+        {
+          "word": "接",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.9755859375
+        },
+        {
+          "word": "下",
+          "start": 0.26,
+          "end": 0.38,
+          "probability": 1.0
+        },
+        {
+          "word": "来",
+          "start": 0.38,
+          "end": 0.48,
+          "probability": 1.0
+        },
+        {
+          "word": "的",
+          "start": 0.48,
+          "end": 0.56,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "关",
+          "start": 0.56,
+          "end": 0.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "键",
+          "start": 0.68,
+          "end": 0.84,
+          "probability": 1.0
+        },
+        {
+          "word": "窗",
+          "start": 0.84,
+          "end": 0.98,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "口",
+          "start": 0.98,
+          "end": 1.2,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.2,
+      "end": 2.72,
+      "text": "只剩未来一到两周",
+      "tokens": [
+        50425,
+        14003,
+        5935,
+        102,
+        29954,
+        6912,
+        2257,
+        4511,
+        36257,
+        37390,
+        50503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06740742524464925,
+      "compression_ratio": 0.9548872180451128,
+      "no_speech_prob": 8.337446184836228e-12,
+      "words": [
+        {
+          "word": "只",
+          "start": 1.2,
+          "end": 1.56,
+          "probability": 0.97265625
+        },
+        {
+          "word": "剩",
+          "start": 1.56,
+          "end": 1.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "未",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.994140625
+        },
+        {
+          "word": "来",
+          "start": 2.04,
+          "end": 2.16,
+          "probability": 1.0
+        },
+        {
+          "word": "一",
+          "start": 2.16,
+          "end": 2.26,
+          "probability": 0.9443359375
+        },
+        {
+          "word": "到",
+          "start": 2.26,
+          "end": 2.36,
+          "probability": 0.99609375
+        },
+        {
+          "word": "两",
+          "start": 2.36,
+          "end": 2.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "周",
+          "start": 2.52,
+          "end": 2.72,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.72,
+      "end": 4.02,
+      "text": "3950美元",
+      "tokens": [
+        50503,
+        12493,
+        2803,
+        39433,
+        50569
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06740742524464925,
+      "compression_ratio": 0.9548872180451128,
+      "no_speech_prob": 8.337446184836228e-12,
+      "words": [
+        {
+          "word": "39",
+          "start": 2.72,
+          "end": 3.22,
+          "probability": 0.955078125
+        },
+        {
+          "word": "50",
+          "start": 3.22,
+          "end": 3.76,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "美元",
+          "start": 3.76,
+          "end": 4.02,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 4.02,
+      "end": 6.54,
+      "text": "到底会不会成为黄金的最后一跌",
+      "tokens": [
+        50569,
+        33883,
+        12949,
+        47928,
+        11336,
+        13992,
+        6173,
+        226,
+        19117,
+        1546,
+        8661,
+        13547,
+        2257,
+        6563,
+        234,
+        50692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06740742524464925,
+      "compression_ratio": 0.9548872180451128,
+      "no_speech_prob": 8.337446184836228e-12,
+      "words": [
+        {
+          "word": "到底",
+          "start": 4.02,
+          "end": 4.6,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "会",
+          "start": 4.6,
+          "end": 4.88,
+          "probability": 1.0
+        },
+        {
+          "word": "不会",
+          "start": 4.88,
+          "end": 5.08,
+          "probability": 1.0
+        },
+        {
+          "word": "成",
+          "start": 5.08,
+          "end": 5.24,
+          "probability": 1.0
+        },
+        {
+          "word": "为",
+          "start": 5.24,
+          "end": 5.38,
+          "probability": 1.0
+        },
+        {
+          "word": "黄",
+          "start": 5.38,
+          "end": 5.58,
+          "probability": 1.0
+        },
+        {
+          "word": "金",
+          "start": 5.58,
+          "end": 5.74,
+          "probability": 1.0
+        },
+        {
+          "word": "的",
+          "start": 5.74,
+          "end": 5.88,
+          "probability": 1.0
+        },
+        {
+          "word": "最",
+          "start": 5.88,
+          "end": 6.1,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "后",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 1.0
+        },
+        {
+          "word": "一",
+          "start": 6.26,
+          "end": 6.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "跌",
+          "start": 6.4,
+          "end": 6.54,
+          "probability": 0.9921875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 6.54,
+      "end": 8.34,
+      "text": "评论区打出你的判断",
+      "tokens": [
+        50692,
+        5233,
+        226,
+        7422,
+        118,
+        9937,
+        118,
+        12467,
+        7781,
+        18961,
+        2437,
+        97,
+        4307,
+        255,
+        50782
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06740742524464925,
+      "compression_ratio": 0.9548872180451128,
+      "no_speech_prob": 8.337446184836228e-12,
+      "words": [
+        {
+          "word": "评",
+          "start": 6.54,
+          "end": 7.04,
+          "probability": 0.943359375
+        },
+        {
+          "word": "论",
+          "start": 7.04,
+          "end": 7.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "区",
+          "start": 7.14,
+          "end": 7.32,
+          "probability": 1.0
+        },
+        {
+          "word": "打",
+          "start": 7.32,
+          "end": 7.62,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "出",
+          "start": 7.62,
+          "end": 7.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "你的",
+          "start": 7.8,
+          "end": 7.98,
+          "probability": 0.998046875
+        },
+        {
+          "word": "判",
+          "start": 7.98,
+          "end": 8.16,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "断",
+          "start": 8.16,
+          "end": 8.34,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

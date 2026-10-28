@@ -1,0 +1,327 @@
+{
+  "text": "白银也是类似跌破55美元之后托尔森认为下一步测试50美元趋势线支撑的可能性正在上升",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.1,
+      "text": "白银也是类似",
+      "tokens": [
+        50365,
+        13558,
+        165,
+        241,
+        114,
+        22021,
+        22113,
+        119,
+        7384,
+        120,
+        50419
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0767779514707368,
+      "compression_ratio": 0.9349593495934959,
+      "no_speech_prob": 6.51565043238711e-12,
+      "words": [
+        {
+          "word": "白",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "银",
+          "start": 0.26,
+          "end": 0.44,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "也是",
+          "start": 0.44,
+          "end": 0.72,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "类",
+          "start": 0.72,
+          "end": 0.92,
+          "probability": 1.0
+        },
+        {
+          "word": "似",
+          "start": 0.92,
+          "end": 1.1,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.1,
+      "end": 2.58,
+      "text": "跌破55美元之后",
+      "tokens": [
+        50419,
+        6563,
+        234,
+        39560,
+        13622,
+        39433,
+        9574,
+        13547,
+        50495
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0767779514707368,
+      "compression_ratio": 0.9349593495934959,
+      "no_speech_prob": 6.51565043238711e-12,
+      "words": [
+        {
+          "word": "跌",
+          "start": 1.1,
+          "end": 1.58,
+          "probability": 0.93359375
+        },
+        {
+          "word": "破",
+          "start": 1.58,
+          "end": 1.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "55",
+          "start": 1.72,
+          "end": 1.94,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "美元",
+          "start": 1.94,
+          "end": 2.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "之",
+          "start": 2.2,
+          "end": 2.36,
+          "probability": 0.998046875
+        },
+        {
+          "word": "后",
+          "start": 2.36,
+          "end": 2.58,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.58,
+      "end": 3.46,
+      "text": "托尔森认为",
+      "tokens": [
+        50495,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        7422,
+        97,
+        13992,
+        50538
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0767779514707368,
+      "compression_ratio": 0.9349593495934959,
+      "no_speech_prob": 6.51565043238711e-12,
+      "words": [
+        {
+          "word": "托",
+          "start": 2.58,
+          "end": 2.92,
+          "probability": 0.9599609375
+        },
+        {
+          "word": "尔",
+          "start": 2.92,
+          "end": 3.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "森",
+          "start": 3.02,
+          "end": 3.14,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "认",
+          "start": 3.14,
+          "end": 3.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "为",
+          "start": 3.28,
+          "end": 3.46,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.46,
+      "end": 6.82,
+      "text": "下一步测试50美元趋势线支撑的可能性正在上升",
+      "tokens": [
+        50538,
+        45271,
+        31429,
+        11038,
+        233,
+        5233,
+        243,
+        2803,
+        39433,
+        9759,
+        233,
+        5087,
+        123,
+        16853,
+        123,
+        24400,
+        20559,
+        239,
+        1546,
+        16657,
+        21686,
+        15789,
+        3581,
+        5708,
+        41670,
+        50708
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0767779514707368,
+      "compression_ratio": 0.9349593495934959,
+      "no_speech_prob": 6.51565043238711e-12,
+      "words": [
+        {
+          "word": "下一",
+          "start": 3.46,
+          "end": 3.86,
+          "probability": 0.97802734375
+        },
+        {
+          "word": "步",
+          "start": 3.86,
+          "end": 4.04,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "测",
+          "start": 4.04,
+          "end": 4.2,
+          "probability": 1.0
+        },
+        {
+          "word": "试",
+          "start": 4.2,
+          "end": 4.34,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "50",
+          "start": 4.34,
+          "end": 4.5,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "美元",
+          "start": 4.5,
+          "end": 4.8,
+          "probability": 1.0
+        },
+        {
+          "word": "趋",
+          "start": 4.8,
+          "end": 5.04,
+          "probability": 0.99609375
+        },
+        {
+          "word": "势",
+          "start": 5.04,
+          "end": 5.16,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "线",
+          "start": 5.16,
+          "end": 5.3,
+          "probability": 0.998046875
+        },
+        {
+          "word": "支",
+          "start": 5.3,
+          "end": 5.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "撑",
+          "start": 5.42,
+          "end": 5.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "的",
+          "start": 5.58,
+          "end": 5.68,
+          "probability": 1.0
+        },
+        {
+          "word": "可能",
+          "start": 5.68,
+          "end": 5.86,
+          "probability": 1.0
+        },
+        {
+          "word": "性",
+          "start": 5.86,
+          "end": 6.06,
+          "probability": 1.0
+        },
+        {
+          "word": "正",
+          "start": 6.06,
+          "end": 6.36,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "在",
+          "start": 6.36,
+          "end": 6.52,
+          "probability": 1.0
+        },
+        {
+          "word": "上",
+          "start": 6.52,
+          "end": 6.66,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "升",
+          "start": 6.66,
+          "end": 6.82,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

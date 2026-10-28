@@ -1,0 +1,1212 @@
+{
+  "title": "黄金跌破4000美元3950会是最后一跌？",
+  "topic": "黄金跌破4000美元3950会是最后一跌？",
+  "titleLines": [
+    "黄金跌破4000美元",
+    "3950会是最后一跌？"
+  ],
+  "titleHighlightKeywords": [
+    "4000美元",
+    "3950"
+  ],
+  "compositeMode": true,
+  "subtitleHoldUntilNextCue": true,
+  "scenes": [
+    {
+      "id": "scene_01",
+      "text": "黄金刚刚跌破4000美元，多次准确预判黄金走势的分析师托尔森又发话了：3950美元附近，可能就是这轮下跌的“最后一洗”！",
+      "subtitleHighlights": [
+        "4000美元",
+        "3950美元",
+        "最后一洗",
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_38698437",
+          "path": "materials/pexels_38698437.mp4",
+          "fit_to_audio": true,
+          "supports": "从实际日收盘曲线看见跌破4000；实物金条生产持续运动，历史收盘与3975盘中低点分开标注。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32,
+      "priceHistory": {
+        "from": 0,
+        "to": "scene_end",
+        "title": "黄金跌破4000美元",
+        "instrument": "XAU/USD · 2026.09.25—10.23",
+        "unit": "美元/盎司",
+        "source": "英为财情｜日收盘；Kitco｜盘中低点",
+        "points": [
+          {
+            "date": "2026-09-25",
+            "close": 4287.25
+          },
+          {
+            "date": "2026-09-28",
+            "close": 4115.27
+          },
+          {
+            "date": "2026-09-29",
+            "close": 4182.8
+          },
+          {
+            "date": "2026-09-30",
+            "close": 4157.34
+          },
+          {
+            "date": "2026-10-01",
+            "close": 4178.86
+          },
+          {
+            "date": "2026-10-02",
+            "close": 4142.96
+          },
+          {
+            "date": "2026-10-05",
+            "close": 4139.89
+          },
+          {
+            "date": "2026-10-06",
+            "close": 4164.35
+          },
+          {
+            "date": "2026-10-07",
+            "close": 4111.05
+          },
+          {
+            "date": "2026-10-08",
+            "close": 4134.93
+          },
+          {
+            "date": "2026-10-09",
+            "close": 4194.46
+          },
+          {
+            "date": "2026-10-12",
+            "close": 4171.69
+          },
+          {
+            "date": "2026-10-13",
+            "close": 4157.95
+          },
+          {
+            "date": "2026-10-14",
+            "close": 4105.7
+          },
+          {
+            "date": "2026-10-15",
+            "close": 4170.87
+          },
+          {
+            "date": "2026-10-16",
+            "close": 4165.5
+          },
+          {
+            "date": "2026-10-19",
+            "close": 4140.87
+          },
+          {
+            "date": "2026-10-20",
+            "close": 4124.94
+          },
+          {
+            "date": "2026-10-21",
+            "close": 4140.97
+          },
+          {
+            "date": "2026-10-22",
+            "close": 4024.23
+          },
+          {
+            "date": "2026-10-23",
+            "close": 3995.8,
+            "low": 3975.64,
+            "high": 4034.17
+          }
+        ],
+        "domain": [
+          3900,
+          4350
+        ],
+        "drawFrom": 0,
+        "drawTo": 55,
+        "markers": [
+          {
+            "date": "2026-10-23",
+            "field": "low",
+            "label": "盘中低点3975.64",
+            "from": 58
+          }
+        ],
+        "contextNote": "历史行情截至10月23日｜3950为托尔森预测"
+      }
+    },
+    {
+      "id": "scene_02",
+      "text": "上周五，现货黄金最低一度砸到3975美元，创下7月20日以来新低，一周跌幅超过4%。",
+      "subtitleHighlights": [
+        "3975美元"
+      ],
+      "shots": [
+        {
+          "source_id": "mixkit_2861",
+          "path": "materials/mixkit_2861.mp4",
+          "fit_to_audio": true,
+          "supports": "熔铸黄金实物持续运动，展示3975盘中低点与实际日线；主镜头不冻结。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32,
+      "priceHistory": {
+        "from": 0,
+        "to": "scene_end",
+        "title": "10月23日 · 盘中低点3975.64",
+        "instrument": "XAU/USD · 2026.09.25—10.23",
+        "unit": "美元/盎司",
+        "source": "英为财情｜日收盘；Kitco｜盘中低点",
+        "points": [
+          {
+            "date": "2026-09-25",
+            "close": 4287.25
+          },
+          {
+            "date": "2026-09-28",
+            "close": 4115.27
+          },
+          {
+            "date": "2026-09-29",
+            "close": 4182.8
+          },
+          {
+            "date": "2026-09-30",
+            "close": 4157.34
+          },
+          {
+            "date": "2026-10-01",
+            "close": 4178.86
+          },
+          {
+            "date": "2026-10-02",
+            "close": 4142.96
+          },
+          {
+            "date": "2026-10-05",
+            "close": 4139.89
+          },
+          {
+            "date": "2026-10-06",
+            "close": 4164.35
+          },
+          {
+            "date": "2026-10-07",
+            "close": 4111.05
+          },
+          {
+            "date": "2026-10-08",
+            "close": 4134.93
+          },
+          {
+            "date": "2026-10-09",
+            "close": 4194.46
+          },
+          {
+            "date": "2026-10-12",
+            "close": 4171.69
+          },
+          {
+            "date": "2026-10-13",
+            "close": 4157.95
+          },
+          {
+            "date": "2026-10-14",
+            "close": 4105.7
+          },
+          {
+            "date": "2026-10-15",
+            "close": 4170.87
+          },
+          {
+            "date": "2026-10-16",
+            "close": 4165.5
+          },
+          {
+            "date": "2026-10-19",
+            "close": 4140.87
+          },
+          {
+            "date": "2026-10-20",
+            "close": 4124.94
+          },
+          {
+            "date": "2026-10-21",
+            "close": 4140.97
+          },
+          {
+            "date": "2026-10-22",
+            "close": 4024.23
+          },
+          {
+            "date": "2026-10-23",
+            "close": 3995.8,
+            "low": 3975.64,
+            "high": 4034.17
+          }
+        ],
+        "domain": [
+          3900,
+          4350
+        ],
+        "drawFrom": 0,
+        "drawTo": 111,
+        "markers": [
+          {
+            "date": "2026-10-23",
+            "field": "low",
+            "label": "盘中低点3975.64",
+            "from": 112
+          }
+        ],
+        "contextNote": "历史行情截至10月23日｜3950为托尔森预测"
+      }
+    },
+    {
+      "id": "scene_03",
+      "text": "很多人现在最关心的就是：这轮黄金，到底还要跌多久？",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_36418699",
+          "path": "materials/pexels_36418699.mp4",
+          "fit_to_audio": true,
+          "supports": "真实投资者看盘动作对应跌势下的疑问；不把演员标作托尔森。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_04",
+      "text": "10月25日，托尔森在最新一期《Weekend Gold Update》里，给出了非常明确的判断。",
+      "subtitleHighlights": [
+        "25"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_7579954",
+          "path": "materials/pexels_7579954.mp4",
+          "fit_to_audio": true,
+          "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_05",
+      "text": "他的黄金周期指标GCI已经降到25，正式进入下四分位，也就是他定义的“深度超卖区”。",
+      "subtitleHighlights": [
+        "GCI",
+        "25",
+        "深度超卖区"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_7579954",
+          "path": "materials/pexels_7579954.mp4",
+          "fit_to_audio": true,
+          "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_06",
+      "text": "托尔森认为，金价如果短暂跌破3950美元，市场可能出现最后一轮恐慌抛售。",
+      "subtitleHighlights": [
+        "3950美元",
+        "恐慌抛售",
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_38412249",
+          "path": "materials/pexels_38412249.mp4",
+          "fit_to_audio": true,
+          "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_07",
+      "text": "而这一下，很可能就是这轮调整的“最终洗盘”！",
+      "subtitleHighlights": [
+        "最终洗盘"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_38412249",
+          "path": "materials/pexels_38412249.mp4",
+          "fit_to_audio": true,
+          "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_08",
+      "text": "他给出的筑底窗口，是现在到11月第一周，最迟第二周。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_10223447",
+          "path": "materials/pexels_10223447.mp4",
+          "fit_to_audio": true,
+          "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_09",
+      "text": "关键是！",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_10223447",
+          "path": "materials/pexels_10223447.mp4",
+          "fit_to_audio": true,
+          "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_10",
+      "text": "3950美元，并不是金价跌下来以后，托尔森才临时喊出来的数字。",
+      "subtitleHighlights": [
+        "3950美元",
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_10223447",
+          "path": "materials/pexels_10223447.mp4",
+          "fit_to_audio": true,
+          "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_11",
+      "text": "早在10月15日，他就发过一份报告，标题就叫《The Final Washout into an October Bottom》。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_27616566",
+          "path": "materials/pexels_27616566.mp4",
+          "fit_to_audio": true,
+          "supports": "金融新闻报纸与美元实拍打底，展示10月15日报告标题与原文预测；不冒充报告实拍。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_12",
+      "text": "当时黄金还没有跌破4000美元，他就已经把本轮回调目标看到3950美元附近。",
+      "subtitleHighlights": [
+        "4000美元",
+        "3950美元",
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "mixkit_2862",
+          "path": "materials/mixkit_2862.mp4",
+          "fit_to_audio": true,
+          "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_13",
+      "text": "托尔森当时甚至判断，金价可能短暂跌穿这个位置，然后在10月底附近完成筑底。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "mixkit_2862",
+          "path": "materials/mixkit_2862.mp4",
+          "fit_to_audio": true,
+          "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_14",
+      "text": "结果8天之后，金价最低真的杀到了3975美元。",
+      "subtitleHighlights": [
+        "3975美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_39020626",
+          "path": "materials/pexels_39020626.mp4",
+          "fit_to_audio": true,
+          "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_15",
+      "text": "距离3950美元，只差25美元，大约0.6%。",
+      "subtitleHighlights": [
+        "3950美元",
+        "25",
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_39020626",
+          "path": "materials/pexels_39020626.mp4",
+          "fit_to_audio": true,
+          "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_16",
+      "text": "这一笔，目前走得相当接近！",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_39020626",
+          "path": "materials/pexels_39020626.mp4",
+          "fit_to_audio": true,
+          "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_17",
+      "text": "而且，市场现在盯着的支撑位，也刚好在这一带。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_7580278",
+          "path": "materials/pexels_7580278.mp4",
+          "fit_to_audio": true,
+          "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_18",
+      "text": "Kitco最新技术分析给出的第一组重要支撑，是3963到3946美元。",
+      "subtitleHighlights": [
+        "3963到3946美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_7580278",
+          "path": "materials/pexels_7580278.mp4",
+          "fit_to_audio": true,
+          "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_19",
+      "text": "再往下，才会看向3890美元。",
+      "subtitleHighlights": [
+        "3890美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_38875223",
+          "path": "materials/pexels_38875223.mp4",
+          "fit_to_audio": true,
+          "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_20",
+      "text": "也就是说，托尔森盯3950，技术支撑区也压在3950附近，这里已经成了黄金现在最关键的位置之一。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_38875223",
+          "path": "materials/pexels_38875223.mp4",
+          "fit_to_audio": true,
+          "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_21",
+      "text": "托尔森也给了一个更极端的情况：中期选举之后，如果美股出现严重下跌，黄金可能被一起拖下去。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_37558975",
+          "path": "materials/pexels_37558975.mp4",
+          "fit_to_audio": true,
+          "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_22",
+      "text": "到了这种极端情况，他才把黄金更深的位置看到3500美元附近。",
+      "subtitleHighlights": [
+        "3500美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_37558975",
+          "path": "materials/pexels_37558975.mp4",
+          "fit_to_audio": true,
+          "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_23",
+      "text": "但这不是他的主判断，他现在押的，还是10月底到11月上旬完成这一轮筑底。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_7579951",
+          "path": "materials/pexels_7579951.mp4",
+          "fit_to_audio": true,
+          "supports": "回到分析师真实原照与主要筑底时间窗，区分3500条件分支。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_24",
+      "text": "白银也是类似，跌破55美元之后，托尔森认为下一步测试50美元趋势线支撑的可能性正在上升。",
+      "subtitleHighlights": [
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_4987955",
+          "path": "materials/pexels_4987955.mp4",
+          "fit_to_audio": true,
+          "supports": "美国铸币局实景作贵金属机构资料；原白银报告图聚焦55下方与50趋势线，标明预测支撑。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_25",
+      "text": "再看美债，10年期美债收益率上周已经收在5%下方，托尔森认为这里可能正在形成10月阶段高点。",
+      "subtitleHighlights": [
+        "5%"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_29188213",
+          "path": "materials/pexels_29188213.mp4",
+          "fit_to_audio": true,
+          "supports": "美国财政建筑实景；揭示原TNX周线真实过程，单位TNX除以10，最后4.988%与5%阈值分开。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_26",
+      "text": "世界黄金协会10月26日最新周报又给了一个强信号：本周美联储再次加息的概率，已经从一个月前大约70%，降到不足10%。",
+      "subtitleHighlights": [
+        "70%",
+        "不足10%"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_1797020",
+          "path": "materials/pexels_1797020.mp4",
+          "fit_to_audio": true,
+          "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_27",
+      "text": "这个变化非常大，但12月加息风险还没有消失。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_1797020",
+          "path": "materials/pexels_1797020.mp4",
+          "fit_to_audio": true,
+          "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_28",
+      "text": "所以接下来，黄金能不能完成这次“最后一洗”，就看本周美联储决议。",
+      "subtitleHighlights": [
+        "最后一洗",
+        "美联储决议"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_4393479",
+          "path": "materials/pexels_4393479.mp4",
+          "fit_to_audio": true,
+          "supports": "美元钞票实拍和议息日历翻页，决议作为待发生催化；不冒充发布会现场。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_29",
+      "text": "然后再看PCE通胀数据，会不会重新把加息预期推上去。",
+      "subtitleHighlights": [
+        "PCE通胀数据"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_5466779",
+          "path": "materials/pexels_5466779.mp4",
+          "fit_to_audio": true,
+          "supports": "真实数钞动作；通胀压力活塞上升推动加息预期标尺，表达条件机制。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_30",
+      "text": "托尔森这套逻辑很简单：收益率先见顶，黄金再完成最后一次洗盘，然后进入新的筑底窗口。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_4145888",
+          "path": "materials/pexels_4145888.mp4",
+          "fit_to_audio": true,
+          "supports": "美元资料打底；预期利息筹码减少、持金机会成本压力解除、黄金承接面稳定，最后指向筑底窗口。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_31",
+      "text": "10月15日，他提前把回调目标看到3950美元；8天之后，黄金最低已经杀到3975美元。",
+      "subtitleHighlights": [
+        "3950美元",
+        "3975美元",
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_38711950",
+          "path": "materials/pexels_38711950.mp4",
+          "fit_to_audio": true,
+          "supports": "市场热图实拍；10月15日至23日八日跨度，分别落定3950预测和3975实际低点，保留差距。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_32",
+      "text": "10月25日，他再次强调：3950美元附近，可能就是最后一轮洗盘。",
+      "subtitleHighlights": [
+        "3950美元",
+        "25",
+        "50美元"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_30445098",
+          "path": "materials/pexels_30445098.mp4",
+          "fit_to_audio": true,
+          "supports": "双屏研究实拍；10月25日最新判断与3950再次出现，标明仍是判断。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_33",
+      "text": "接下来的关键窗口，只剩未来一到两周。3950美元，到底会不会成为黄金的“最后一跌”？评论区打出你的判断。",
+      "subtitleHighlights": [
+        "3950美元",
+        "最后一跌",
+        "50美元",
+        "未来一到两周"
+      ],
+      "shots": [
+        {
+          "source_id": "pexels_4319342",
+          "path": "materials/pexels_4319342.mp4",
+          "fit_to_audio": true,
+          "supports": "纽约证券交易所实景；未来一到两周日历与关键观察线，留时间读互动问题。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_34",
+      "text": "我们不当韭菜，只做先知先觉的那拨人。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_5651767",
+          "path": "materials/pexels_5651767.mp4",
+          "fit_to_audio": true,
+          "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          },
+          "in_frame": 3
+        }
+      ],
+      "overlayStrength": 0.32
+    },
+    {
+      "id": "scene_35",
+      "text": "我会继续跟踪黄金最新动态，有新的变化第一时间更新。我们下期见。",
+      "subtitleHighlights": [],
+      "shots": [
+        {
+          "source_id": "pexels_5651767",
+          "path": "materials/pexels_5651767.mp4",
+          "fit_to_audio": true,
+          "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+          "transition": "cut",
+          "transitionFrames": 0,
+          "camera": {
+            "startScale": 1,
+            "endScale": 1.012,
+            "originX": 50,
+            "originY": 50
+          }
+        }
+      ],
+      "overlayStrength": 0.32
+    }
+  ],
+  "episodeUnits": [
+    {
+      "first": "scene_01",
+      "last": "scene_01",
+      "kind": "history"
+    },
+    {
+      "first": "scene_02",
+      "last": "scene_02",
+      "kind": "history_low"
+    },
+    {
+      "first": "scene_03",
+      "last": "scene_03",
+      "kind": "question"
+    },
+    {
+      "first": "scene_04",
+      "last": "scene_05",
+      "kind": "author"
+    },
+    {
+      "first": "scene_06",
+      "last": "scene_07",
+      "kind": "washout"
+    },
+    {
+      "first": "scene_08",
+      "last": "scene_10",
+      "kind": "window"
+    },
+    {
+      "first": "scene_11",
+      "last": "scene_11",
+      "kind": "earlier_title"
+    },
+    {
+      "first": "scene_12",
+      "last": "scene_13",
+      "kind": "earlier"
+    },
+    {
+      "first": "scene_14",
+      "last": "scene_16",
+      "kind": "distance"
+    },
+    {
+      "first": "scene_17",
+      "last": "scene_18",
+      "kind": "support"
+    },
+    {
+      "first": "scene_19",
+      "last": "scene_20",
+      "kind": "support_deep"
+    },
+    {
+      "first": "scene_21",
+      "last": "scene_22",
+      "kind": "stress"
+    },
+    {
+      "first": "scene_23",
+      "last": "scene_23",
+      "kind": "maincase"
+    },
+    {
+      "first": "scene_24",
+      "last": "scene_24",
+      "kind": "silver"
+    },
+    {
+      "first": "scene_25",
+      "last": "scene_25",
+      "kind": "yield"
+    },
+    {
+      "first": "scene_26",
+      "last": "scene_27",
+      "kind": "probability"
+    },
+    {
+      "first": "scene_28",
+      "last": "scene_28",
+      "kind": "fed"
+    },
+    {
+      "first": "scene_29",
+      "last": "scene_29",
+      "kind": "pce"
+    },
+    {
+      "first": "scene_30",
+      "last": "scene_30",
+      "kind": "sequence"
+    },
+    {
+      "first": "scene_31",
+      "last": "scene_31",
+      "kind": "timeline1"
+    },
+    {
+      "first": "scene_32",
+      "last": "scene_32",
+      "kind": "timeline2"
+    },
+    {
+      "first": "scene_33",
+      "last": "scene_33",
+      "kind": "interaction"
+    },
+    {
+      "first": "scene_34",
+      "last": "scene_35",
+      "kind": "close"
+    }
+  ],
+  "episodeNumber": 5
+}

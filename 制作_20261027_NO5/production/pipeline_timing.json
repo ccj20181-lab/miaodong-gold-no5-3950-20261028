@@ -1,0 +1,26 @@
+{
+  "elapsed_seconds": 27.156742292,
+  "events": [
+    {
+      "stage": "materials",
+      "event": "start",
+      "seconds": 0.08010583399999999
+    },
+    {
+      "stage": "audio_and_alignment",
+      "event": "start",
+      "seconds": 0.08035183400000001
+    },
+    {
+      "stage": "audio_and_alignment",
+      "event": "end",
+      "seconds": 0.10072562499999999
+    },
+    {
+      "stage": "materials",
+      "event": "end",
+      "seconds": 0.820707375
+    }
+  ],
+  "note": "Measured job intervals include cache hits; not a new-topic end-to-end production benchmark."
+}

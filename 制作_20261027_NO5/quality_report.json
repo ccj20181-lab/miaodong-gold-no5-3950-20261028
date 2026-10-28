@@ -1,0 +1,598 @@
+{
+  "mode": "stock",
+  "status": "pass",
+  "structural_checks": "passed",
+  "rendered": true,
+  "scene_count": 35,
+  "total_frames": 5692,
+  "material_audit": {
+    "status": "pass",
+    "shot_count": 35,
+    "original_video_count": 23,
+    "checks": [
+      "source_id",
+      "resolved_path",
+      "normalized_url",
+      "provider_id_if_present",
+      "actual_file_sha256"
+    ],
+    "semantic_match_verified": false,
+    "semantic_review": "supports statements are author supplied; human visual review required",
+    "shots": [
+      {
+        "scene_id": "scene_01",
+        "shot_index": 1,
+        "supports": "从实际日收盘曲线看见跌破4000；实物金条生产持续运动，历史收盘与3975盘中低点分开标注。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38698437",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38698437.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-market-charts-displayed-on-screens-38698437",
+          "provider_id": "pexels:38698437",
+          "sha256": "a8d6c524254042bf6ea9810e02ad280fe5145a9fb768802745c6df709f211df4"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_02",
+        "shot_index": 1,
+        "supports": "熔铸黄金实物持续运动，展示3975盘中低点与实际日线；主镜头不冻结。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "mixkit_2861",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/mixkit_2861.mp4",
+          "url": "//mixkit.co/free-stock-video/producing-gold-bullion-2861",
+          "provider_id": "mixkit:2861",
+          "sha256": "9acf3004416eda8f418692937f14aefd283d9c8da458a899db8cf023e77aabba"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_03",
+        "shot_index": 1,
+        "supports": "真实投资者看盘动作对应跌势下的疑问；不把演员标作托尔森。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_36418699",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_36418699.mp4",
+          "url": "//www.pexels.com/video/stock-market-analysis-on-tablet-with-graphs-36418699",
+          "provider_id": "pexels:36418699",
+          "sha256": "81e11979ee7a2e66265bfa9ff25939c9513070ab4369ddb8d8609603f343233e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_04",
+        "shot_index": 1,
+        "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7579954",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7579954.mp4",
+          "url": "//www.pexels.com/video/man-looking-at-digital-graph-7579954",
+          "provider_id": "pexels:7579954",
+          "sha256": "1fc913e0bb9a476aa943f7daed1e7c0ac46638ccf94179df05c2cccd0b9aeb6c"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_05",
+        "shot_index": 1,
+        "supports": "官方原照抠图与10月25日报告身份同屏；GCI量尺只呈现实际25读数与下四分位。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7579954",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7579954.mp4",
+          "url": "//www.pexels.com/video/man-looking-at-digital-graph-7579954",
+          "provider_id": "pexels:7579954",
+          "sha256": "1fc913e0bb9a476aa943f7daed1e7c0ac46638ccf94179df05c2cccd0b9aeb6c"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_06",
+        "shot_index": 1,
+        "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38412249",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38412249.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-graphs-and-charts-analysis-38412249",
+          "provider_id": "pexels:38412249",
+          "sha256": "fb41b14fa9514652af7d497fe50512e71ac393f3f4a0c518dacf309a124bdf89"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_07",
+        "shot_index": 1,
+        "supports": "市场屏幕作资料底层；黄金卖出换取现金、承接盘承压，3950阈值以假设机制表达。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38412249",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38412249.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-graphs-and-charts-analysis-38412249",
+          "provider_id": "pexels:38412249",
+          "sha256": "fb41b14fa9514652af7d497fe50512e71ac393f3f4a0c518dacf309a124bdf89"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_08",
+        "shot_index": 1,
+        "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_10223447",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_10223447.mp4",
+          "url": "//www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447",
+          "provider_id": "pexels:10223447",
+          "sha256": "aed44a78d107e3d11b7af24ed8410e371182217cdf4bcc52c89a81fd451a9a01"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_09",
+        "shot_index": 1,
+        "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_10223447",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_10223447.mp4",
+          "url": "//www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447",
+          "provider_id": "pexels:10223447",
+          "sha256": "aed44a78d107e3d11b7af24ed8410e371182217cdf4bcc52c89a81fd451a9a01"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_10",
+        "shot_index": 1,
+        "supports": "日历窗口从10月底展开至11月第二周；第10幕停在提前给出3950这一句，引出历史原报告。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_10223447",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_10223447.mp4",
+          "url": "//www.pexels.com/video/a-close-up-video-of-a-banknotes-10223447",
+          "provider_id": "pexels:10223447",
+          "sha256": "aed44a78d107e3d11b7af24ed8410e371182217cdf4bcc52c89a81fd451a9a01"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_11",
+        "shot_index": 1,
+        "supports": "金融新闻报纸与美元实拍打底，展示10月15日报告标题与原文预测；不冒充报告实拍。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_27616566",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_27616566.mp4",
+          "url": "//www.pexels.com/video/a-stack-of-money-on-top-of-a-newspaper-27616566",
+          "provider_id": "pexels:27616566",
+          "sha256": "b2b4a09ff3046f9d1014450a5ee8e6b1339f7136b32c16eaacdea99cae22c4b3"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_12",
+        "shot_index": 1,
+        "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "mixkit_2862",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/mixkit_2862.mp4",
+          "url": "//mixkit.co/free-stock-video/gold-ingots-on-a-shelf-2862",
+          "provider_id": "mixkit:2862",
+          "sha256": "966cfda0a7c53be7ff29b1553948bf5b4c034d3321bf47f2b3ad16a621bf3115"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_13",
+        "shot_index": 1,
+        "supports": "原10月15日报告黄金原图先完整出现再聚焦右端；明确3950是当时预测。真实金库支持讨论标的。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "mixkit_2862",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/mixkit_2862.mp4",
+          "url": "//mixkit.co/free-stock-video/gold-ingots-on-a-shelf-2862",
+          "provider_id": "mixkit:2862",
+          "sha256": "966cfda0a7c53be7ff29b1553948bf5b4c034d3321bf47f2b3ad16a621bf3115"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_14",
+        "shot_index": 1,
+        "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_39020626",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_39020626.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626",
+          "provider_id": "pexels:39020626",
+          "sha256": "cac6d2afa1ce5c56e9d3ca1374501d1a1cf0a2251ec8e71dde6ac86d8ef174bf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_15",
+        "shot_index": 1,
+        "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_39020626",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_39020626.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626",
+          "provider_id": "pexels:39020626",
+          "sha256": "cac6d2afa1ce5c56e9d3ca1374501d1a1cf0a2251ec8e71dde6ac86d8ef174bf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_16",
+        "shot_index": 1,
+        "supports": "实际3975低点与3950预测在同一数轴比较，量尺演示25美元约0.6%的距离，不补造历史行情。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_39020626",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_39020626.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-trading-data-on-monitors-39020626",
+          "provider_id": "pexels:39020626",
+          "sha256": "cac6d2afa1ce5c56e9d3ca1374501d1a1cf0a2251ec8e71dde6ac86d8ef174bf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_17",
+        "shot_index": 1,
+        "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7580278",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7580278.mp4",
+          "url": "//www.pexels.com/video/man-touching-a-screen-7580278",
+          "provider_id": "pexels:7580278",
+          "sha256": "38fed134ec1c33253d92968786e5374768b83e7dff69d00f080b4bd4254f506f"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_18",
+        "shot_index": 1,
+        "supports": "技术分析实拍打底；3963至3946区域展开成带，3950落在带内。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7580278",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7580278.mp4",
+          "url": "//www.pexels.com/video/man-touching-a-screen-7580278",
+          "provider_id": "pexels:7580278",
+          "sha256": "38fed134ec1c33253d92968786e5374768b83e7dff69d00f080b4bd4254f506f"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_19",
+        "shot_index": 1,
+        "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38875223",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38875223.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-data-display-38875223",
+          "provider_id": "pexels:38875223",
+          "sha256": "d4eb2fcf806740cd8f38efb98c5ab3b3a4eb2942d20519d9dcf363e69a49befe"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_20",
+        "shot_index": 1,
+        "supports": "延续共同价格量尺，下探3890的更深支撑只作技术位，不画为已发生走势。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38875223",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38875223.mp4",
+          "url": "//www.pexels.com/video/dynamic-financial-market-data-display-38875223",
+          "provider_id": "pexels:38875223",
+          "sha256": "d4eb2fcf806740cd8f38efb98c5ab3b3a4eb2942d20519d9dcf363e69a49befe"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_21",
+        "shot_index": 1,
+        "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_37558975",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_37558975.mp4",
+          "url": "//www.pexels.com/video/vibrant-new-york-city-street-scene-at-wall-street-37558975",
+          "provider_id": "pexels:37558975",
+          "sha256": "ab40092c31ac049edf82a7721ff433b9bfaec7fca76afbe0dc6452efc9a6ffbc"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_22",
+        "shot_index": 1,
+        "supports": "华尔街实景；严重股灾使权益资产缩水，投资者变现金，黄金也被售出；条件分支注明极端情景。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_37558975",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_37558975.mp4",
+          "url": "//www.pexels.com/video/vibrant-new-york-city-street-scene-at-wall-street-37558975",
+          "provider_id": "pexels:37558975",
+          "sha256": "ab40092c31ac049edf82a7721ff433b9bfaec7fca76afbe0dc6452efc9a6ffbc"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_23",
+        "shot_index": 1,
+        "supports": "回到分析师真实原照与主要筑底时间窗，区分3500条件分支。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_7579951",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_7579951.mp4",
+          "url": "//www.pexels.com/video/man-monitoring-the-stocks-7579951",
+          "provider_id": "pexels:7579951",
+          "sha256": "5a4dda5415d9c933185c4afe015076d49ae3114ece0129edbe2cff90c9ad8386"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_24",
+        "shot_index": 1,
+        "supports": "美国铸币局实景作贵金属机构资料；原白银报告图聚焦55下方与50趋势线，标明预测支撑。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4987955",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4987955.mp4",
+          "url": "//www.pexels.com/video/panning-shot-of-the-united-states-mint-sign-4987955",
+          "provider_id": "pexels:4987955",
+          "sha256": "b832dcf63b22e298a442b55f1e1ff74d3af4ba1d0a7af47d1b298a1eb68bee9e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_25",
+        "shot_index": 1,
+        "supports": "美国财政建筑实景；揭示原TNX周线真实过程，单位TNX除以10，最后4.988%与5%阈值分开。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_29188213",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_29188213.mp4",
+          "url": "//www.pexels.com/video/historic-government-building-in-washington-dc-29188213",
+          "provider_id": "pexels:29188213",
+          "sha256": "c13e9820d96412da11e6c64d545ac0ac041065ff362fbbdf4ed0ff7f2b97fede"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_26",
+        "shot_index": 1,
+        "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_1797020",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_1797020.mp4",
+          "url": "//www.pexels.com/video/person-using-a-magnifying-glass-on-a-dollar-bill-1797020",
+          "provider_id": "pexels:1797020",
+          "sha256": "a1915fc9c0dcb11b992c377e495dddaa894d0346e4e70edc0995c24a2fd10f82"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_27",
+        "shot_index": 1,
+        "supports": "放大镜检验美元实拍；100格概率格从约70格收缩至不足10格，12月另列风险标签。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_1797020",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_1797020.mp4",
+          "url": "//www.pexels.com/video/person-using-a-magnifying-glass-on-a-dollar-bill-1797020",
+          "provider_id": "pexels:1797020",
+          "sha256": "a1915fc9c0dcb11b992c377e495dddaa894d0346e4e70edc0995c24a2fd10f82"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      },
+      {
+        "scene_id": "scene_28",
+        "shot_index": 1,
+        "supports": "美元钞票实拍和议息日历翻页，决议作为待发生催化；不冒充发布会现场。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4393479",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4393479.mp4",
+          "url": "//www.pexels.com/video/close-up-shot-of-flying-dollar-bills-4393479",
+          "provider_id": "pexels:4393479",
+          "sha256": "18f0d43a8e9a3b5c1f9a6330ffa686617fda357c2ce3515b879e15a2f795c663"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_29",
+        "shot_index": 1,
+        "supports": "真实数钞动作；通胀压力活塞上升推动加息预期标尺，表达条件机制。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_5466779",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_5466779.mp4",
+          "url": "//www.pexels.com/video/a-person-counting-money-5466779",
+          "provider_id": "pexels:5466779",
+          "sha256": "8a822a31b7951cc6a21857b5671be04350b5e0cb3f24f6e7e97abf817507abcd"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_30",
+        "shot_index": 1,
+        "supports": "美元资料打底；预期利息筹码减少、持金机会成本压力解除、黄金承接面稳定，最后指向筑底窗口。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4145888",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4145888.mp4",
+          "url": "//www.pexels.com/video/usa-money-american-bills-4145888",
+          "provider_id": "pexels:4145888",
+          "sha256": "d880ca420fe6a91fce24bbdf78cc808ac2f8ad6808c622f8e209ea70162edb0e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_31",
+        "shot_index": 1,
+        "supports": "市场热图实拍；10月15日至23日八日跨度，分别落定3950预测和3975实际低点，保留差距。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_38711950",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_38711950.mp4",
+          "url": "//www.pexels.com/video/dynamic-stock-market-heatmap-display-38711950",
+          "provider_id": "pexels:38711950",
+          "sha256": "15b21f9bef81c3178b2bb9b4369172f5eaff80aa0954db72d5fd731317076c0e"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_32",
+        "shot_index": 1,
+        "supports": "双屏研究实拍；10月25日最新判断与3950再次出现，标明仍是判断。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_30445098",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_30445098.mp4",
+          "url": "//www.pexels.com/video/focused-trader-analyzing-stocks-on-dual-monitors-30445098",
+          "provider_id": "pexels:30445098",
+          "sha256": "09aca2f2c0214a7ca122c44e475134dd860cd39de545b9689552be295f99f6cc"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_33",
+        "shot_index": 1,
+        "supports": "纽约证券交易所实景；未来一到两周日历与关键观察线，留时间读互动问题。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_4319342",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_4319342.mp4",
+          "url": "//www.pexels.com/video/finance-nyse-wall-street-new-york-city-4319342",
+          "provider_id": "pexels:4319342",
+          "sha256": "bac0b41d934e4393c76079efa946f3376725e20a16a6a9cc4635485e27b58ebf"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_34",
+        "shot_index": 1,
+        "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_5651767",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_5651767.mp4",
+          "url": "//www.pexels.com/video/american-legal-tender-coins-and-currency-5651767",
+          "provider_id": "pexels:5651767",
+          "sha256": "43d04f0a210d05ae867d92162c44005edab411ddd8439ef3aab1b91c43977ddb"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": false
+      },
+      {
+        "scene_id": "scene_35",
+        "shot_index": 1,
+        "supports": "真实美元与硬币实拍继续运动；短语随口播出现，结尾不放封面。",
+        "media_type": "video",
+        "identities": {
+          "source_id": "pexels_5651767",
+          "path": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/materials/pexels_5651767.mp4",
+          "url": "//www.pexels.com/video/american-legal-tender-coins-and-currency-5651767",
+          "provider_id": "pexels:5651767",
+          "sha256": "43d04f0a210d05ae867d92162c44005edab411ddd8439ef3aab1b91c43977ddb"
+        },
+        "reuse_purpose": null,
+        "continuous_from_previous": true
+      }
+    ]
+  },
+  "production_audit": {
+    "status": "passed"
+  },
+  "license_audit": {
+    "status": "passed"
+  },
+  "narration_text_sha256": "ad2b6fecd0e93ecf6f6c2b8d18fc54d47ddc94333d4f73883fb67f6ed56112d2",
+  "visual_approval": {
+    "reviewed_by": "main_model",
+    "notes": "主模型已看编码后35幕发展/中段/落定三帧，共175张实际编码帧及全部切镜边界；已对照实拍、人物、图表、语义、字幕、单位日期出处与收尾。原稿35幕逐字一致；第5期标识和系列封面正确。完整成片以1倍速连续实播189.781秒，seeks=0、rate_changes=0、droppedFrames=0、corruptedFrames=0，真实浏览器回执已保存。全解码无黑场/解码错误，音轨非静音：Overall Peak -6.857734 dB，RMS -27.770670 dB，NaN/Inf均0。3975盘中低点与3995.8日收盘分开，3950为预测，3500为极端条件。主模型画面及播放检查完成；完整人工听审与用户审美接受尚未执行，未发布。"
+  },
+  "full_watch_approval": "normal_speed_playback_completed",
+  "full_human_listening": "not_performed",
+  "user_acceptance": "not_performed",
+  "delivery_readiness": "complete_video_for_user_review",
+  "video": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/黄金观察NO.5-3950美元可能是最后一跌.mp4",
+  "encoded_duration_seconds": 189.733333,
+  "technical_checks": {
+    "revision": "3f09df99ab4c9813d605641e15e1450d4bc2013c77c1937935728bfecbdd3e3f",
+    "status": "technical_pass_visual_review_required",
+    "video": "/Users/henry/Desktop/秒懂金融学院/02_内容生产/视频/金价跌破4000美元后神准分析师最新预判3950美元可能是最后一跌/制作_20261027_NO5/黄金观察NO.5-3950美元可能是最后一跌.mp4",
+    "video_sha256": "15b5bd4415056c7cfe52110b6791f0920075031cc3320d10d357ac7a48384793",
+    "video_frames": 5692,
+    "video_duration_seconds": 189.733333,
+    "audio_duration_seconds": 189.781333,
+    "container_duration_seconds": 189.781333,
+    "full_decode": "passed",
+    "black_intervals": [],
+    "encoded_frames_extracted": 175,
+    "elapsed_seconds": 8.447610458999975,
+    "visual_approval": "not_performed",
+    "full_human_listening": "not_performed"
+  },
+  "playback_check": {
+    "video_sha256": "15b5bd4415056c7cfe52110b6791f0920075031cc3320d10d357ac7a48384793",
+    "rate": 1,
+    "ended": true,
+    "finished": true,
+    "started_at": 1793108635566,
+    "elapsed_seconds": 189.85920000004768,
+    "seeks": 0,
+    "rate_changes": 0,
+    "totalFrames": 5696,
+    "droppedFrames": 0,
+    "corruptedFrames": 0,
+    "played_seconds": 189.781333,
+    "time": 189.781333
+  },
+  "published": false
+}

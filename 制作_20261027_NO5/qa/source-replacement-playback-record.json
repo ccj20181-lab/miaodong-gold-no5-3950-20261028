@@ -1,0 +1,17 @@
+{
+  "started": "2026-10-27T13:16:33.778Z",
+  "completed": true,
+  "ranges": [
+    {
+      "id": "pexels_27616566",
+      "start": 0.1,
+      "duration": 5.9,
+      "started": 24404,
+      "rate": 1,
+      "actualEnd": 6.098583,
+      "wallSeconds": 6.097599999904633
+    }
+  ],
+  "errors": [],
+  "ended": "2026-10-27T13:16:39.944Z"
+}

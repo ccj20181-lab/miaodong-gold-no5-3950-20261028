@@ -1,0 +1,190 @@
+{
+  "text": "然后再看PCE通胀数据会不会重新把加息预期推上去",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.84,
+      "text": "然后再看PCE通胀数据",
+      "tokens": [
+        50365,
+        26636,
+        8623,
+        4200,
+        47,
+        4969,
+        19550,
+        19095,
+        222,
+        33188,
+        26075,
+        106,
+        50457
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09053361826929553,
+      "compression_ratio": 0.8571428571428571,
+      "no_speech_prob": 4.37495439181701e-12,
+      "words": [
+        {
+          "word": "然后",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.98779296875
+        },
+        {
+          "word": "再",
+          "start": 0.36,
+          "end": 0.72,
+          "probability": 0.93212890625
+        },
+        {
+          "word": "看",
+          "start": 0.72,
+          "end": 0.86,
+          "probability": 0.9921875
+        },
+        {
+          "word": "P",
+          "start": 0.86,
+          "end": 1.02,
+          "probability": 0.9560546875
+        },
+        {
+          "word": "CE",
+          "start": 1.02,
+          "end": 1.22,
+          "probability": 0.998046875
+        },
+        {
+          "word": "通",
+          "start": 1.22,
+          "end": 1.38,
+          "probability": 0.990234375
+        },
+        {
+          "word": "胀",
+          "start": 1.38,
+          "end": 1.52,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "数",
+          "start": 1.52,
+          "end": 1.68,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "据",
+          "start": 1.68,
+          "end": 1.84,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.84,
+      "end": 4.04,
+      "text": "会不会重新把加息预期推上去",
+      "tokens": [
+        50457,
+        12949,
+        47928,
+        12624,
+        12560,
+        16075,
+        9990,
+        26460,
+        12501,
+        226,
+        16786,
+        33597,
+        5708,
+        6734,
+        50570
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09053361826929553,
+      "compression_ratio": 0.8571428571428571,
+      "no_speech_prob": 4.37495439181701e-12,
+      "words": [
+        {
+          "word": "会",
+          "start": 1.84,
+          "end": 2.26,
+          "probability": 0.896484375
+        },
+        {
+          "word": "不会",
+          "start": 2.26,
+          "end": 2.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "重",
+          "start": 2.42,
+          "end": 2.6,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "新",
+          "start": 2.6,
+          "end": 2.8,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "把",
+          "start": 2.8,
+          "end": 2.94,
+          "probability": 0.98583984375
+        },
+        {
+          "word": "加",
+          "start": 2.94,
+          "end": 3.08,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "息",
+          "start": 3.08,
+          "end": 3.24,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "预",
+          "start": 3.24,
+          "end": 3.38,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "期",
+          "start": 3.38,
+          "end": 3.52,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "推",
+          "start": 3.52,
+          "end": 3.72,
+          "probability": 0.998046875
+        },
+        {
+          "word": "上",
+          "start": 3.72,
+          "end": 3.86,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "去",
+          "start": 3.86,
+          "end": 4.04,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

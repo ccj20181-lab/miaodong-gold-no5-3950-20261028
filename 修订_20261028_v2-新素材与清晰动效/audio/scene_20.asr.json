@@ -1,0 +1,354 @@
+{
+  "text": "也就是说托尔森丁3950技术支撑区也压在3950附近这里已经成了黄金现在最关键的位置之一",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.68,
+      "text": "也就是说",
+      "tokens": [
+        50365,
+        6404,
+        5620,
+        8090,
+        50401
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11373915343449034,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 7.1305157958723164e-12,
+      "words": [
+        {
+          "word": "也",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "就是",
+          "start": 0.26,
+          "end": 0.44,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "说",
+          "start": 0.44,
+          "end": 0.68,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.68,
+      "end": 2.36,
+      "text": "托尔森丁3950",
+      "tokens": [
+        50401,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        940,
+        223,
+        12493,
+        2803,
+        50485
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11373915343449034,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 7.1305157958723164e-12,
+      "words": [
+        {
+          "word": "托",
+          "start": 0.68,
+          "end": 1.14,
+          "probability": 0.6533203125
+        },
+        {
+          "word": "尔",
+          "start": 1.14,
+          "end": 1.26,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "森",
+          "start": 1.26,
+          "end": 1.4,
+          "probability": 0.998046875
+        },
+        {
+          "word": "丁",
+          "start": 1.4,
+          "end": 1.6,
+          "probability": 0.646484375
+        },
+        {
+          "word": "39",
+          "start": 1.6,
+          "end": 1.84,
+          "probability": 0.994140625
+        },
+        {
+          "word": "50",
+          "start": 1.84,
+          "end": 2.36,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.36,
+      "end": 5.22,
+      "text": "技术支撑区也压在3950附近",
+      "tokens": [
+        50485,
+        32502,
+        1474,
+        107,
+        24400,
+        20559,
+        239,
+        9937,
+        118,
+        6404,
+        5014,
+        233,
+        3581,
+        12493,
+        2803,
+        8842,
+        226,
+        17463,
+        50628
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11373915343449034,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 7.1305157958723164e-12,
+      "words": [
+        {
+          "word": "技",
+          "start": 2.36,
+          "end": 2.96,
+          "probability": 0.89306640625
+        },
+        {
+          "word": "术",
+          "start": 2.96,
+          "end": 3.12,
+          "probability": 1.0
+        },
+        {
+          "word": "支",
+          "start": 3.12,
+          "end": 3.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "撑",
+          "start": 3.22,
+          "end": 3.36,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "区",
+          "start": 3.36,
+          "end": 3.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "也",
+          "start": 3.54,
+          "end": 3.84,
+          "probability": 0.998046875
+        },
+        {
+          "word": "压",
+          "start": 3.84,
+          "end": 4.02,
+          "probability": 0.9873046875
+        },
+        {
+          "word": "在",
+          "start": 4.02,
+          "end": 4.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "39",
+          "start": 4.16,
+          "end": 4.38,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "50",
+          "start": 4.38,
+          "end": 4.9,
+          "probability": 1.0
+        },
+        {
+          "word": "附",
+          "start": 4.9,
+          "end": 5.1,
+          "probability": 0.994140625
+        },
+        {
+          "word": "近",
+          "start": 5.1,
+          "end": 5.22,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.22,
+      "end": 6.6,
+      "text": "这里已经成了黄金",
+      "tokens": [
+        50628,
+        35102,
+        49161,
+        11336,
+        2289,
+        6173,
+        226,
+        19117,
+        50696
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11373915343449034,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 7.1305157958723164e-12,
+      "words": [
+        {
+          "word": "这里",
+          "start": 5.22,
+          "end": 5.78,
+          "probability": 0.994140625
+        },
+        {
+          "word": "已经",
+          "start": 5.78,
+          "end": 6.04,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "成",
+          "start": 6.04,
+          "end": 6.2,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "了",
+          "start": 6.2,
+          "end": 6.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "黄",
+          "start": 6.3,
+          "end": 6.46,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "金",
+          "start": 6.46,
+          "end": 6.6,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 6.6,
+      "end": 7.94,
+      "text": "现在最关键的位置之一",
+      "tokens": [
+        50696,
+        25040,
+        8661,
+        28053,
+        23049,
+        106,
+        1546,
+        11160,
+        34719,
+        9574,
+        2257,
+        50766
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11373915343449034,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 7.1305157958723164e-12,
+      "words": [
+        {
+          "word": "现在",
+          "start": 6.6,
+          "end": 6.84,
+          "probability": 0.9775390625
+        },
+        {
+          "word": "最",
+          "start": 6.84,
+          "end": 7.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "关",
+          "start": 7.04,
+          "end": 7.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "键",
+          "start": 7.22,
+          "end": 7.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "的",
+          "start": 7.36,
+          "end": 7.44,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "位",
+          "start": 7.44,
+          "end": 7.56,
+          "probability": 1.0
+        },
+        {
+          "word": "置",
+          "start": 7.56,
+          "end": 7.7,
+          "probability": 1.0
+        },
+        {
+          "word": "之",
+          "start": 7.7,
+          "end": 7.82,
+          "probability": 1.0
+        },
+        {
+          "word": "一",
+          "start": 7.82,
+          "end": 7.94,
+          "probability": 0.9931640625
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

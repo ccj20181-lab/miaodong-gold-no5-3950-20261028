@@ -1,0 +1,365 @@
+{
+  "text": "再看美债10年期美债收益率上周已经收在5%下方托尔森认为这里可能正在形成10月阶段高点",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.7,
+      "text": "再看美债",
+      "tokens": [
+        50365,
+        8623,
+        4200,
+        9175,
+        2122,
+        118,
+        50398
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09770522201270387,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 7.98586023698089e-12,
+      "words": [
+        {
+          "word": "再",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "看",
+          "start": 0.24,
+          "end": 0.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "美",
+          "start": 0.36,
+          "end": 0.5,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "债",
+          "start": 0.5,
+          "end": 0.7,
+          "probability": 0.9912109375
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.7,
+      "end": 2.14,
+      "text": "10年期美债收益率",
+      "tokens": [
+        50398,
+        3279,
+        5157,
+        16786,
+        9175,
+        2122,
+        118,
+        18681,
+        5419,
+        232,
+        44866,
+        50474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09770522201270387,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 7.98586023698089e-12,
+      "words": [
+        {
+          "word": "10",
+          "start": 0.7,
+          "end": 1.22,
+          "probability": 0.2841796875
+        },
+        {
+          "word": "年",
+          "start": 1.22,
+          "end": 1.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "期",
+          "start": 1.36,
+          "end": 1.5,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "美",
+          "start": 1.5,
+          "end": 1.68,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "债",
+          "start": 1.68,
+          "end": 1.84,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "收",
+          "start": 1.84,
+          "end": 1.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "益",
+          "start": 1.94,
+          "end": 2.06,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "率",
+          "start": 2.06,
+          "end": 2.14,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.14,
+      "end": 3.9,
+      "text": "上周已经收在5%下方",
+      "tokens": [
+        50474,
+        5708,
+        37390,
+        49161,
+        18681,
+        3581,
+        20,
+        4,
+        4438,
+        9249,
+        50561
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09770522201270387,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 7.98586023698089e-12,
+      "words": [
+        {
+          "word": "上",
+          "start": 2.14,
+          "end": 2.44,
+          "probability": 0.998046875
+        },
+        {
+          "word": "周",
+          "start": 2.44,
+          "end": 2.6,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "已经",
+          "start": 2.6,
+          "end": 2.8,
+          "probability": 0.998046875
+        },
+        {
+          "word": "收",
+          "start": 2.8,
+          "end": 2.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "在",
+          "start": 2.96,
+          "end": 3.1,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "5",
+          "start": 3.1,
+          "end": 3.26,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "%",
+          "start": 3.26,
+          "end": 3.56,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "下",
+          "start": 3.56,
+          "end": 3.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "方",
+          "start": 3.7,
+          "end": 3.9,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.9,
+      "end": 4.76,
+      "text": "托尔森认为",
+      "tokens": [
+        50561,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        7422,
+        97,
+        13992,
+        50605
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09770522201270387,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 7.98586023698089e-12,
+      "words": [
+        {
+          "word": "托",
+          "start": 3.9,
+          "end": 4.32,
+          "probability": 0.984375
+        },
+        {
+          "word": "尔",
+          "start": 4.32,
+          "end": 4.38,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "森",
+          "start": 4.38,
+          "end": 4.5,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "认",
+          "start": 4.5,
+          "end": 4.62,
+          "probability": 1.0
+        },
+        {
+          "word": "为",
+          "start": 4.62,
+          "end": 4.76,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 4.76,
+      "end": 6.86,
+      "text": "这里可能正在形成10月阶段高点",
+      "tokens": [
+        50605,
+        35102,
+        16657,
+        15789,
+        3581,
+        30900,
+        11336,
+        3279,
+        6939,
+        10034,
+        114,
+        28427,
+        12979,
+        12579,
+        50710
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09770522201270387,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 7.98586023698089e-12,
+      "words": [
+        {
+          "word": "这里",
+          "start": 4.76,
+          "end": 5.1,
+          "probability": 0.9833984375
+        },
+        {
+          "word": "可能",
+          "start": 5.1,
+          "end": 5.36,
+          "probability": 1.0
+        },
+        {
+          "word": "正",
+          "start": 5.36,
+          "end": 5.54,
+          "probability": 1.0
+        },
+        {
+          "word": "在",
+          "start": 5.54,
+          "end": 5.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "形",
+          "start": 5.7,
+          "end": 5.82,
+          "probability": 1.0
+        },
+        {
+          "word": "成",
+          "start": 5.82,
+          "end": 6.02,
+          "probability": 1.0
+        },
+        {
+          "word": "10",
+          "start": 6.02,
+          "end": 6.2,
+          "probability": 0.79150390625
+        },
+        {
+          "word": "月",
+          "start": 6.2,
+          "end": 6.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "阶",
+          "start": 6.3,
+          "end": 6.44,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "段",
+          "start": 6.44,
+          "end": 6.58,
+          "probability": 1.0
+        },
+        {
+          "word": "高",
+          "start": 6.58,
+          "end": 6.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "点",
+          "start": 6.74,
+          "end": 6.86,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

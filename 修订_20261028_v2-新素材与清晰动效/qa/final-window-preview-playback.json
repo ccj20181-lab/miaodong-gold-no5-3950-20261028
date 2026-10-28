@@ -1,0 +1,26 @@
+{
+  "started": "2026-10-27T23:45:28.118Z",
+  "completed": true,
+  "ranges": [
+    {
+      "id": "scene_08-1.mp4",
+      "start": 0,
+      "duration": 4.550667000000001,
+      "started": 20366.89999985695,
+      "rate": 1,
+      "actualEnd": 4.650667,
+      "wallSeconds": 4.702900000095368
+    },
+    {
+      "id": "scene_33-1.mp4",
+      "start": 0,
+      "duration": 8.625333,
+      "started": 25094,
+      "rate": 1,
+      "actualEnd": 8.719572,
+      "wallSeconds": 8.759299999952317
+    }
+  ],
+  "errors": [],
+  "ended": "2026-10-27T23:45:41.634Z"
+}

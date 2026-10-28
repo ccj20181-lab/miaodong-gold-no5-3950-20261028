@@ -1,0 +1,392 @@
+{
+  "text": "世界黄金协会10月26日最新周报又给了一个强信号本周美联储再次加息的概率已经从一个月前大约70%降到不足10%",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.26,
+      "text": "世界黄金协会10月26日最新周报又给了一个强信号",
+      "tokens": [
+        50365,
+        24486,
+        6173,
+        226,
+        19117,
+        5322,
+        237,
+        12949,
+        3279,
+        6939,
+        10880,
+        6890,
+        8661,
+        12560,
+        37390,
+        49817,
+        17047,
+        23197,
+        2289,
+        20182,
+        5702,
+        118,
+        17665,
+        26987,
+        50530
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0561895211537679,
+      "compression_ratio": 1.0069444444444444,
+      "no_speech_prob": 8.634586101674557e-12,
+      "words": [
+        {
+          "word": "世界",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "黄",
+          "start": 0.3,
+          "end": 0.48,
+          "probability": 0.994140625
+        },
+        {
+          "word": "金",
+          "start": 0.48,
+          "end": 0.58,
+          "probability": 1.0
+        },
+        {
+          "word": "协",
+          "start": 0.58,
+          "end": 0.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "会",
+          "start": 0.7,
+          "end": 0.86,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "10",
+          "start": 0.86,
+          "end": 1.06,
+          "probability": 0.9716796875
+        },
+        {
+          "word": "月",
+          "start": 1.06,
+          "end": 1.18,
+          "probability": 1.0
+        },
+        {
+          "word": "26",
+          "start": 1.18,
+          "end": 1.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "日",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 1.0
+        },
+        {
+          "word": "最",
+          "start": 1.62,
+          "end": 1.78,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "新",
+          "start": 1.78,
+          "end": 1.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "周",
+          "start": 1.92,
+          "end": 2.04,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "报",
+          "start": 2.04,
+          "end": 2.2,
+          "probability": 0.97900390625
+        },
+        {
+          "word": "又",
+          "start": 2.2,
+          "end": 2.4,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "给",
+          "start": 2.4,
+          "end": 2.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "了",
+          "start": 2.54,
+          "end": 2.62,
+          "probability": 1.0
+        },
+        {
+          "word": "一个",
+          "start": 2.62,
+          "end": 2.78,
+          "probability": 1.0
+        },
+        {
+          "word": "强",
+          "start": 2.78,
+          "end": 2.96,
+          "probability": 1.0
+        },
+        {
+          "word": "信",
+          "start": 2.96,
+          "end": 3.08,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "号",
+          "start": 3.08,
+          "end": 3.26,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.26,
+      "end": 5.4,
+      "text": "本周美联储再次加息的概率",
+      "tokens": [
+        50530,
+        8802,
+        37390,
+        9175,
+        8171,
+        242,
+        11518,
+        101,
+        8623,
+        9487,
+        9990,
+        26460,
+        1546,
+        26181,
+        44866,
+        50636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0561895211537679,
+      "compression_ratio": 1.0069444444444444,
+      "no_speech_prob": 8.634586101674557e-12,
+      "words": [
+        {
+          "word": "本",
+          "start": 3.26,
+          "end": 3.66,
+          "probability": 0.98974609375
+        },
+        {
+          "word": "周",
+          "start": 3.66,
+          "end": 3.82,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "美",
+          "start": 3.82,
+          "end": 4.12,
+          "probability": 0.88671875
+        },
+        {
+          "word": "联",
+          "start": 4.12,
+          "end": 4.28,
+          "probability": 1.0
+        },
+        {
+          "word": "储",
+          "start": 4.28,
+          "end": 4.42,
+          "probability": 0.998046875
+        },
+        {
+          "word": "再",
+          "start": 4.42,
+          "end": 4.58,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "次",
+          "start": 4.58,
+          "end": 4.74,
+          "probability": 1.0
+        },
+        {
+          "word": "加",
+          "start": 4.74,
+          "end": 4.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "息",
+          "start": 4.88,
+          "end": 5.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "的",
+          "start": 5.02,
+          "end": 5.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "概",
+          "start": 5.14,
+          "end": 5.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "率",
+          "start": 5.24,
+          "end": 5.4,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.4,
+      "end": 9.12,
+      "text": "已经从一个月前大约70%降到不足10%",
+      "tokens": [
+        50636,
+        49161,
+        35630,
+        20182,
+        6939,
+        8945,
+        3582,
+        16853,
+        99,
+        5867,
+        4,
+        47421,
+        4511,
+        1960,
+        37236,
+        3279,
+        4,
+        50823
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0561895211537679,
+      "compression_ratio": 1.0069444444444444,
+      "no_speech_prob": 8.634586101674557e-12,
+      "words": [
+        {
+          "word": "已经",
+          "start": 5.4,
+          "end": 5.82,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "从",
+          "start": 5.82,
+          "end": 6.04,
+          "probability": 1.0
+        },
+        {
+          "word": "一个",
+          "start": 6.04,
+          "end": 6.22,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "月",
+          "start": 6.22,
+          "end": 6.38,
+          "probability": 1.0
+        },
+        {
+          "word": "前",
+          "start": 6.38,
+          "end": 6.6,
+          "probability": 1.0
+        },
+        {
+          "word": "大",
+          "start": 6.6,
+          "end": 6.86,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "约",
+          "start": 6.86,
+          "end": 7.04,
+          "probability": 1.0
+        },
+        {
+          "word": "70",
+          "start": 7.04,
+          "end": 7.22,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "%",
+          "start": 7.22,
+          "end": 7.8,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "降",
+          "start": 7.8,
+          "end": 8.18,
+          "probability": 0.998046875
+        },
+        {
+          "word": "到",
+          "start": 8.18,
+          "end": 8.34,
+          "probability": 1.0
+        },
+        {
+          "word": "不",
+          "start": 8.34,
+          "end": 8.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "足",
+          "start": 8.48,
+          "end": 8.6,
+          "probability": 1.0
+        },
+        {
+          "word": "10",
+          "start": 8.6,
+          "end": 9.12,
+          "probability": 0.998046875
+        },
+        {
+          "word": "%",
+          "start": 9.12,
+          "end": 9.12,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

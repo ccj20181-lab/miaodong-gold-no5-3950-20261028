@@ -1,0 +1,252 @@
+{
+  "text": "10月25日托尔森在最新一期Weekend Gold Update里给出了非常明确的判断",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.78,
+      "text": "10月25日",
+      "tokens": [
+        50365,
+        3279,
+        6939,
+        6074,
+        6890,
+        50406
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12191591262817383,
+      "compression_ratio": 0.8865979381443299,
+      "no_speech_prob": 6.635709343116858e-12,
+      "words": [
+        {
+          "word": "10",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.923828125
+        },
+        {
+          "word": "月",
+          "start": 0.22,
+          "end": 0.3,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "25",
+          "start": 0.3,
+          "end": 0.56,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "日",
+          "start": 0.56,
+          "end": 0.78,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.78,
+      "end": 3.46,
+      "text": "托尔森在最新一期Weekend Gold Update里",
+      "tokens": [
+        50406,
+        3416,
+        246,
+        1530,
+        242,
+        16407,
+        106,
+        3581,
+        8661,
+        12560,
+        2257,
+        16786,
+        4360,
+        916,
+        521,
+        6731,
+        28923,
+        15759,
+        50540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12191591262817383,
+      "compression_ratio": 0.8865979381443299,
+      "no_speech_prob": 6.635709343116858e-12,
+      "words": [
+        {
+          "word": "托",
+          "start": 0.78,
+          "end": 1.18,
+          "probability": 0.7783203125
+        },
+        {
+          "word": "尔",
+          "start": 1.18,
+          "end": 1.26,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "森",
+          "start": 1.26,
+          "end": 1.38,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "在",
+          "start": 1.38,
+          "end": 1.54,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "最",
+          "start": 1.54,
+          "end": 1.72,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "新",
+          "start": 1.72,
+          "end": 1.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "一",
+          "start": 1.88,
+          "end": 2.0,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "期",
+          "start": 2.0,
+          "end": 2.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "We",
+          "start": 2.16,
+          "end": 2.44,
+          "probability": 0.70556640625
+        },
+        {
+          "word": "ek",
+          "start": 2.44,
+          "end": 2.58,
+          "probability": 0.37451171875
+        },
+        {
+          "word": "end",
+          "start": 2.58,
+          "end": 2.7,
+          "probability": 0.91796875
+        },
+        {
+          "word": " Gold",
+          "start": 2.7,
+          "end": 2.92,
+          "probability": 0.943359375
+        },
+        {
+          "word": " Update",
+          "start": 2.92,
+          "end": 3.28,
+          "probability": 0.9189453125
+        },
+        {
+          "word": "里",
+          "start": 3.28,
+          "end": 3.46,
+          "probability": 0.94677734375
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.46,
+      "end": 5.04,
+      "text": "给出了非常明确的判断",
+      "tokens": [
+        50540,
+        23197,
+        7781,
+        2289,
+        14392,
+        11100,
+        38114,
+        106,
+        1546,
+        2437,
+        97,
+        4307,
+        255,
+        50617
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12191591262817383,
+      "compression_ratio": 0.8865979381443299,
+      "no_speech_prob": 6.635709343116858e-12,
+      "words": [
+        {
+          "word": "给",
+          "start": 3.46,
+          "end": 3.84,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "出",
+          "start": 3.84,
+          "end": 3.98,
+          "probability": 1.0
+        },
+        {
+          "word": "了",
+          "start": 3.98,
+          "end": 4.08,
+          "probability": 1.0
+        },
+        {
+          "word": "非常",
+          "start": 4.08,
+          "end": 4.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "明",
+          "start": 4.3,
+          "end": 4.5,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "确",
+          "start": 4.5,
+          "end": 4.66,
+          "probability": 1.0
+        },
+        {
+          "word": "的",
+          "start": 4.66,
+          "end": 4.72,
+          "probability": 1.0
+        },
+        {
+          "word": "判",
+          "start": 4.72,
+          "end": 4.88,
+          "probability": 1.0
+        },
+        {
+          "word": "断",
+          "start": 4.88,
+          "end": 5.04,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

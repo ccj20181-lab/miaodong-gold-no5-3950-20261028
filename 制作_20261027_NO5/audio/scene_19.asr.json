@@ -1,0 +1,93 @@
+{
+  "text": "再往下才会看向3890美元",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.48,
+      "text": "再往下才会看向3890美元",
+      "tokens": [
+        50365,
+        8623,
+        29510,
+        4438,
+        18888,
+        12949,
+        4200,
+        24282,
+        12625,
+        7771,
+        39433,
+        50493
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11228418350219727,
+      "compression_ratio": 0.7380952380952381,
+      "no_speech_prob": 5.40248835251278e-12,
+      "words": [
+        {
+          "word": "再",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "往",
+          "start": 0.24,
+          "end": 0.38,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "下",
+          "start": 0.38,
+          "end": 0.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "才",
+          "start": 0.58,
+          "end": 1.02,
+          "probability": 0.71533203125
+        },
+        {
+          "word": "会",
+          "start": 1.02,
+          "end": 1.16,
+          "probability": 0.9853515625
+        },
+        {
+          "word": "看",
+          "start": 1.16,
+          "end": 1.26,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "向",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.98828125
+        },
+        {
+          "word": "38",
+          "start": 1.44,
+          "end": 1.86,
+          "probability": 0.95751953125
+        },
+        {
+          "word": "90",
+          "start": 1.86,
+          "end": 2.28,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "美元",
+          "start": 2.28,
+          "end": 2.48,
+          "probability": 0.99755859375
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

@@ -1,0 +1,154 @@
+{
+  "text": "这个变化非常大但12月加息风险还没有消失",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.02,
+      "text": "这个变化非常大",
+      "tokens": [
+        50365,
+        15368,
+        2129,
+        246,
+        23756,
+        14392,
+        3582,
+        50419
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0781921096470045,
+      "compression_ratio": 0.835820895522388,
+      "no_speech_prob": 5.730229225148209e-12,
+      "words": [
+        {
+          "word": "这个",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "变",
+          "start": 0.3,
+          "end": 0.46,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "化",
+          "start": 0.46,
+          "end": 0.56,
+          "probability": 1.0
+        },
+        {
+          "word": "非常",
+          "start": 0.56,
+          "end": 0.78,
+          "probability": 0.998046875
+        },
+        {
+          "word": "大",
+          "start": 0.78,
+          "end": 1.02,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.02,
+      "end": 3.12,
+      "text": "但12月加息风险还没有消失",
+      "tokens": [
+        50419,
+        8395,
+        4762,
+        6939,
+        9990,
+        26460,
+        47209,
+        8842,
+        102,
+        14852,
+        17944,
+        28837,
+        28564,
+        50523
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0781921096470045,
+      "compression_ratio": 0.835820895522388,
+      "no_speech_prob": 5.730229225148209e-12,
+      "words": [
+        {
+          "word": "但",
+          "start": 1.02,
+          "end": 1.44,
+          "probability": 0.62939453125
+        },
+        {
+          "word": "12",
+          "start": 1.44,
+          "end": 1.66,
+          "probability": 0.98583984375
+        },
+        {
+          "word": "月",
+          "start": 1.66,
+          "end": 1.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "加",
+          "start": 1.86,
+          "end": 2.1,
+          "probability": 0.9541015625
+        },
+        {
+          "word": "息",
+          "start": 2.1,
+          "end": 2.24,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "风",
+          "start": 2.24,
+          "end": 2.38,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "险",
+          "start": 2.38,
+          "end": 2.52,
+          "probability": 1.0
+        },
+        {
+          "word": "还",
+          "start": 2.52,
+          "end": 2.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "没有",
+          "start": 2.62,
+          "end": 2.78,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "消",
+          "start": 2.78,
+          "end": 2.94,
+          "probability": 1.0
+        },
+        {
+          "word": "失",
+          "start": 2.94,
+          "end": 3.12,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}
