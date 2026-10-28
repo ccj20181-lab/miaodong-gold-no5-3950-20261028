@@ -1,0 +1,16 @@
+{
+  "name": "gold-no5-motion-upgrade",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/Episode5.tsx",
+    "still": "remotion still src/Episode5.tsx StockVideo --props=stock_props.json",
+    "render": "remotion render src/Episode5.tsx StockVideo --props=stock_props.json"
+  },
+  "dependencies": {
+    "remotion": "4.0.421",
+    "@remotion/cli": "4.0.421",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {"typescript": "5.6.3", "@types/react": "18.3.12"}
+}
